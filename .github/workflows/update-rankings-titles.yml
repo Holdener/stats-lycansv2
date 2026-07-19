@@ -354,6 +354,10 @@ jobs:
           git add data/discord/playerTitles.json docs/data/discord/playerTitles.json 2>/dev/null || true
           git add data/discord/playerAchievements.json docs/data/discord/playerAchievements.json 2>/dev/null || true
           git add data/discord/playerStatsCache.json docs/data/discord/playerStatsCache.json 2>/dev/null || true
+          git add data/anaeecorp/playerRankings.json docs/data/anaeecorp/playerRankings.json 2>/dev/null || true
+          git add data/anaeecorp/playerTitles.json docs/data/anaeecorp/playerTitles.json 2>/dev/null || true
+          git add data/anaeecorp/playerAchievements.json docs/data/anaeecorp/playerAchievements.json 2>/dev/null || true
+          git add data/anaeecorp/playerStatsCache.json docs/data/anaeecorp/playerStatsCache.json 2>/dev/null || true
           
           if ! git diff --cached --quiet; then
             git commit -m "chore: update rankings, titles and achievements $(date '+%Y-%m-%d %H:%M:%S')"
