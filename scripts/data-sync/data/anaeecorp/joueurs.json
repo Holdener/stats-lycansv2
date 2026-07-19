@@ -1,6 +1,46 @@
 {
-  "TotalRecords": 1,
+  "TotalRecords": 14,
   "Players": [
+    {
+      "Joueur": "Adrasse",
+      "SteamID": "76561198272864922",
+      "Image": "https://static-cdn.jtvnw.net/jtv_user_pictures/496ab459-5339-48f4-9eb4-d730d6dc8115-profile_image-70x70.png",
+      "Twitch": "https://www.twitch.tv/adrasse_holton",
+      "Youtube": null,
+      "Couleur": "Rouge"
+    },
+    {
+      "Joueur": "axelwlt",
+      "SteamID": "76561198007547842",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Turquoise"
+    },
+    {
+      "Joueur": "Botmog",
+      "SteamID": "76561198385910638",
+      "Image": null,
+      "Twitch": "https://www.twitch.tv/botmog_",
+      "Youtube": null,
+      "Couleur": "Rouge"
+    },
+    {
+      "Joueur": "CorbaxUwU",
+      "SteamID": "76561199503876418",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Vert foncé"
+    },
+    {
+      "Joueur": "daichi",
+      "SteamID": "76561199562214341",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Gris"
+    },
     {
       "Joueur": "Holdener",
       "SteamID": "76561198064367175",
@@ -8,6 +48,70 @@
       "Twitch": null,
       "Youtube": null,
       "Couleur": "Jaune"
+    },
+    {
+      "Joueur": "Joy",
+      "SteamID": "76561198111374489",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Rouge"
+    },
+    {
+      "Joueur": "Karnarok",
+      "SteamID": "76561198277339785",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Vert pomme"
+    },
+    {
+      "Joueur": "M3lv1",
+      "SteamID": "76561198913595171",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Bleu royal"
+    },
+    {
+      "Joueur": "MioMeph",
+      "SteamID": "76561199001967591",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Violet"
+    },
+    {
+      "Joueur": "MôA",
+      "SteamID": "76561199216324750",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Rouge"
+    },
+    {
+      "Joueur": "Rigner",
+      "SteamID": "76561198047490206",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Orange"
+    },
+    {
+      "Joueur": "Stacy176",
+      "SteamID": "76561198330793890",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Turquoise"
+    },
+    {
+      "Joueur": "Yara",
+      "SteamID": "76561198789380722",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Gris"
     }
   ],
   "description": "Player data extracted from game logs. Social media links not available."
