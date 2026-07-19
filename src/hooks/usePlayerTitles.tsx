@@ -84,9 +84,9 @@ export function usePlayerTitles(playerName?: string | null) {
 
       try {
         // Determine which data source to use based on settings
-        const dataPath = settings.dataSource === 'discord' 
-          ? '/data/discord/playerTitles.json'
-          : '/data/playerTitles.json';
+        const dataPath = settings.dataSource === 'main'
+          ? '/data/playerTitles.json'
+          : `/data/${settings.dataSource}/playerTitles.json`;
 
         const response = await fetch(dataPath);
         

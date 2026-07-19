@@ -25,9 +25,10 @@ export function usePlayerAchievements(playerName?: string | null) {
       setError(null);
 
       try {
-        const dataPath = settings.dataSource === 'discord'
-          ? '/data/discord/playerAchievements.json'
-          : '/data/playerAchievements.json';
+      
+        const dataPath = settings.dataSource === 'main'
+          ? '/data/playerAchievements.json'
+          : `/data/${settings.dataSource}/playerAchievements.json`;
 
         const response = await fetch(dataPath);
 
