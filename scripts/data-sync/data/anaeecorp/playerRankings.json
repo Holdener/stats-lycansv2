@@ -1,0 +1,1457 @@
+{
+  "totalPlayers": 13,
+  "totalGames": 9,
+  "totalModdedGames": 9,
+  "Rankings": {
+    "76561198913595171": {
+      "playerId": "76561198913595171",
+      "playerName": "M3lv1",
+      "allGamesRankings": [
+        {
+          "id": "top-max-kills-game-all",
+          "title": "🏆 Top 6 Record Kills/Partie",
+          "description": "6ème record de kills en une partie: 2 éliminations (atteint 2 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 6,
+          "value": 2,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-all",
+          "title": "⚡ Top 5 Record Kills/Phase",
+          "description": "5ème record de kills en une phase: 2 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 5,
+          "value": 2,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        },
+        {
+          "id": "villageois-series-all",
+          "title": "🏘️ Top 5 Série Villageois",
+          "description": "5ème plus longue série Villageois: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 5,
+          "value": 3,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        }
+      ],
+      "moddedOnlyRankings": [
+        {
+          "id": "top-max-kills-game-modded",
+          "title": "🏆 Top 6 Record Kills/Partie (Parties Moddées)",
+          "description": "6ème record de kills en une partie: 2 éliminations (atteint 2 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 6,
+          "value": 2,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-modded",
+          "title": "⚡ Top 5 Record Kills/Phase (Parties Moddées)",
+          "description": "5ème record de kills en une phase: 2 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 5,
+          "value": 2,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        },
+        {
+          "id": "villageois-series-modded",
+          "title": "🏘️ Top 5 Série Villageois (Parties Moddées)",
+          "description": "5ème plus longue série Villageois: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 5,
+          "value": 3,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        }
+      ]
+    },
+    "76561199001967591": {
+      "playerId": "76561199001967591",
+      "playerName": "MioMeph",
+      "allGamesRankings": [
+        {
+          "id": "top-max-kills-game-all",
+          "title": "🏆 Top 9 Record Kills/Partie",
+          "description": "9ème record de kills en une partie: 1 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 9,
+          "value": 1,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-all",
+          "title": "⚡ Top 8 Record Kills/Phase",
+          "description": "8ème record de kills en une phase: 1 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 8,
+          "value": 1,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        },
+        {
+          "id": "villageois-series-all",
+          "title": "🏘️ Top 5 Série Villageois",
+          "description": "5ème plus longue série Villageois: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 5,
+          "value": 3,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        },
+        {
+          "id": "win-series-all",
+          "title": "🏆 Top 1 Série de Victoires",
+          "description": "1ère plus longue série de victoires: 4 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 1,
+          "value": 4,
+          "totalRanked": 7,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "win-series"
+          }
+        }
+      ],
+      "moddedOnlyRankings": [
+        {
+          "id": "top-max-kills-game-modded",
+          "title": "🏆 Top 9 Record Kills/Partie (Parties Moddées)",
+          "description": "9ème record de kills en une partie: 1 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 9,
+          "value": 1,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-modded",
+          "title": "⚡ Top 8 Record Kills/Phase (Parties Moddées)",
+          "description": "8ème record de kills en une phase: 1 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 8,
+          "value": 1,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        },
+        {
+          "id": "villageois-series-modded",
+          "title": "🏘️ Top 5 Série Villageois (Parties Moddées)",
+          "description": "5ème plus longue série Villageois: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 5,
+          "value": 3,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        },
+        {
+          "id": "win-series-modded",
+          "title": "🏆 Top 1 Série de Victoires (Parties Moddées)",
+          "description": "1ère plus longue série de victoires: 4 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 1,
+          "value": 4,
+          "totalRanked": 7,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "win-series"
+          }
+        }
+      ]
+    },
+    "76561198007547842": {
+      "playerId": "76561198007547842",
+      "playerName": "axelwlt",
+      "allGamesRankings": [
+        {
+          "id": "top-max-kills-game-all",
+          "title": "🏆 Top 3 Record Kills/Partie",
+          "description": "3ème record de kills en une partie: 3 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 3,
+          "value": 3,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-all",
+          "title": "⚡ Top 5 Record Kills/Phase",
+          "description": "5ème record de kills en une phase: 2 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 5,
+          "value": 2,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        }
+      ],
+      "moddedOnlyRankings": [
+        {
+          "id": "top-max-kills-game-modded",
+          "title": "🏆 Top 3 Record Kills/Partie (Parties Moddées)",
+          "description": "3ème record de kills en une partie: 3 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 3,
+          "value": 3,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-modded",
+          "title": "⚡ Top 5 Record Kills/Phase (Parties Moddées)",
+          "description": "5ème record de kills en une phase: 2 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 5,
+          "value": 2,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        }
+      ]
+    },
+    "76561199503876418": {
+      "playerId": "76561199503876418",
+      "playerName": "CorbaxUwU",
+      "allGamesRankings": [
+        {
+          "id": "top-max-kills-game-all",
+          "title": "🏆 Top 7 Record Kills/Partie",
+          "description": "7ème record de kills en une partie: 2 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 7,
+          "value": 2,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-all",
+          "title": "⚡ Top 8 Record Kills/Phase",
+          "description": "8ème record de kills en une phase: 1 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 8,
+          "value": 1,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        },
+        {
+          "id": "villageois-series-all",
+          "title": "🏘️ Top 2 Série Villageois",
+          "description": "2ème plus longue série Villageois: 4 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 4,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        },
+        {
+          "id": "win-series-all",
+          "title": "🏆 Top 2 Série de Victoires",
+          "description": "2ème plus longue série de victoires: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 7,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "win-series"
+          }
+        }
+      ],
+      "moddedOnlyRankings": [
+        {
+          "id": "top-max-kills-game-modded",
+          "title": "🏆 Top 7 Record Kills/Partie (Parties Moddées)",
+          "description": "7ème record de kills en une partie: 2 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 7,
+          "value": 2,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-modded",
+          "title": "⚡ Top 8 Record Kills/Phase (Parties Moddées)",
+          "description": "8ème record de kills en une phase: 1 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 8,
+          "value": 1,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        },
+        {
+          "id": "villageois-series-modded",
+          "title": "🏘️ Top 2 Série Villageois (Parties Moddées)",
+          "description": "2ème plus longue série Villageois: 4 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 4,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        },
+        {
+          "id": "win-series-modded",
+          "title": "🏆 Top 2 Série de Victoires (Parties Moddées)",
+          "description": "2ème plus longue série de victoires: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 7,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "win-series"
+          }
+        }
+      ]
+    },
+    "76561198789380722": {
+      "playerId": "76561198789380722",
+      "playerName": "Yara",
+      "allGamesRankings": [
+        {
+          "id": "villageois-series-all",
+          "title": "🏘️ Top 5 Série Villageois",
+          "description": "5ème plus longue série Villageois: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 5,
+          "value": 3,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        },
+        {
+          "id": "win-series-all",
+          "title": "🏆 Top 2 Série de Victoires",
+          "description": "2ème plus longue série de victoires: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 7,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "win-series"
+          }
+        },
+        {
+          "id": "loss-series-all",
+          "title": "💀 Top 2 Série de Défaites",
+          "description": "2ème plus longue série de défaites: 3 parties consécutives",
+          "type": "bad",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 4,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "loss-series"
+          }
+        }
+      ],
+      "moddedOnlyRankings": [
+        {
+          "id": "villageois-series-modded",
+          "title": "🏘️ Top 5 Série Villageois (Parties Moddées)",
+          "description": "5ème plus longue série Villageois: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 5,
+          "value": 3,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        },
+        {
+          "id": "win-series-modded",
+          "title": "🏆 Top 2 Série de Victoires (Parties Moddées)",
+          "description": "2ème plus longue série de victoires: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 7,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "win-series"
+          }
+        },
+        {
+          "id": "loss-series-modded",
+          "title": "💀 Top 2 Série de Défaites (Parties Moddées)",
+          "description": "2ème plus longue série de défaites: 3 parties consécutives",
+          "type": "bad",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 4,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "loss-series"
+          }
+        }
+      ]
+    },
+    "76561198111374489": {
+      "playerId": "76561198111374489",
+      "playerName": "Joy",
+      "allGamesRankings": [
+        {
+          "id": "top-max-kills-game-all",
+          "title": "🏆 Top 1 Record Kills/Partie",
+          "description": "1er record de kills en une partie: 5 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 1,
+          "value": 5,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-all",
+          "title": "⚡ Top 2 Record Kills/Phase",
+          "description": "2ème record de kills en une phase: 3 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        },
+        {
+          "id": "villageois-series-all",
+          "title": "🏘️ Top 5 Série Villageois",
+          "description": "5ème plus longue série Villageois: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 5,
+          "value": 3,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        },
+        {
+          "id": "loup-series-all",
+          "title": "🐺 Top 1 Série Loup",
+          "description": "1ère plus longue série Loup: 2 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 1,
+          "value": 2,
+          "totalRanked": 1,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "loup-series"
+          }
+        },
+        {
+          "id": "win-series-all",
+          "title": "🏆 Top 2 Série de Victoires",
+          "description": "2ème plus longue série de victoires: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 7,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "win-series"
+          }
+        },
+        {
+          "id": "loss-series-all",
+          "title": "💀 Top 1 Série de Défaites",
+          "description": "1ère plus longue série de défaites: 5 parties consécutives",
+          "type": "bad",
+          "category": "series",
+          "rank": 1,
+          "value": 5,
+          "totalRanked": 4,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "loss-series"
+          }
+        }
+      ],
+      "moddedOnlyRankings": [
+        {
+          "id": "top-max-kills-game-modded",
+          "title": "🏆 Top 1 Record Kills/Partie (Parties Moddées)",
+          "description": "1er record de kills en une partie: 5 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 1,
+          "value": 5,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-modded",
+          "title": "⚡ Top 2 Record Kills/Phase (Parties Moddées)",
+          "description": "2ème record de kills en une phase: 3 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        },
+        {
+          "id": "villageois-series-modded",
+          "title": "🏘️ Top 5 Série Villageois (Parties Moddées)",
+          "description": "5ème plus longue série Villageois: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 5,
+          "value": 3,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        },
+        {
+          "id": "loup-series-modded",
+          "title": "🐺 Top 1 Série Loup (Parties Moddées)",
+          "description": "1ère plus longue série Loup: 2 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 1,
+          "value": 2,
+          "totalRanked": 1,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "loup-series"
+          }
+        },
+        {
+          "id": "win-series-modded",
+          "title": "🏆 Top 2 Série de Victoires (Parties Moddées)",
+          "description": "2ème plus longue série de victoires: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 7,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "win-series"
+          }
+        },
+        {
+          "id": "loss-series-modded",
+          "title": "💀 Top 1 Série de Défaites (Parties Moddées)",
+          "description": "1ère plus longue série de défaites: 5 parties consécutives",
+          "type": "bad",
+          "category": "series",
+          "rank": 1,
+          "value": 5,
+          "totalRanked": 4,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "loss-series"
+          }
+        }
+      ]
+    },
+    "76561198064367175": {
+      "playerId": "76561198064367175",
+      "playerName": "Holdener",
+      "allGamesRankings": [
+        {
+          "id": "top-max-kills-game-all",
+          "title": "🏆 Top 8 Record Kills/Partie",
+          "description": "8ème record de kills en une partie: 1 éliminations (atteint 2 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 8,
+          "value": 1,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-all",
+          "title": "⚡ Top 7 Record Kills/Phase",
+          "description": "7ème record de kills en une phase: 1 éliminations (atteint 2 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 7,
+          "value": 1,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        },
+        {
+          "id": "villageois-series-all",
+          "title": "🏘️ Top 2 Série Villageois",
+          "description": "2ème plus longue série Villageois: 4 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 4,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        },
+        {
+          "id": "win-series-all",
+          "title": "🏆 Top 2 Série de Victoires",
+          "description": "2ème plus longue série de victoires: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 7,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "win-series"
+          }
+        }
+      ],
+      "moddedOnlyRankings": [
+        {
+          "id": "top-max-kills-game-modded",
+          "title": "🏆 Top 8 Record Kills/Partie (Parties Moddées)",
+          "description": "8ème record de kills en une partie: 1 éliminations (atteint 2 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 8,
+          "value": 1,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-modded",
+          "title": "⚡ Top 7 Record Kills/Phase (Parties Moddées)",
+          "description": "7ème record de kills en une phase: 1 éliminations (atteint 2 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 7,
+          "value": 1,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        },
+        {
+          "id": "villageois-series-modded",
+          "title": "🏘️ Top 2 Série Villageois (Parties Moddées)",
+          "description": "2ème plus longue série Villageois: 4 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 4,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        },
+        {
+          "id": "win-series-modded",
+          "title": "🏆 Top 2 Série de Victoires (Parties Moddées)",
+          "description": "2ème plus longue série de victoires: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 7,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "win-series"
+          }
+        }
+      ]
+    },
+    "76561198277339785": {
+      "playerId": "76561198277339785",
+      "playerName": "Karnarok",
+      "allGamesRankings": [
+        {
+          "id": "villageois-series-all",
+          "title": "🏘️ Top 2 Série Villageois",
+          "description": "2ème plus longue série Villageois: 4 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 4,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        },
+        {
+          "id": "win-series-all",
+          "title": "🏆 Top 2 Série de Victoires",
+          "description": "2ème plus longue série de victoires: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 7,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "win-series"
+          }
+        },
+        {
+          "id": "loss-series-all",
+          "title": "💀 Top 2 Série de Défaites",
+          "description": "2ème plus longue série de défaites: 3 parties consécutives",
+          "type": "bad",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 4,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "loss-series"
+          }
+        }
+      ],
+      "moddedOnlyRankings": [
+        {
+          "id": "villageois-series-modded",
+          "title": "🏘️ Top 2 Série Villageois (Parties Moddées)",
+          "description": "2ème plus longue série Villageois: 4 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 4,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        },
+        {
+          "id": "win-series-modded",
+          "title": "🏆 Top 2 Série de Victoires (Parties Moddées)",
+          "description": "2ème plus longue série de victoires: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 7,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "win-series"
+          }
+        },
+        {
+          "id": "loss-series-modded",
+          "title": "💀 Top 2 Série de Défaites (Parties Moddées)",
+          "description": "2ème plus longue série de défaites: 3 parties consécutives",
+          "type": "bad",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 4,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "loss-series"
+          }
+        }
+      ]
+    },
+    "76561199216324750": {
+      "playerId": "76561199216324750",
+      "playerName": "MôA",
+      "allGamesRankings": [
+        {
+          "id": "top-max-kills-game-all",
+          "title": "🏆 Top 9 Record Kills/Partie",
+          "description": "9ème record de kills en une partie: 1 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 9,
+          "value": 1,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-all",
+          "title": "⚡ Top 8 Record Kills/Phase",
+          "description": "8ème record de kills en une phase: 1 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 8,
+          "value": 1,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        },
+        {
+          "id": "villageois-series-all",
+          "title": "🏘️ Top 5 Série Villageois",
+          "description": "5ème plus longue série Villageois: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 5,
+          "value": 3,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        },
+        {
+          "id": "aggressiveness-all",
+          "title": "🚨 Rang 1 Score d'Agressivité aux votes",
+          "description": "1er score d'agressivité: -17.2 (min. 25 meetings)",
+          "type": "good",
+          "category": "voting",
+          "rank": 1,
+          "value": -17.2,
+          "totalRanked": 1,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "votingStats"
+          }
+        },
+        {
+          "id": "voting-accuracy-all",
+          "title": "🎯 Rang 1 Précision des Votes",
+          "description": "1er précision des votes contre le camp adverse: 100.0% (min. 25 meetings)",
+          "type": "good",
+          "category": "voting",
+          "rank": 1,
+          "value": 100,
+          "totalRanked": 1,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "votingStats"
+          }
+        }
+      ],
+      "moddedOnlyRankings": [
+        {
+          "id": "top-max-kills-game-modded",
+          "title": "🏆 Top 9 Record Kills/Partie (Parties Moddées)",
+          "description": "9ème record de kills en une partie: 1 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 9,
+          "value": 1,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-modded",
+          "title": "⚡ Top 8 Record Kills/Phase (Parties Moddées)",
+          "description": "8ème record de kills en une phase: 1 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 8,
+          "value": 1,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        },
+        {
+          "id": "villageois-series-modded",
+          "title": "🏘️ Top 5 Série Villageois (Parties Moddées)",
+          "description": "5ème plus longue série Villageois: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 5,
+          "value": 3,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        },
+        {
+          "id": "aggressiveness-modded",
+          "title": "🚨 Rang 1 Score d'Agressivité aux votes (Parties Moddées)",
+          "description": "1er score d'agressivité: -17.2 (min. 25 meetings)",
+          "type": "good",
+          "category": "voting",
+          "rank": 1,
+          "value": -17.2,
+          "totalRanked": 1,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "votingStats"
+          }
+        },
+        {
+          "id": "voting-accuracy-modded",
+          "title": "🎯 Rang 1 Précision des Votes (Parties Moddées)",
+          "description": "1er précision des votes contre le camp adverse: 100.0% (min. 25 meetings)",
+          "type": "good",
+          "category": "voting",
+          "rank": 1,
+          "value": 100,
+          "totalRanked": 1,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "votingStats"
+          }
+        }
+      ]
+    },
+    "76561198330793890": {
+      "playerId": "76561198330793890",
+      "playerName": "Stacy176",
+      "allGamesRankings": [
+        {
+          "id": "top-max-kills-game-all",
+          "title": "🏆 Top 2 Record Kills/Partie",
+          "description": "2ème record de kills en une partie: 4 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 2,
+          "value": 4,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-all",
+          "title": "⚡ Top 1 Record Kills/Phase",
+          "description": "1er record de kills en une phase: 4 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 1,
+          "value": 4,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        },
+        {
+          "id": "villageois-series-all",
+          "title": "🏘️ Top 5 Série Villageois",
+          "description": "5ème plus longue série Villageois: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 5,
+          "value": 3,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        },
+        {
+          "id": "win-series-all",
+          "title": "🏆 Top 2 Série de Victoires",
+          "description": "2ème plus longue série de victoires: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 7,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "win-series"
+          }
+        },
+        {
+          "id": "loss-series-all",
+          "title": "💀 Top 2 Série de Défaites",
+          "description": "2ème plus longue série de défaites: 3 parties consécutives",
+          "type": "bad",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 4,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "loss-series"
+          }
+        }
+      ],
+      "moddedOnlyRankings": [
+        {
+          "id": "top-max-kills-game-modded",
+          "title": "🏆 Top 2 Record Kills/Partie (Parties Moddées)",
+          "description": "2ème record de kills en une partie: 4 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 2,
+          "value": 4,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-modded",
+          "title": "⚡ Top 1 Record Kills/Phase (Parties Moddées)",
+          "description": "1er record de kills en une phase: 4 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 1,
+          "value": 4,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        },
+        {
+          "id": "villageois-series-modded",
+          "title": "🏘️ Top 5 Série Villageois (Parties Moddées)",
+          "description": "5ème plus longue série Villageois: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 5,
+          "value": 3,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        },
+        {
+          "id": "win-series-modded",
+          "title": "🏆 Top 2 Série de Victoires (Parties Moddées)",
+          "description": "2ème plus longue série de victoires: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 7,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "win-series"
+          }
+        },
+        {
+          "id": "loss-series-modded",
+          "title": "💀 Top 2 Série de Défaites (Parties Moddées)",
+          "description": "2ème plus longue série de défaites: 3 parties consécutives",
+          "type": "bad",
+          "category": "series",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 4,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "loss-series"
+          }
+        }
+      ]
+    },
+    "76561198047490206": {
+      "playerId": "76561198047490206",
+      "playerName": "Rigner",
+      "allGamesRankings": [
+        {
+          "id": "top-max-kills-game-all",
+          "title": "🏆 Top 3 Record Kills/Partie",
+          "description": "3ème record de kills en une partie: 3 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 3,
+          "value": 3,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-all",
+          "title": "⚡ Top 2 Record Kills/Phase",
+          "description": "2ème record de kills en une phase: 3 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        }
+      ],
+      "moddedOnlyRankings": [
+        {
+          "id": "top-max-kills-game-modded",
+          "title": "🏆 Top 3 Record Kills/Partie (Parties Moddées)",
+          "description": "3ème record de kills en une partie: 3 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 3,
+          "value": 3,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-modded",
+          "title": "⚡ Top 2 Record Kills/Phase (Parties Moddées)",
+          "description": "2ème record de kills en une phase: 3 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 2,
+          "value": 3,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        }
+      ]
+    },
+    "76561199562214341": {
+      "playerId": "76561199562214341",
+      "playerName": "daichi",
+      "allGamesRankings": [
+        {
+          "id": "villageois-series-all",
+          "title": "🏘️ Top 1 Série Villageois",
+          "description": "1ère plus longue série Villageois: 5 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 1,
+          "value": 5,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        }
+      ],
+      "moddedOnlyRankings": [
+        {
+          "id": "villageois-series-modded",
+          "title": "🏘️ Top 1 Série Villageois (Parties Moddées)",
+          "description": "1ère plus longue série Villageois: 5 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 1,
+          "value": 5,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        }
+      ]
+    },
+    "76561198272864922": {
+      "playerId": "76561198272864922",
+      "playerName": "Adrasse",
+      "allGamesRankings": [
+        {
+          "id": "top-max-kills-game-all",
+          "title": "🏆 Top 3 Record Kills/Partie",
+          "description": "3ème record de kills en une partie: 3 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 3,
+          "value": 3,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-all",
+          "title": "⚡ Top 4 Record Kills/Phase",
+          "description": "4ème record de kills en une phase: 2 éliminations (atteint 2 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 4,
+          "value": 2,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        },
+        {
+          "id": "villageois-series-all",
+          "title": "🏘️ Top 5 Série Villageois",
+          "description": "5ème plus longue série Villageois: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 5,
+          "value": 3,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        }
+      ],
+      "moddedOnlyRankings": [
+        {
+          "id": "top-max-kills-game-modded",
+          "title": "🏆 Top 3 Record Kills/Partie (Parties Moddées)",
+          "description": "3ème record de kills en une partie: 3 éliminations (atteint 1 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 3,
+          "value": 3,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-game"
+          }
+        },
+        {
+          "id": "top-max-kills-phase-modded",
+          "title": "⚡ Top 4 Record Kills/Phase (Parties Moddées)",
+          "description": "4ème record de kills en une phase: 2 éliminations (atteint 2 fois)",
+          "type": "good",
+          "category": "kills",
+          "rank": 4,
+          "value": 2,
+          "totalRanked": 10,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "deathStats",
+            "chartSection": "max-kills-per-phase"
+          }
+        },
+        {
+          "id": "villageois-series-modded",
+          "title": "🏘️ Top 5 Série Villageois (Parties Moddées)",
+          "description": "5ème plus longue série Villageois: 3 parties consécutives",
+          "type": "good",
+          "category": "series",
+          "rank": 5,
+          "value": 3,
+          "totalRanked": 11,
+          "redirectTo": {
+            "tab": "rankings",
+            "subTab": "series",
+            "chartSection": "villageois-series"
+          }
+        }
+      ]
+    }
+  }
+}

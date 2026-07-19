@@ -1,0 +1,5241 @@
+{
+  "version": "2.0.0",
+  "lastUpdated": "2026-07-19T22:15:58.346Z",
+  "lastProcessedGameId": null,
+  "allGames": {
+    "totalGames": 9,
+    "playerStats": {
+      "76561198913595171": {
+        "playerName": "M3lv1",
+        "playerId": "76561198913595171",
+        "gamesPlayed": 7,
+        "wins": 4,
+        "camps": {
+          "villageois": {
+            "played": 5,
+            "won": 4
+          },
+          "loups": {
+            "played": 2,
+            "won": 0
+          },
+          "solo": {
+            "played": 0,
+            "won": 0
+          }
+        },
+        "player": "76561198913595171",
+        "gamesPlayedPercent": "77.8",
+        "winPercent": "57.1"
+      },
+      "76561199001967591": {
+        "playerName": "MioMeph",
+        "playerId": "76561199001967591",
+        "gamesPlayed": 9,
+        "wins": 6,
+        "camps": {
+          "villageois": {
+            "played": 8,
+            "won": 6
+          },
+          "loups": {
+            "played": 1,
+            "won": 0
+          },
+          "solo": {
+            "played": 0,
+            "won": 0
+          }
+        },
+        "player": "76561199001967591",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "66.7"
+      },
+      "76561198007547842": {
+        "playerName": "axelwlt",
+        "playerId": "76561198007547842",
+        "gamesPlayed": 9,
+        "wins": 3,
+        "camps": {
+          "villageois": {
+            "played": 6,
+            "won": 3
+          },
+          "loups": {
+            "played": 1,
+            "won": 0
+          },
+          "solo": {
+            "played": 2,
+            "won": 0
+          }
+        },
+        "player": "76561198007547842",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "33.3"
+      },
+      "76561199503876418": {
+        "playerName": "CorbaxUwU",
+        "playerId": "76561199503876418",
+        "gamesPlayed": 8,
+        "wins": 5,
+        "camps": {
+          "villageois": {
+            "played": 6,
+            "won": 5
+          },
+          "loups": {
+            "played": 2,
+            "won": 0
+          },
+          "solo": {
+            "played": 0,
+            "won": 0
+          }
+        },
+        "player": "76561199503876418",
+        "gamesPlayedPercent": "88.9",
+        "winPercent": "62.5"
+      },
+      "76561198789380722": {
+        "playerName": "Yara",
+        "playerId": "76561198789380722",
+        "gamesPlayed": 9,
+        "wins": 4,
+        "camps": {
+          "villageois": {
+            "played": 6,
+            "won": 4
+          },
+          "loups": {
+            "played": 0,
+            "won": 0
+          },
+          "solo": {
+            "played": 3,
+            "won": 0
+          }
+        },
+        "player": "76561198789380722",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "44.4"
+      },
+      "76561198111374489": {
+        "playerName": "Joy",
+        "playerId": "76561198111374489",
+        "gamesPlayed": 9,
+        "wins": 4,
+        "camps": {
+          "villageois": {
+            "played": 4,
+            "won": 3
+          },
+          "loups": {
+            "played": 4,
+            "won": 1
+          },
+          "solo": {
+            "played": 1,
+            "won": 0
+          }
+        },
+        "player": "76561198111374489",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "44.4"
+      },
+      "76561198064367175": {
+        "playerName": "Holdener",
+        "playerId": "76561198064367175",
+        "gamesPlayed": 9,
+        "wins": 6,
+        "camps": {
+          "villageois": {
+            "played": 8,
+            "won": 6
+          },
+          "loups": {
+            "played": 1,
+            "won": 0
+          },
+          "solo": {
+            "played": 0,
+            "won": 0
+          }
+        },
+        "player": "76561198064367175",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "66.7"
+      },
+      "76561198277339785": {
+        "playerName": "Karnarok",
+        "playerId": "76561198277339785",
+        "gamesPlayed": 9,
+        "wins": 5,
+        "camps": {
+          "villageois": {
+            "played": 7,
+            "won": 5
+          },
+          "loups": {
+            "played": 1,
+            "won": 0
+          },
+          "solo": {
+            "played": 1,
+            "won": 0
+          }
+        },
+        "player": "76561198277339785",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "55.6"
+      },
+      "76561199216324750": {
+        "playerName": "MôA",
+        "playerId": "76561199216324750",
+        "gamesPlayed": 9,
+        "wins": 4,
+        "camps": {
+          "villageois": {
+            "played": 4,
+            "won": 3
+          },
+          "loups": {
+            "played": 1,
+            "won": 0
+          },
+          "solo": {
+            "played": 4,
+            "won": 1
+          }
+        },
+        "player": "76561199216324750",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "44.4"
+      },
+      "76561198330793890": {
+        "playerName": "Stacy176",
+        "playerId": "76561198330793890",
+        "gamesPlayed": 9,
+        "wins": 6,
+        "camps": {
+          "villageois": {
+            "played": 7,
+            "won": 5
+          },
+          "loups": {
+            "played": 2,
+            "won": 1
+          },
+          "solo": {
+            "played": 0,
+            "won": 0
+          }
+        },
+        "player": "76561198330793890",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "66.7"
+      },
+      "76561198047490206": {
+        "playerName": "Rigner",
+        "playerId": "76561198047490206",
+        "gamesPlayed": 9,
+        "wins": 3,
+        "camps": {
+          "villageois": {
+            "played": 4,
+            "won": 2
+          },
+          "loups": {
+            "played": 2,
+            "won": 0
+          },
+          "solo": {
+            "played": 3,
+            "won": 1
+          }
+        },
+        "player": "76561198047490206",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "33.3"
+      },
+      "76561199562214341": {
+        "playerName": "daichi",
+        "playerId": "76561199562214341",
+        "gamesPlayed": 7,
+        "wins": 4,
+        "camps": {
+          "villageois": {
+            "played": 6,
+            "won": 4
+          },
+          "loups": {
+            "played": 0,
+            "won": 0
+          },
+          "solo": {
+            "played": 1,
+            "won": 0
+          }
+        },
+        "player": "76561199562214341",
+        "gamesPlayedPercent": "77.8",
+        "winPercent": "57.1"
+      },
+      "76561198272864922": {
+        "playerName": "Adrasse",
+        "playerId": "76561198272864922",
+        "gamesPlayed": 7,
+        "wins": 4,
+        "camps": {
+          "villageois": {
+            "played": 6,
+            "won": 4
+          },
+          "loups": {
+            "played": 1,
+            "won": 0
+          },
+          "solo": {
+            "played": 0,
+            "won": 0
+          }
+        },
+        "player": "76561198272864922",
+        "gamesPlayedPercent": "77.8",
+        "winPercent": "57.1"
+      }
+    },
+    "seriesState": {},
+    "mapStats": [
+      {
+        "player": "76561198913595171",
+        "playerName": "M3lv1",
+        "playerId": "76561198913595171",
+        "villageWinRate": 57.14285714285714,
+        "villageGames": 7,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561199001967591",
+        "playerName": "MioMeph",
+        "playerId": "76561199001967591",
+        "villageWinRate": 66.66666666666666,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561198007547842",
+        "playerName": "axelwlt",
+        "playerId": "76561198007547842",
+        "villageWinRate": 33.33333333333333,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561199503876418",
+        "playerName": "CorbaxUwU",
+        "playerId": "76561199503876418",
+        "villageWinRate": 62.5,
+        "villageGames": 8,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561198789380722",
+        "playerName": "Yara",
+        "playerId": "76561198789380722",
+        "villageWinRate": 44.44444444444444,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561198111374489",
+        "playerName": "Joy",
+        "playerId": "76561198111374489",
+        "villageWinRate": 44.44444444444444,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561198064367175",
+        "playerName": "Holdener",
+        "playerId": "76561198064367175",
+        "villageWinRate": 66.66666666666666,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561198277339785",
+        "playerName": "Karnarok",
+        "playerId": "76561198277339785",
+        "villageWinRate": 55.55555555555556,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561199216324750",
+        "playerName": "MôA",
+        "playerId": "76561199216324750",
+        "villageWinRate": 44.44444444444444,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561198330793890",
+        "playerName": "Stacy176",
+        "playerId": "76561198330793890",
+        "villageWinRate": 66.66666666666666,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561198047490206",
+        "playerName": "Rigner",
+        "playerId": "76561198047490206",
+        "villageWinRate": 33.33333333333333,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561199562214341",
+        "playerName": "daichi",
+        "playerId": "76561199562214341",
+        "villageWinRate": 57.14285714285714,
+        "villageGames": 7,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561198272864922",
+        "playerName": "Adrasse",
+        "playerId": "76561198272864922",
+        "villageWinRate": 57.14285714285714,
+        "villageGames": 7,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      }
+    ],
+    "deathStats": {
+      "totalDeaths": 51,
+      "totalGames": 9,
+      "averageDeathsPerGame": 5.666666666666667,
+      "killerStats": [
+        {
+          "killerId": "76561198111374489",
+          "killerName": "Joy",
+          "kills": 12,
+          "percentage": 23.52941176470588,
+          "gamesPlayed": 9,
+          "averageKillsPerGame": 1.3333333333333333,
+          "killsByDeathType": {
+            "BY_WOLF": 9,
+            "SURVIVALIST_NOT_SAVED": 2,
+            "SEER": 1
+          }
+        },
+        {
+          "killerId": "76561198330793890",
+          "killerName": "Stacy176",
+          "kills": 7,
+          "percentage": 13.725490196078432,
+          "gamesPlayed": 9,
+          "averageKillsPerGame": 0.7777777777777778,
+          "killsByDeathType": {
+            "BY_WOLF": 6,
+            "SURVIVALIST_NOT_SAVED": 1
+          }
+        },
+        {
+          "killerId": "76561198047490206",
+          "killerName": "Rigner",
+          "kills": 5,
+          "percentage": 9.803921568627452,
+          "gamesPlayed": 9,
+          "averageKillsPerGame": 0.5555555555555556,
+          "killsByDeathType": {
+            "BY_WOLF": 5
+          }
+        },
+        {
+          "killerId": "76561198272864922",
+          "killerName": "Adrasse",
+          "kills": 5,
+          "percentage": 9.803921568627452,
+          "gamesPlayed": 7,
+          "averageKillsPerGame": 0.7142857142857143,
+          "killsByDeathType": {
+            "BY_ZOMBIE": 3,
+            "BY_WOLF": 2
+          }
+        },
+        {
+          "killerId": "76561198913595171",
+          "killerName": "M3lv1",
+          "kills": 4,
+          "percentage": 7.8431372549019605,
+          "gamesPlayed": 7,
+          "averageKillsPerGame": 0.5714285714285714,
+          "killsByDeathType": {
+            "BY_WOLF": 4
+          }
+        },
+        {
+          "killerId": "76561198007547842",
+          "killerName": "axelwlt",
+          "kills": 4,
+          "percentage": 7.8431372549019605,
+          "gamesPlayed": 9,
+          "averageKillsPerGame": 0.4444444444444444,
+          "killsByDeathType": {
+            "BY_WOLF": 3,
+            "BY_ZOMBIE": 1
+          }
+        },
+        {
+          "killerId": "76561198064367175",
+          "killerName": "Holdener",
+          "kills": 2,
+          "percentage": 3.9215686274509802,
+          "gamesPlayed": 9,
+          "averageKillsPerGame": 0.2222222222222222,
+          "killsByDeathType": {
+            "BY_WOLF": 1,
+            "BY_ZOMBIE": 1
+          }
+        },
+        {
+          "killerId": "76561199503876418",
+          "killerName": "CorbaxUwU",
+          "kills": 2,
+          "percentage": 3.9215686274509802,
+          "gamesPlayed": 8,
+          "averageKillsPerGame": 0.25,
+          "killsByDeathType": {
+            "SEER": 1,
+            "BY_WOLF": 1
+          }
+        },
+        {
+          "killerId": "76561199216324750",
+          "killerName": "MôA",
+          "kills": 1,
+          "percentage": 1.9607843137254901,
+          "gamesPlayed": 9,
+          "averageKillsPerGame": 0.1111111111111111,
+          "killsByDeathType": {
+            "BY_WOLF": 1
+          }
+        },
+        {
+          "killerId": "76561199001967591",
+          "killerName": "MioMeph",
+          "kills": 1,
+          "percentage": 1.9607843137254901,
+          "gamesPlayed": 9,
+          "averageKillsPerGame": 0.1111111111111111,
+          "killsByDeathType": {
+            "BY_WOLF": 1
+          }
+        }
+      ],
+      "playerDeathStats": [
+        {
+          "player": "76561198913595171",
+          "playerName": "M3lv1",
+          "totalDeaths": 6,
+          "day1Deaths": 0,
+          "survivalDay1Rate": 100,
+          "deathsByType": {
+            "VOTED": 1,
+            "BY_WOLF": 4,
+            "SEER": 1
+          },
+          "killedBy": {
+            "MôA": 1,
+            "Stacy176": 1,
+            "CorbaxUwU": 1,
+            "Rigner": 1,
+            "Joy": 1
+          },
+          "gamesPlayed": 7,
+          "deathRate": 0.8571428571428571
+        },
+        {
+          "player": "76561198789380722",
+          "playerName": "Yara",
+          "totalDeaths": 6,
+          "day1Deaths": 1,
+          "survivalDay1Rate": 88.88888888888889,
+          "deathsByType": {
+            "BY_WOLF": 4,
+            "BY_ZOMBIE": 1,
+            "SEER": 1
+          },
+          "killedBy": {
+            "Rigner": 1,
+            "M3lv1": 1,
+            "Adrasse": 2,
+            "Joy": 1,
+            "Stacy176": 1
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.6666666666666666
+        },
+        {
+          "player": "76561198064367175",
+          "playerName": "Holdener",
+          "totalDeaths": 5,
+          "day1Deaths": 1,
+          "survivalDay1Rate": 88.88888888888889,
+          "deathsByType": {
+            "BY_WOLF": 4,
+            "BY_ZOMBIE": 1
+          },
+          "killedBy": {
+            "Rigner": 1,
+            "axelwlt": 1,
+            "Adrasse": 1,
+            "Joy": 2
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.5555555555555556
+        },
+        {
+          "player": "76561198277339785",
+          "playerName": "Karnarok",
+          "totalDeaths": 5,
+          "day1Deaths": 1,
+          "survivalDay1Rate": 88.88888888888889,
+          "deathsByType": {
+            "BY_WOLF": 3,
+            "VOTED": 1,
+            "STARVATION": 1
+          },
+          "killedBy": {
+            "M3lv1": 1,
+            "Joy": 1,
+            "Stacy176": 1
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.5555555555555556
+        },
+        {
+          "player": "76561199001967591",
+          "playerName": "MioMeph",
+          "totalDeaths": 5,
+          "day1Deaths": 1,
+          "survivalDay1Rate": 88.88888888888889,
+          "deathsByType": {
+            "BY_WOLF": 4,
+            "VOTED": 1
+          },
+          "killedBy": {
+            "axelwlt": 1,
+            "Stacy176": 2,
+            "Rigner": 1
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.5555555555555556
+        },
+        {
+          "player": "76561198007547842",
+          "playerName": "axelwlt",
+          "totalDeaths": 5,
+          "day1Deaths": 1,
+          "survivalDay1Rate": 88.88888888888889,
+          "deathsByType": {
+            "BY_WOLF": 3,
+            "BY_ZOMBIE": 1,
+            "SURVIVALIST_NOT_SAVED": 1
+          },
+          "killedBy": {
+            "Holdener": 1,
+            "Adrasse": 1,
+            "CorbaxUwU": 1,
+            "Joy": 1,
+            "Stacy176": 1
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.5555555555555556
+        },
+        {
+          "player": "76561199503876418",
+          "playerName": "CorbaxUwU",
+          "totalDeaths": 4,
+          "day1Deaths": 0,
+          "survivalDay1Rate": 100,
+          "deathsByType": {
+            "BY_WOLF": 2,
+            "SURVIVALIST_NOT_SAVED": 1,
+            "VOTED": 1
+          },
+          "killedBy": {
+            "M3lv1": 2,
+            "Joy": 1
+          },
+          "gamesPlayed": 8,
+          "deathRate": 0.5
+        },
+        {
+          "player": "76561198047490206",
+          "playerName": "Rigner",
+          "totalDeaths": 4,
+          "day1Deaths": 0,
+          "survivalDay1Rate": 100,
+          "deathsByType": {
+            "VOTED": 1,
+            "BY_WOLF": 2,
+            "BY_ZOMBIE": 1
+          },
+          "killedBy": {
+            "axelwlt": 1,
+            "Holdener": 1,
+            "MioMeph": 1
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.4444444444444444
+        },
+        {
+          "player": "76561198330793890",
+          "playerName": "Stacy176",
+          "totalDeaths": 3,
+          "day1Deaths": 0,
+          "survivalDay1Rate": 100,
+          "deathsByType": {
+            "BY_WOLF": 3
+          },
+          "killedBy": {
+            "Rigner": 1,
+            "Joy": 2
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.3333333333333333
+        },
+        {
+          "player": "76561198272864922",
+          "playerName": "Adrasse",
+          "totalDeaths": 3,
+          "day1Deaths": 1,
+          "survivalDay1Rate": 85.71428571428571,
+          "deathsByType": {
+            "BY_WOLF": 1,
+            "VOTED": 1,
+            "SURVIVALIST_NOT_SAVED": 1
+          },
+          "killedBy": {
+            "Stacy176": 1,
+            "Joy": 1
+          },
+          "gamesPlayed": 7,
+          "deathRate": 0.42857142857142855
+        },
+        {
+          "player": "76561199562214341",
+          "playerName": "daichi",
+          "totalDeaths": 2,
+          "day1Deaths": 0,
+          "survivalDay1Rate": 100,
+          "deathsByType": {
+            "BY_ZOMBIE": 1,
+            "BY_WOLF": 1
+          },
+          "killedBy": {
+            "axelwlt": 1,
+            "Joy": 1
+          },
+          "gamesPlayed": 7,
+          "deathRate": 0.2857142857142857
+        },
+        {
+          "player": "76561198111374489",
+          "playerName": "Joy",
+          "totalDeaths": 2,
+          "day1Deaths": 1,
+          "survivalDay1Rate": 88.88888888888889,
+          "deathsByType": {
+            "BY_WOLF": 1,
+            "VOTED": 1
+          },
+          "killedBy": {
+            "Adrasse": 1
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.2222222222222222
+        },
+        {
+          "player": "76561199216324750",
+          "playerName": "MôA",
+          "totalDeaths": 1,
+          "day1Deaths": 0,
+          "survivalDay1Rate": 100,
+          "deathsByType": {
+            "BY_WOLF": 1
+          },
+          "killedBy": {
+            "Joy": 1
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.1111111111111111
+        }
+      ],
+      "campKillRates": [
+        {
+          "player": "76561198913595171",
+          "killRateVillageois": 0,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 0,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 100,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561199001967591",
+          "killRateVillageois": 0,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 50,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 87.5,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561198007547842",
+          "killRateVillageois": 0.16666666666666666,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 16.666666666666664,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 83.33333333333334,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561199503876418",
+          "killRateVillageois": 0,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 50,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 100,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561198789380722",
+          "killRateVillageois": 0,
+          "killRateLoup": null,
+          "killRateSolo": 0,
+          "survivalRateVillageois": 33.33333333333333,
+          "survivalRateLoup": null,
+          "survivalRateSolo": 33.33333333333333,
+          "survivalDay1RateVillageois": 83.33333333333334,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": 33.33333333333333
+        },
+        {
+          "player": "76561198111374489",
+          "killRateVillageois": null,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": null,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": null,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561198064367175",
+          "killRateVillageois": 0.125,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 37.5,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 87.5,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561198277339785",
+          "killRateVillageois": 0,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 42.857142857142854,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 85.71428571428571,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561199216324750",
+          "killRateVillageois": null,
+          "killRateLoup": null,
+          "killRateSolo": 0,
+          "survivalRateVillageois": null,
+          "survivalRateLoup": null,
+          "survivalRateSolo": 100,
+          "survivalDay1RateVillageois": null,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": 100
+        },
+        {
+          "player": "76561198330793890",
+          "killRateVillageois": 0,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 57.14285714285714,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 100,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561198047490206",
+          "killRateVillageois": null,
+          "killRateLoup": null,
+          "killRateSolo": 0,
+          "survivalRateVillageois": null,
+          "survivalRateLoup": null,
+          "survivalRateSolo": 33.33333333333333,
+          "survivalDay1RateVillageois": null,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": 33.33333333333333
+        },
+        {
+          "player": "76561199562214341",
+          "killRateVillageois": 0,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 83.33333333333334,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 100,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561198272864922",
+          "killRateVillageois": 0.5,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 66.66666666666666,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 100,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        }
+      ],
+      "mostDeadlyKiller": "Joy"
+    },
+    "hunterStats": {
+      "totalHunters": 4,
+      "totalGames": 9,
+      "hunterStats": [
+        {
+          "hunterId": "76561198913595171",
+          "hunterName": "M3lv1",
+          "totalKills": 0,
+          "nonVillageoisKills": 0,
+          "villageoisKills": 0,
+          "gamesPlayedAsHunter": 1,
+          "averageKillsPerGame": 0,
+          "averageNonVillageoisKillsPerGame": 0,
+          "killsByDeathType": {},
+          "victimsByCamp": {},
+          "goodVictimsByCamp": {},
+          "badVictimsByCamp": {},
+          "totalShots": 1,
+          "shotsHit": 1,
+          "shotsMissed": 0,
+          "shotAccuracy": 100
+        },
+        {
+          "hunterId": "76561198272864922",
+          "hunterName": "Adrasse",
+          "totalKills": 0,
+          "nonVillageoisKills": 0,
+          "villageoisKills": 0,
+          "gamesPlayedAsHunter": 1,
+          "averageKillsPerGame": 0,
+          "averageNonVillageoisKillsPerGame": 0,
+          "killsByDeathType": {},
+          "victimsByCamp": {},
+          "goodVictimsByCamp": {},
+          "badVictimsByCamp": {},
+          "totalShots": 0,
+          "shotsHit": 0,
+          "shotsMissed": 0,
+          "shotAccuracy": null
+        },
+        {
+          "hunterId": "76561198007547842",
+          "hunterName": "axelwlt",
+          "totalKills": 0,
+          "nonVillageoisKills": 0,
+          "villageoisKills": 0,
+          "gamesPlayedAsHunter": 1,
+          "averageKillsPerGame": 0,
+          "averageNonVillageoisKillsPerGame": 0,
+          "killsByDeathType": {},
+          "victimsByCamp": {},
+          "goodVictimsByCamp": {},
+          "badVictimsByCamp": {},
+          "totalShots": 1,
+          "shotsHit": 1,
+          "shotsMissed": 0,
+          "shotAccuracy": 100
+        },
+        {
+          "hunterId": "76561198330793890",
+          "hunterName": "Stacy176",
+          "totalKills": 0,
+          "nonVillageoisKills": 0,
+          "villageoisKills": 0,
+          "gamesPlayedAsHunter": 1,
+          "averageKillsPerGame": 0,
+          "averageNonVillageoisKillsPerGame": 0,
+          "killsByDeathType": {},
+          "victimsByCamp": {},
+          "goodVictimsByCamp": {},
+          "badVictimsByCamp": {},
+          "totalShots": 2,
+          "shotsHit": 1,
+          "shotsMissed": 1,
+          "shotAccuracy": 50
+        }
+      ],
+      "bestHunter": "M3lv1",
+      "bestAverageHunter": "M3lv1"
+    },
+    "campStats": [
+      {
+        "player": "76561198913595171",
+        "playerName": "M3lv1",
+        "playerId": "76561198913595171",
+        "camp": "Villageois",
+        "games": 4,
+        "wins": 3,
+        "winRate": 75,
+        "performance": 1.923076923076934,
+        "totalGames": 7
+      },
+      {
+        "player": "76561199001967591",
+        "playerName": "MioMeph",
+        "playerId": "76561199001967591",
+        "camp": "Villageois",
+        "games": 6,
+        "wins": 4,
+        "winRate": 66.66666666666666,
+        "performance": -6.410256410256409,
+        "totalGames": 9
+      },
+      {
+        "player": "76561199503876418",
+        "playerName": "CorbaxUwU",
+        "playerId": "76561199503876418",
+        "camp": "Villageois",
+        "games": 4,
+        "wins": 3,
+        "winRate": 75,
+        "performance": 1.923076923076934,
+        "totalGames": 8
+      },
+      {
+        "player": "76561198789380722",
+        "playerName": "Yara",
+        "playerId": "76561198789380722",
+        "camp": "Villageois",
+        "games": 5,
+        "wins": 4,
+        "winRate": 80,
+        "performance": 6.923076923076934,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198111374489",
+        "playerName": "Joy",
+        "playerId": "76561198111374489",
+        "camp": "Loup",
+        "games": 4,
+        "wins": 1,
+        "winRate": 25,
+        "performance": 13.88888888888889,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198064367175",
+        "playerName": "Holdener",
+        "playerId": "76561198064367175",
+        "camp": "Villageois",
+        "games": 6,
+        "wins": 5,
+        "winRate": 83.33333333333334,
+        "performance": 10.256410256410277,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198277339785",
+        "playerName": "Karnarok",
+        "playerId": "76561198277339785",
+        "camp": "Villageois",
+        "games": 6,
+        "wins": 5,
+        "winRate": 83.33333333333334,
+        "performance": 10.256410256410277,
+        "totalGames": 9
+      },
+      {
+        "player": "76561199216324750",
+        "playerName": "MôA",
+        "playerId": "76561199216324750",
+        "camp": "Vaudou",
+        "games": 3,
+        "wins": 1,
+        "winRate": 33.33333333333333,
+        "performance": -2.3809523809523867,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198330793890",
+        "playerName": "Stacy176",
+        "playerId": "76561198330793890",
+        "camp": "Villageois",
+        "games": 5,
+        "wins": 4,
+        "winRate": 80,
+        "performance": 6.923076923076934,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198047490206",
+        "playerName": "Rigner",
+        "playerId": "76561198047490206",
+        "camp": "Villageois",
+        "games": 4,
+        "wins": 2,
+        "winRate": 50,
+        "performance": -23.076923076923066,
+        "totalGames": 9
+      },
+      {
+        "player": "76561199562214341",
+        "playerName": "daichi",
+        "playerId": "76561199562214341",
+        "camp": "Guetteur",
+        "games": 3,
+        "wins": 3,
+        "winRate": 100,
+        "performance": 14.285714285714292,
+        "totalGames": 7
+      },
+      {
+        "player": "76561199562214341",
+        "playerName": "daichi",
+        "playerId": "76561199562214341",
+        "camp": "Villageois",
+        "games": 3,
+        "wins": 1,
+        "winRate": 33.33333333333333,
+        "performance": -39.74358974358974,
+        "totalGames": 7
+      },
+      {
+        "player": "76561198272864922",
+        "playerName": "Adrasse",
+        "playerId": "76561198272864922",
+        "camp": "Villageois",
+        "games": 3,
+        "wins": 3,
+        "winRate": 100,
+        "performance": 26.923076923076934,
+        "totalGames": 7
+      },
+      {
+        "player": "76561198913595171",
+        "playerName": "M3lv1",
+        "playerId": "76561198913595171",
+        "camp": "Camp Villageois",
+        "games": 4,
+        "wins": 3,
+        "winRate": 75,
+        "performance": 2.536231884057969,
+        "totalGames": 7
+      },
+      {
+        "player": "76561199001967591",
+        "playerName": "MioMeph",
+        "playerId": "76561199001967591",
+        "camp": "Camp Villageois",
+        "games": 7,
+        "wins": 5,
+        "winRate": 71.42857142857143,
+        "performance": -1.0351966873706004,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198007547842",
+        "playerName": "axelwlt",
+        "playerId": "76561198007547842",
+        "camp": "Camp Villageois",
+        "games": 5,
+        "wins": 3,
+        "winRate": 60,
+        "performance": -12.463768115942031,
+        "totalGames": 9
+      },
+      {
+        "player": "76561199503876418",
+        "playerName": "CorbaxUwU",
+        "playerId": "76561199503876418",
+        "camp": "Camp Villageois",
+        "games": 6,
+        "wins": 5,
+        "winRate": 83.33333333333334,
+        "performance": 10.869565217391312,
+        "totalGames": 8
+      },
+      {
+        "player": "76561198789380722",
+        "playerName": "Yara",
+        "playerId": "76561198789380722",
+        "camp": "Camp Villageois",
+        "games": 5,
+        "wins": 4,
+        "winRate": 80,
+        "performance": 7.536231884057969,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198111374489",
+        "playerName": "Joy",
+        "playerId": "76561198111374489",
+        "camp": "Camp Villageois",
+        "games": 4,
+        "wins": 3,
+        "winRate": 75,
+        "performance": 2.536231884057969,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198111374489",
+        "playerName": "Joy",
+        "playerId": "76561198111374489",
+        "camp": "Camp Loup",
+        "games": 4,
+        "wins": 1,
+        "winRate": 25,
+        "performance": 13.88888888888889,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198064367175",
+        "playerName": "Holdener",
+        "playerId": "76561198064367175",
+        "camp": "Camp Villageois",
+        "games": 6,
+        "wins": 5,
+        "winRate": 83.33333333333334,
+        "performance": 10.869565217391312,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198277339785",
+        "playerName": "Karnarok",
+        "playerId": "76561198277339785",
+        "camp": "Camp Villageois",
+        "games": 7,
+        "wins": 5,
+        "winRate": 71.42857142857143,
+        "performance": -1.0351966873706004,
+        "totalGames": 9
+      },
+      {
+        "player": "76561199216324750",
+        "playerName": "MôA",
+        "playerId": "76561199216324750",
+        "camp": "Camp Villageois",
+        "games": 4,
+        "wins": 3,
+        "winRate": 75,
+        "performance": 2.536231884057969,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198330793890",
+        "playerName": "Stacy176",
+        "playerId": "76561198330793890",
+        "camp": "Camp Villageois",
+        "games": 6,
+        "wins": 5,
+        "winRate": 83.33333333333334,
+        "performance": 10.869565217391312,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198047490206",
+        "playerName": "Rigner",
+        "playerId": "76561198047490206",
+        "camp": "Camp Villageois",
+        "games": 4,
+        "wins": 2,
+        "winRate": 50,
+        "performance": -22.46376811594203,
+        "totalGames": 9
+      },
+      {
+        "player": "76561199562214341",
+        "playerName": "daichi",
+        "playerId": "76561199562214341",
+        "camp": "Camp Villageois",
+        "games": 6,
+        "wins": 4,
+        "winRate": 66.66666666666666,
+        "performance": -5.797101449275374,
+        "totalGames": 7
+      },
+      {
+        "player": "76561198272864922",
+        "playerName": "Adrasse",
+        "playerId": "76561198272864922",
+        "camp": "Camp Villageois",
+        "games": 5,
+        "wins": 3,
+        "winRate": 60,
+        "performance": -12.463768115942031,
+        "totalGames": 7
+      }
+    ],
+    "votingStats": {
+      "playerBehaviorStats": [
+        {
+          "player": "76561198913595171",
+          "playerName": "M3lv1",
+          "totalMeetings": 13,
+          "totalVotes": 1,
+          "totalSkips": 8,
+          "totalAbstentions": 4,
+          "votingRate": 7.6923076923076925,
+          "skippingRate": 61.53846153846154,
+          "abstentionRate": 30.76923076923077,
+          "aggressivenessScore": -44.61538461538461,
+          "aggressivenessVillageois": -56.66666666666666,
+          "aggressivenessLoup": -31.666666666666664,
+          "aggressivenessSolo": -50,
+          "meetingsVillageois": 6,
+          "meetingsLoup": 6,
+          "meetingsSolo": 1
+        },
+        {
+          "player": "76561199001967591",
+          "playerName": "MioMeph",
+          "totalMeetings": 19,
+          "totalVotes": 5,
+          "totalSkips": 12,
+          "totalAbstentions": 2,
+          "votingRate": 26.31578947368421,
+          "skippingRate": 63.1578947368421,
+          "abstentionRate": 10.526315789473683,
+          "aggressivenessScore": -12.631578947368421,
+          "aggressivenessVillageois": -5.625,
+          "aggressivenessLoup": -50,
+          "aggressivenessSolo": -50,
+          "meetingsVillageois": 16,
+          "meetingsLoup": 2,
+          "meetingsSolo": 1
+        },
+        {
+          "player": "76561198007547842",
+          "playerName": "axelwlt",
+          "totalMeetings": 22,
+          "totalVotes": 7,
+          "totalSkips": 14,
+          "totalAbstentions": 1,
+          "votingRate": 31.818181818181817,
+          "skippingRate": 63.63636363636363,
+          "abstentionRate": 4.545454545454546,
+          "aggressivenessScore": -3.181818181818182,
+          "aggressivenessVillageois": 12.500000000000004,
+          "aggressivenessLoup": -56.66666666666666,
+          "aggressivenessSolo": -7.142857142857146,
+          "meetingsVillageois": 12,
+          "meetingsLoup": 3,
+          "meetingsSolo": 7
+        },
+        {
+          "player": "76561199503876418",
+          "playerName": "CorbaxUwU",
+          "totalMeetings": 19,
+          "totalVotes": 3,
+          "totalSkips": 14,
+          "totalAbstentions": 2,
+          "votingRate": 15.789473684210526,
+          "skippingRate": 73.68421052631578,
+          "abstentionRate": 10.526315789473683,
+          "aggressivenessScore": -28.42105263157894,
+          "aggressivenessVillageois": -16.92307692307692,
+          "aggressivenessLoup": -53.333333333333336,
+          "aggressivenessSolo": null,
+          "meetingsVillageois": 13,
+          "meetingsLoup": 6,
+          "meetingsSolo": 0
+        },
+        {
+          "player": "76561198789380722",
+          "playerName": "Yara",
+          "totalMeetings": 18,
+          "totalVotes": 1,
+          "totalSkips": 12,
+          "totalAbstentions": 5,
+          "votingRate": 5.555555555555555,
+          "skippingRate": 66.66666666666666,
+          "abstentionRate": 27.77777777777778,
+          "aggressivenessScore": -47.222222222222214,
+          "aggressivenessVillageois": -54,
+          "aggressivenessLoup": null,
+          "aggressivenessSolo": -38.75,
+          "meetingsVillageois": 10,
+          "meetingsLoup": 0,
+          "meetingsSolo": 8
+        },
+        {
+          "player": "76561198111374489",
+          "playerName": "Joy",
+          "totalMeetings": 24,
+          "totalVotes": 3,
+          "totalSkips": 19,
+          "totalAbstentions": 2,
+          "votingRate": 12.5,
+          "skippingRate": 79.16666666666666,
+          "abstentionRate": 8.333333333333332,
+          "aggressivenessScore": -32.91666666666666,
+          "aggressivenessVillageois": -10.90909090909091,
+          "aggressivenessLoup": -51.53846153846154,
+          "aggressivenessSolo": null,
+          "meetingsVillageois": 11,
+          "meetingsLoup": 13,
+          "meetingsSolo": 0
+        },
+        {
+          "player": "76561198064367175",
+          "playerName": "Holdener",
+          "totalMeetings": 19,
+          "totalVotes": 1,
+          "totalSkips": 13,
+          "totalAbstentions": 5,
+          "votingRate": 5.263157894736842,
+          "skippingRate": 68.42105263157895,
+          "abstentionRate": 26.31578947368421,
+          "aggressivenessScore": -47.368421052631575,
+          "aggressivenessVillageois": -39.16666666666667,
+          "aggressivenessLoup": -70,
+          "aggressivenessSolo": -55,
+          "meetingsVillageois": 12,
+          "meetingsLoup": 3,
+          "meetingsSolo": 4
+        },
+        {
+          "player": "76561198277339785",
+          "playerName": "Karnarok",
+          "totalMeetings": 20,
+          "totalVotes": 8,
+          "totalSkips": 8,
+          "totalAbstentions": 4,
+          "votingRate": 40,
+          "skippingRate": 40,
+          "abstentionRate": 20,
+          "aggressivenessScore": 6,
+          "aggressivenessVillageois": 16,
+          "aggressivenessLoup": -60,
+          "aggressivenessSolo": 0,
+          "meetingsVillageois": 15,
+          "meetingsLoup": 2,
+          "meetingsSolo": 3
+        },
+        {
+          "player": "76561199216324750",
+          "playerName": "MôA",
+          "totalMeetings": 25,
+          "totalVotes": 6,
+          "totalSkips": 15,
+          "totalAbstentions": 4,
+          "votingRate": 24,
+          "skippingRate": 60,
+          "abstentionRate": 16,
+          "aggressivenessScore": -17.2,
+          "aggressivenessVillageois": 16.363636363636363,
+          "aggressivenessLoup": -56.66666666666666,
+          "aggressivenessSolo": -40,
+          "meetingsVillageois": 11,
+          "meetingsLoup": 3,
+          "meetingsSolo": 11
+        },
+        {
+          "player": "76561198330793890",
+          "playerName": "Stacy176",
+          "totalMeetings": 23,
+          "totalVotes": 3,
+          "totalSkips": 15,
+          "totalAbstentions": 5,
+          "votingRate": 13.043478260869565,
+          "skippingRate": 65.21739130434783,
+          "abstentionRate": 21.73913043478261,
+          "aggressivenessScore": -34.78260869565218,
+          "aggressivenessVillageois": -34.28571428571428,
+          "aggressivenessLoup": -25.000000000000007,
+          "aggressivenessSolo": -56.66666666666666,
+          "meetingsVillageois": 14,
+          "meetingsLoup": 6,
+          "meetingsSolo": 3
+        },
+        {
+          "player": "76561198047490206",
+          "playerName": "Rigner",
+          "totalMeetings": 24,
+          "totalVotes": 5,
+          "totalSkips": 13,
+          "totalAbstentions": 6,
+          "votingRate": 20.833333333333336,
+          "skippingRate": 54.166666666666664,
+          "abstentionRate": 25,
+          "aggressivenessScore": -23.749999999999996,
+          "aggressivenessVillageois": -6.923076923076922,
+          "aggressivenessLoup": -66,
+          "aggressivenessSolo": -25.000000000000007,
+          "meetingsVillageois": 13,
+          "meetingsLoup": 5,
+          "meetingsSolo": 6
+        },
+        {
+          "player": "76561199562214341",
+          "playerName": "daichi",
+          "totalMeetings": 16,
+          "totalVotes": 3,
+          "totalSkips": 9,
+          "totalAbstentions": 4,
+          "votingRate": 18.75,
+          "skippingRate": 56.25,
+          "abstentionRate": 25,
+          "aggressivenessScore": -26.875,
+          "aggressivenessVillageois": -25.333333333333336,
+          "aggressivenessLoup": null,
+          "aggressivenessSolo": -50,
+          "meetingsVillageois": 15,
+          "meetingsLoup": 0,
+          "meetingsSolo": 1
+        },
+        {
+          "player": "76561198272864922",
+          "playerName": "Adrasse",
+          "totalMeetings": 16,
+          "totalVotes": 2,
+          "totalSkips": 12,
+          "totalAbstentions": 2,
+          "votingRate": 12.5,
+          "skippingRate": 75,
+          "abstentionRate": 12.5,
+          "aggressivenessScore": -33.75,
+          "aggressivenessVillageois": -31.42857142857143,
+          "aggressivenessLoup": -50,
+          "aggressivenessSolo": -50,
+          "meetingsVillageois": 14,
+          "meetingsLoup": 1,
+          "meetingsSolo": 1
+        }
+      ],
+      "playerAccuracyStats": [
+        {
+          "player": "76561198913595171",
+          "playerName": "M3lv1",
+          "totalMeetings": 13,
+          "totalVotes": 1,
+          "votesForEnemyCamp": 1,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": null,
+          "accuracyLoup": 100,
+          "accuracySolo": null,
+          "votesVillageois": 0,
+          "votesLoup": 1,
+          "votesSolo": 0
+        },
+        {
+          "player": "76561199001967591",
+          "playerName": "MioMeph",
+          "totalMeetings": 19,
+          "totalVotes": 5,
+          "votesForEnemyCamp": 5,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": 100,
+          "accuracyLoup": null,
+          "accuracySolo": null,
+          "votesVillageois": 5,
+          "votesLoup": 0,
+          "votesSolo": 0
+        },
+        {
+          "player": "76561198007547842",
+          "playerName": "axelwlt",
+          "totalMeetings": 22,
+          "totalVotes": 7,
+          "votesForEnemyCamp": 7,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": 100,
+          "accuracyLoup": null,
+          "accuracySolo": 100,
+          "votesVillageois": 5,
+          "votesLoup": 0,
+          "votesSolo": 2
+        },
+        {
+          "player": "76561199503876418",
+          "playerName": "CorbaxUwU",
+          "totalMeetings": 19,
+          "totalVotes": 3,
+          "votesForEnemyCamp": 2,
+          "votesForOwnCamp": 1,
+          "accuracyRate": 66.66666666666666,
+          "friendlyFireRate": 33.33333333333333,
+          "accuracyVillageois": 66.66666666666666,
+          "accuracyLoup": null,
+          "accuracySolo": null,
+          "votesVillageois": 3,
+          "votesLoup": 0,
+          "votesSolo": 0
+        },
+        {
+          "player": "76561198789380722",
+          "playerName": "Yara",
+          "totalMeetings": 18,
+          "totalVotes": 1,
+          "votesForEnemyCamp": 1,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": null,
+          "accuracyLoup": null,
+          "accuracySolo": 100,
+          "votesVillageois": 0,
+          "votesLoup": 0,
+          "votesSolo": 1
+        },
+        {
+          "player": "76561198111374489",
+          "playerName": "Joy",
+          "totalMeetings": 24,
+          "totalVotes": 3,
+          "votesForEnemyCamp": 3,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": 100,
+          "accuracyLoup": null,
+          "accuracySolo": null,
+          "votesVillageois": 3,
+          "votesLoup": 0,
+          "votesSolo": 0
+        },
+        {
+          "player": "76561198064367175",
+          "playerName": "Holdener",
+          "totalMeetings": 19,
+          "totalVotes": 1,
+          "votesForEnemyCamp": 1,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": 100,
+          "accuracyLoup": null,
+          "accuracySolo": null,
+          "votesVillageois": 1,
+          "votesLoup": 0,
+          "votesSolo": 0
+        },
+        {
+          "player": "76561198277339785",
+          "playerName": "Karnarok",
+          "totalMeetings": 20,
+          "totalVotes": 8,
+          "votesForEnemyCamp": 8,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": 100,
+          "accuracyLoup": null,
+          "accuracySolo": 100,
+          "votesVillageois": 7,
+          "votesLoup": 0,
+          "votesSolo": 1
+        },
+        {
+          "player": "76561199216324750",
+          "playerName": "MôA",
+          "totalMeetings": 25,
+          "totalVotes": 6,
+          "votesForEnemyCamp": 6,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": 100,
+          "accuracyLoup": null,
+          "accuracySolo": 100,
+          "votesVillageois": 5,
+          "votesLoup": 0,
+          "votesSolo": 1
+        },
+        {
+          "player": "76561198330793890",
+          "playerName": "Stacy176",
+          "totalMeetings": 23,
+          "totalVotes": 3,
+          "votesForEnemyCamp": 2,
+          "votesForOwnCamp": 1,
+          "accuracyRate": 66.66666666666666,
+          "friendlyFireRate": 33.33333333333333,
+          "accuracyVillageois": 100,
+          "accuracyLoup": 0,
+          "accuracySolo": null,
+          "votesVillageois": 2,
+          "votesLoup": 1,
+          "votesSolo": 0
+        },
+        {
+          "player": "76561198047490206",
+          "playerName": "Rigner",
+          "totalMeetings": 24,
+          "totalVotes": 5,
+          "votesForEnemyCamp": 4,
+          "votesForOwnCamp": 1,
+          "accuracyRate": 80,
+          "friendlyFireRate": 20,
+          "accuracyVillageois": 75,
+          "accuracyLoup": null,
+          "accuracySolo": 100,
+          "votesVillageois": 4,
+          "votesLoup": 0,
+          "votesSolo": 1
+        },
+        {
+          "player": "76561199562214341",
+          "playerName": "daichi",
+          "totalMeetings": 16,
+          "totalVotes": 3,
+          "votesForEnemyCamp": 3,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": 100,
+          "accuracyLoup": null,
+          "accuracySolo": null,
+          "votesVillageois": 3,
+          "votesLoup": 0,
+          "votesSolo": 0
+        },
+        {
+          "player": "76561198272864922",
+          "playerName": "Adrasse",
+          "totalMeetings": 16,
+          "totalVotes": 2,
+          "votesForEnemyCamp": 1,
+          "votesForOwnCamp": 1,
+          "accuracyRate": 50,
+          "friendlyFireRate": 50,
+          "accuracyVillageois": 50,
+          "accuracyLoup": null,
+          "accuracySolo": null,
+          "votesVillageois": 2,
+          "votesLoup": 0,
+          "votesSolo": 0
+        }
+      ],
+      "playerTargetStats": [
+        {
+          "player": "76561198913595171",
+          "playerName": "M3lv1",
+          "totalTimesTargeted": 5,
+          "timesTargetedByEnemyCamp": 4,
+          "timesTargetedByOwnCamp": 1,
+          "timesTargetedAsVillager": 1,
+          "timesTargetedAsWolf": 4,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 4,
+          "survivalRate": 20
+        },
+        {
+          "player": "76561199001967591",
+          "playerName": "MioMeph",
+          "totalTimesTargeted": 7,
+          "timesTargetedByEnemyCamp": 7,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 1,
+          "timesTargetedAsWolf": 6,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 6,
+          "survivalRate": 14.285714285714285
+        },
+        {
+          "player": "76561198007547842",
+          "playerName": "axelwlt",
+          "totalTimesTargeted": 0,
+          "timesTargetedByEnemyCamp": 0,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 0,
+          "timesTargetedAsWolf": 0,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 0,
+          "survivalRate": 100
+        },
+        {
+          "player": "76561199503876418",
+          "playerName": "CorbaxUwU",
+          "totalTimesTargeted": 5,
+          "timesTargetedByEnemyCamp": 5,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 0,
+          "timesTargetedAsWolf": 5,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 5,
+          "survivalRate": 0
+        },
+        {
+          "player": "76561198789380722",
+          "playerName": "Yara",
+          "totalTimesTargeted": 0,
+          "timesTargetedByEnemyCamp": 0,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 0,
+          "timesTargetedAsWolf": 0,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 0,
+          "survivalRate": 100
+        },
+        {
+          "player": "76561198111374489",
+          "playerName": "Joy",
+          "totalTimesTargeted": 7,
+          "timesTargetedByEnemyCamp": 6,
+          "timesTargetedByOwnCamp": 1,
+          "timesTargetedAsVillager": 0,
+          "timesTargetedAsWolf": 7,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 6,
+          "survivalRate": 14.285714285714285
+        },
+        {
+          "player": "76561198064367175",
+          "playerName": "Holdener",
+          "totalTimesTargeted": 1,
+          "timesTargetedByEnemyCamp": 1,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 0,
+          "timesTargetedAsWolf": 0,
+          "timesTargetedAsSpecial": 1,
+          "eliminationsByVote": 0,
+          "survivalRate": 100
+        },
+        {
+          "player": "76561198277339785",
+          "playerName": "Karnarok",
+          "totalTimesTargeted": 7,
+          "timesTargetedByEnemyCamp": 7,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 0,
+          "timesTargetedAsWolf": 0,
+          "timesTargetedAsSpecial": 7,
+          "eliminationsByVote": 7,
+          "survivalRate": 0
+        },
+        {
+          "player": "76561199216324750",
+          "playerName": "MôA",
+          "totalTimesTargeted": 0,
+          "timesTargetedByEnemyCamp": 0,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 0,
+          "timesTargetedAsWolf": 0,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 0,
+          "survivalRate": 100
+        },
+        {
+          "player": "76561198330793890",
+          "playerName": "Stacy176",
+          "totalTimesTargeted": 3,
+          "timesTargetedByEnemyCamp": 3,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 1,
+          "timesTargetedAsWolf": 2,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 0,
+          "survivalRate": 100
+        },
+        {
+          "player": "76561198047490206",
+          "playerName": "Rigner",
+          "totalTimesTargeted": 6,
+          "timesTargetedByEnemyCamp": 5,
+          "timesTargetedByOwnCamp": 1,
+          "timesTargetedAsVillager": 2,
+          "timesTargetedAsWolf": 3,
+          "timesTargetedAsSpecial": 1,
+          "eliminationsByVote": 3,
+          "survivalRate": 50
+        },
+        {
+          "player": "76561199562214341",
+          "playerName": "daichi",
+          "totalTimesTargeted": 0,
+          "timesTargetedByEnemyCamp": 0,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 0,
+          "timesTargetedAsWolf": 0,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 0,
+          "survivalRate": 100
+        },
+        {
+          "player": "76561198272864922",
+          "playerName": "Adrasse",
+          "totalTimesTargeted": 7,
+          "timesTargetedByEnemyCamp": 6,
+          "timesTargetedByOwnCamp": 1,
+          "timesTargetedAsVillager": 1,
+          "timesTargetedAsWolf": 6,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 6,
+          "survivalRate": 14.285714285714285
+        }
+      ],
+      "playerFirstVoteStats": [
+        {
+          "player": "76561198913595171",
+          "playerName": "M3lv1",
+          "totalMeetingsWithVotes": 1,
+          "timesFirstToVote": 0,
+          "timesEarlyVote": 0,
+          "firstVoteRate": 0,
+          "earlyVoteRate": 0,
+          "earlyVoteRateVillageois": null,
+          "earlyVoteRateLoup": 0,
+          "earlyVoteRateSolo": null,
+          "meetingsWithVotesVillageois": 0,
+          "meetingsWithVotesLoup": 1,
+          "meetingsWithVotesSolo": 0
+        },
+        {
+          "player": "76561199001967591",
+          "playerName": "MioMeph",
+          "totalMeetingsWithVotes": 5,
+          "timesFirstToVote": 0,
+          "timesEarlyVote": 4,
+          "firstVoteRate": 0,
+          "earlyVoteRate": 80,
+          "earlyVoteRateVillageois": 80,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": null,
+          "meetingsWithVotesVillageois": 5,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 0
+        },
+        {
+          "player": "76561198007547842",
+          "playerName": "axelwlt",
+          "totalMeetingsWithVotes": 7,
+          "timesFirstToVote": 2,
+          "timesEarlyVote": 2,
+          "firstVoteRate": 28.57142857142857,
+          "earlyVoteRate": 28.57142857142857,
+          "earlyVoteRateVillageois": 20,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": 50,
+          "meetingsWithVotesVillageois": 5,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 2
+        },
+        {
+          "player": "76561199503876418",
+          "playerName": "CorbaxUwU",
+          "totalMeetingsWithVotes": 3,
+          "timesFirstToVote": 1,
+          "timesEarlyVote": 1,
+          "firstVoteRate": 33.33333333333333,
+          "earlyVoteRate": 33.33333333333333,
+          "earlyVoteRateVillageois": 33.33333333333333,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": null,
+          "meetingsWithVotesVillageois": 3,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 0
+        },
+        {
+          "player": "76561198789380722",
+          "playerName": "Yara",
+          "totalMeetingsWithVotes": 1,
+          "timesFirstToVote": 0,
+          "timesEarlyVote": 0,
+          "firstVoteRate": 0,
+          "earlyVoteRate": 0,
+          "earlyVoteRateVillageois": null,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": 0,
+          "meetingsWithVotesVillageois": 0,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 1
+        },
+        {
+          "player": "76561198111374489",
+          "playerName": "Joy",
+          "totalMeetingsWithVotes": 3,
+          "timesFirstToVote": 2,
+          "timesEarlyVote": 2,
+          "firstVoteRate": 66.66666666666666,
+          "earlyVoteRate": 66.66666666666666,
+          "earlyVoteRateVillageois": 66.66666666666666,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": null,
+          "meetingsWithVotesVillageois": 3,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 0
+        },
+        {
+          "player": "76561198064367175",
+          "playerName": "Holdener",
+          "totalMeetingsWithVotes": 1,
+          "timesFirstToVote": 0,
+          "timesEarlyVote": 0,
+          "firstVoteRate": 0,
+          "earlyVoteRate": 0,
+          "earlyVoteRateVillageois": 0,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": null,
+          "meetingsWithVotesVillageois": 1,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 0
+        },
+        {
+          "player": "76561198277339785",
+          "playerName": "Karnarok",
+          "totalMeetingsWithVotes": 8,
+          "timesFirstToVote": 5,
+          "timesEarlyVote": 6,
+          "firstVoteRate": 62.5,
+          "earlyVoteRate": 75,
+          "earlyVoteRateVillageois": 71.42857142857143,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": 100,
+          "meetingsWithVotesVillageois": 7,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 1
+        },
+        {
+          "player": "76561199216324750",
+          "playerName": "MôA",
+          "totalMeetingsWithVotes": 6,
+          "timesFirstToVote": 0,
+          "timesEarlyVote": 0,
+          "firstVoteRate": 0,
+          "earlyVoteRate": 0,
+          "earlyVoteRateVillageois": 0,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": 0,
+          "meetingsWithVotesVillageois": 5,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 1
+        },
+        {
+          "player": "76561198330793890",
+          "playerName": "Stacy176",
+          "totalMeetingsWithVotes": 3,
+          "timesFirstToVote": 0,
+          "timesEarlyVote": 1,
+          "firstVoteRate": 0,
+          "earlyVoteRate": 33.33333333333333,
+          "earlyVoteRateVillageois": 50,
+          "earlyVoteRateLoup": 0,
+          "earlyVoteRateSolo": null,
+          "meetingsWithVotesVillageois": 2,
+          "meetingsWithVotesLoup": 1,
+          "meetingsWithVotesSolo": 0
+        },
+        {
+          "player": "76561198047490206",
+          "playerName": "Rigner",
+          "totalMeetingsWithVotes": 5,
+          "timesFirstToVote": 3,
+          "timesEarlyVote": 3,
+          "firstVoteRate": 60,
+          "earlyVoteRate": 60,
+          "earlyVoteRateVillageois": 50,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": 100,
+          "meetingsWithVotesVillageois": 4,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 1
+        },
+        {
+          "player": "76561199562214341",
+          "playerName": "daichi",
+          "totalMeetingsWithVotes": 3,
+          "timesFirstToVote": 0,
+          "timesEarlyVote": 1,
+          "firstVoteRate": 0,
+          "earlyVoteRate": 33.33333333333333,
+          "earlyVoteRateVillageois": 33.33333333333333,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": null,
+          "meetingsWithVotesVillageois": 3,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 0
+        },
+        {
+          "player": "76561198272864922",
+          "playerName": "Adrasse",
+          "totalMeetingsWithVotes": 2,
+          "timesFirstToVote": 1,
+          "timesEarlyVote": 1,
+          "firstVoteRate": 50,
+          "earlyVoteRate": 50,
+          "earlyVoteRateVillageois": 50,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": null,
+          "meetingsWithVotesVillageois": 2,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 0
+        }
+      ],
+      "playerMeetingSurvivalStats": [
+        {
+          "player": "76561198913595171",
+          "playerName": "M3lv1",
+          "villageoisMeetings": 6,
+          "villageoisDeathsAtMeetings": 1,
+          "survivalAtMeetingVillageois": 83.33333333333334,
+          "loupMeetings": 6,
+          "loupDeathsAtMeetings": 1,
+          "survivalAtMeetingLoup": 83.33333333333334,
+          "soloMeetings": 1,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561199001967591",
+          "playerName": "MioMeph",
+          "villageoisMeetings": 16,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 2,
+          "loupDeathsAtMeetings": 1,
+          "survivalAtMeetingLoup": 50,
+          "soloMeetings": 1,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561198007547842",
+          "playerName": "axelwlt",
+          "villageoisMeetings": 12,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 3,
+          "loupDeathsAtMeetings": 0,
+          "survivalAtMeetingLoup": 100,
+          "soloMeetings": 7,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561199503876418",
+          "playerName": "CorbaxUwU",
+          "villageoisMeetings": 13,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 6,
+          "loupDeathsAtMeetings": 1,
+          "survivalAtMeetingLoup": 83.33333333333334,
+          "soloMeetings": 0,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": null
+        },
+        {
+          "player": "76561198789380722",
+          "playerName": "Yara",
+          "villageoisMeetings": 10,
+          "villageoisDeathsAtMeetings": 1,
+          "survivalAtMeetingVillageois": 90,
+          "loupMeetings": 0,
+          "loupDeathsAtMeetings": 0,
+          "survivalAtMeetingLoup": null,
+          "soloMeetings": 8,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561198111374489",
+          "playerName": "Joy",
+          "villageoisMeetings": 11,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 13,
+          "loupDeathsAtMeetings": 1,
+          "survivalAtMeetingLoup": 92.3076923076923,
+          "soloMeetings": 0,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": null
+        },
+        {
+          "player": "76561198064367175",
+          "playerName": "Holdener",
+          "villageoisMeetings": 12,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 3,
+          "loupDeathsAtMeetings": 0,
+          "survivalAtMeetingLoup": 100,
+          "soloMeetings": 4,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561198277339785",
+          "playerName": "Karnarok",
+          "villageoisMeetings": 15,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 2,
+          "loupDeathsAtMeetings": 0,
+          "survivalAtMeetingLoup": 100,
+          "soloMeetings": 3,
+          "soloDeathsAtMeetings": 1,
+          "survivalAtMeetingSolo": 66.66666666666666
+        },
+        {
+          "player": "76561199216324750",
+          "playerName": "MôA",
+          "villageoisMeetings": 11,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 3,
+          "loupDeathsAtMeetings": 0,
+          "survivalAtMeetingLoup": 100,
+          "soloMeetings": 11,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561198330793890",
+          "playerName": "Stacy176",
+          "villageoisMeetings": 14,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 6,
+          "loupDeathsAtMeetings": 0,
+          "survivalAtMeetingLoup": 100,
+          "soloMeetings": 3,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561198047490206",
+          "playerName": "Rigner",
+          "villageoisMeetings": 13,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 5,
+          "loupDeathsAtMeetings": 1,
+          "survivalAtMeetingLoup": 80,
+          "soloMeetings": 6,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561199562214341",
+          "playerName": "daichi",
+          "villageoisMeetings": 15,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 0,
+          "loupDeathsAtMeetings": 0,
+          "survivalAtMeetingLoup": null,
+          "soloMeetings": 1,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561198272864922",
+          "playerName": "Adrasse",
+          "villageoisMeetings": 14,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 1,
+          "loupDeathsAtMeetings": 1,
+          "survivalAtMeetingLoup": 0,
+          "soloMeetings": 1,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        }
+      ]
+    },
+    "talkingStats": {
+      "playerStats": [
+        {
+          "playerId": "76561198913595171",
+          "player": "M3lv1",
+          "gamesPlayed": 7,
+          "totalSecondsOutside": 766,
+          "totalSecondsDuring": 370,
+          "totalSecondsAll": 1136,
+          "totalGameDurationSeconds": 4634.759,
+          "secondsOutsidePer60Min": 594.9823928277608,
+          "secondsDuringPer60Min": 287.3935840029654,
+          "secondsAllPer60Min": 882.3759768307262,
+          "villageoisGames": 5,
+          "secondsOutsideVillageoisPer60Min": 734.4519788390569,
+          "secondsDuringVillageoisPer60Min": 279.2371879942553,
+          "secondsAllVillageoisPer60Min": 1013.6891668333121,
+          "loupGames": 2,
+          "secondsOutsideLoupPer60Min": 435.1120010521227,
+          "secondsDuringLoupPer60Min": 296.7430505259687,
+          "secondsAllLoupPer60Min": 731.8550515780914,
+          "soloGames": 0,
+          "secondsOutsideSoloPer60Min": 0,
+          "secondsDuringSoloPer60Min": 0,
+          "secondsAllSoloPer60Min": 0
+        },
+        {
+          "playerId": "76561199001967591",
+          "player": "MioMeph",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 429,
+          "totalSecondsDuring": 314,
+          "totalSecondsAll": 743,
+          "totalGameDurationSeconds": 6970.335999999999,
+          "secondsOutsidePer60Min": 221.56751123618722,
+          "secondsDuringPer60Min": 162.1729569421044,
+          "secondsAllPer60Min": 383.7404681782916,
+          "villageoisGames": 8,
+          "secondsOutsideVillageoisPer60Min": 225.395371513038,
+          "secondsDuringVillageoisPer60Min": 127.57149199849611,
+          "secondsAllVillageoisPer60Min": 352.9668635115341,
+          "loupGames": 1,
+          "secondsOutsideLoupPer60Min": 186.0069619748625,
+          "secondsDuringLoupPer60Min": 483.6181011346425,
+          "secondsAllLoupPer60Min": 669.6250631095049,
+          "soloGames": 0,
+          "secondsOutsideSoloPer60Min": 0,
+          "secondsDuringSoloPer60Min": 0,
+          "secondsAllSoloPer60Min": 0
+        },
+        {
+          "playerId": "76561198007547842",
+          "player": "axelwlt",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 259,
+          "totalSecondsDuring": 60,
+          "totalSecondsAll": 319,
+          "totalGameDurationSeconds": 7954.923000000001,
+          "secondsOutsidePer60Min": 117.21043685777977,
+          "secondsDuringPer60Min": 27.152996955470215,
+          "secondsAllPer60Min": 144.36343381324997,
+          "villageoisGames": 6,
+          "secondsOutsideVillageoisPer60Min": 143.07199511263104,
+          "secondsDuringVillageoisPer60Min": 40.75888232859838,
+          "secondsAllVillageoisPer60Min": 183.83087744122943,
+          "loupGames": 1,
+          "secondsOutsideLoupPer60Min": 191.04778599331166,
+          "secondsDuringLoupPer60Min": 20.895851593018463,
+          "secondsAllLoupPer60Min": 211.9436375863301,
+          "soloGames": 2,
+          "secondsOutsideSoloPer60Min": 34.200023047841626,
+          "secondsDuringSoloPer60Min": 5.947830095276804,
+          "secondsAllSoloPer60Min": 40.147853143118425
+        },
+        {
+          "playerId": "76561199503876418",
+          "player": "CorbaxUwU",
+          "gamesPlayed": 8,
+          "totalSecondsOutside": 587,
+          "totalSecondsDuring": 477,
+          "totalSecondsAll": 1064,
+          "totalGameDurationSeconds": 7104.014,
+          "secondsOutsidePer60Min": 297.46562999453545,
+          "secondsDuringPer60Min": 241.72249660544023,
+          "secondsAllPer60Min": 539.1881265999757,
+          "villageoisGames": 6,
+          "secondsOutsideVillageoisPer60Min": 245.14081618552424,
+          "secondsDuringVillageoisPer60Min": 226.44972756140803,
+          "secondsAllVillageoisPer60Min": 471.59054374693227,
+          "loupGames": 2,
+          "secondsOutsideLoupPer60Min": 422.4626481195261,
+          "secondsDuringLoupPer60Min": 278.20710973724886,
+          "secondsAllLoupPer60Min": 700.6697578567749,
+          "soloGames": 0,
+          "secondsOutsideSoloPer60Min": 0,
+          "secondsDuringSoloPer60Min": 0,
+          "secondsAllSoloPer60Min": 0
+        },
+        {
+          "playerId": "76561198789380722",
+          "player": "Yara",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 325,
+          "totalSecondsDuring": 51,
+          "totalSecondsAll": 376,
+          "totalGameDurationSeconds": 6851.75,
+          "secondsOutsidePer60Min": 170.75929507060238,
+          "secondsDuringPer60Min": 26.796073995694528,
+          "secondsAllPer60Min": 197.55536906629692,
+          "villageoisGames": 6,
+          "secondsOutsideVillageoisPer60Min": 176.15575648493152,
+          "secondsDuringVillageoisPer60Min": 17.79351075605369,
+          "secondsAllVillageoisPer60Min": 193.9492672409852,
+          "loupGames": 0,
+          "secondsOutsideLoupPer60Min": 0,
+          "secondsDuringLoupPer60Min": 0,
+          "secondsAllLoupPer60Min": 0,
+          "soloGames": 3,
+          "secondsOutsideSoloPer60Min": 162.97542072575393,
+          "secondsDuringSoloPer60Min": 39.781401909436,
+          "secondsAllSoloPer60Min": 202.75682263518993
+        },
+        {
+          "playerId": "76561198111374489",
+          "player": "Joy",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 1197,
+          "totalSecondsDuring": 906,
+          "totalSecondsAll": 2103,
+          "totalGameDurationSeconds": 8771.258,
+          "secondsOutsidePer60Min": 491.28642664484386,
+          "secondsDuringPer60Min": 371.850879315145,
+          "secondsAllPer60Min": 863.1373059599888,
+          "villageoisGames": 4,
+          "secondsOutsideVillageoisPer60Min": 528.3180069100912,
+          "secondsDuringVillageoisPer60Min": 417.0030297653394,
+          "secondsAllVillageoisPer60Min": 945.3210366754307,
+          "loupGames": 4,
+          "secondsOutsideLoupPer60Min": 457.7484908279787,
+          "secondsDuringLoupPer60Min": 340.668947880858,
+          "secondsAllLoupPer60Min": 798.4174387088367,
+          "soloGames": 1,
+          "secondsOutsideSoloPer60Min": 439.6141164977409,
+          "secondsDuringSoloPer60Min": 0,
+          "secondsAllSoloPer60Min": 439.6141164977409
+        },
+        {
+          "playerId": "76561198064367175",
+          "player": "Holdener",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 1048,
+          "totalSecondsDuring": 499,
+          "totalSecondsAll": 1547,
+          "totalGameDurationSeconds": 7154.223,
+          "secondsOutsidePer60Min": 527.3528655732425,
+          "secondsDuringPer60Min": 251.09645030634354,
+          "secondsAllPer60Min": 778.449315879586,
+          "villageoisGames": 8,
+          "secondsOutsideVillageoisPer60Min": 486.14410743303443,
+          "secondsDuringVillageoisPer60Min": 249.69035220879863,
+          "secondsAllVillageoisPer60Min": 735.8344596418331,
+          "loupGames": 1,
+          "secondsOutsideLoupPer60Min": 737.9493889710731,
+          "secondsDuringLoupPer60Min": 258.28228613987557,
+          "secondsAllLoupPer60Min": 996.2316751109487,
+          "soloGames": 0,
+          "secondsOutsideSoloPer60Min": 0,
+          "secondsDuringSoloPer60Min": 0,
+          "secondsAllSoloPer60Min": 0
+        },
+        {
+          "playerId": "76561198277339785",
+          "player": "Karnarok",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 782,
+          "totalSecondsDuring": 421,
+          "totalSecondsAll": 1203,
+          "totalGameDurationSeconds": 7293.571,
+          "secondsOutsidePer60Min": 385.983765702699,
+          "secondsDuringPer60Min": 207.7994441954428,
+          "secondsAllPer60Min": 593.7832098981418,
+          "villageoisGames": 7,
+          "secondsOutsideVillageoisPer60Min": 385.1338057866061,
+          "secondsDuringVillageoisPer60Min": 195.86428136750345,
+          "secondsAllVillageoisPer60Min": 580.9980871541096,
+          "loupGames": 1,
+          "secondsOutsideLoupPer60Min": 201.70279117562208,
+          "secondsDuringLoupPer60Min": 154.49575494302968,
+          "secondsAllLoupPer60Min": 356.1985461186518,
+          "soloGames": 1,
+          "secondsOutsideSoloPer60Min": 545.875756026876,
+          "secondsDuringSoloPer60Min": 318.1262684130138,
+          "secondsAllSoloPer60Min": 864.0020244398899
+        },
+        {
+          "playerId": "76561199216324750",
+          "player": "MôA",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 853,
+          "totalSecondsDuring": 405,
+          "totalSecondsAll": 1258,
+          "totalGameDurationSeconds": 9164.272,
+          "secondsOutsidePer60Min": 335.08389973584366,
+          "secondsDuringPer60Min": 159.09610714304418,
+          "secondsAllPer60Min": 494.18000687888787,
+          "villageoisGames": 4,
+          "secondsOutsideVillageoisPer60Min": 251.5024238084743,
+          "secondsDuringVillageoisPer60Min": 151.85052003530524,
+          "secondsAllVillageoisPer60Min": 403.35294384377954,
+          "loupGames": 1,
+          "secondsOutsideLoupPer60Min": 385.08069364276884,
+          "secondsDuringLoupPer60Min": 173.1370560564387,
+          "secondsAllLoupPer60Min": 558.2177496992075,
+          "soloGames": 4,
+          "secondsOutsideSoloPer60Min": 396.72640691538976,
+          "secondsDuringSoloPer60Min": 161.6292768914551,
+          "secondsAllSoloPer60Min": 558.3556838068449
+        },
+        {
+          "playerId": "76561198330793890",
+          "player": "Stacy176",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 370,
+          "totalSecondsDuring": 335,
+          "totalSecondsAll": 705,
+          "totalGameDurationSeconds": 8579.935,
+          "secondsOutsidePer60Min": 155.2459313502958,
+          "secondsDuringPer60Min": 140.5605054117543,
+          "secondsAllPer60Min": 295.8064367620501,
+          "villageoisGames": 7,
+          "secondsOutsideVillageoisPer60Min": 139.28894810947165,
+          "secondsDuringVillageoisPer60Min": 157.60183770155356,
+          "secondsAllVillageoisPer60Min": 296.89078581102524,
+          "loupGames": 2,
+          "secondsOutsideLoupPer60Min": 204.71151875017023,
+          "secondsDuringLoupPer60Min": 87.73350803578724,
+          "secondsAllLoupPer60Min": 292.4450267859575,
+          "soloGames": 0,
+          "secondsOutsideSoloPer60Min": 0,
+          "secondsDuringSoloPer60Min": 0,
+          "secondsAllSoloPer60Min": 0
+        },
+        {
+          "playerId": "76561198047490206",
+          "player": "Rigner",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 1059,
+          "totalSecondsDuring": 733,
+          "totalSecondsAll": 1792,
+          "totalGameDurationSeconds": 8911.733,
+          "secondsOutsidePer60Min": 427.7955813981411,
+          "secondsDuringPer60Min": 296.1040237628304,
+          "secondsAllPer60Min": 723.8996051609715,
+          "villageoisGames": 4,
+          "secondsOutsideVillageoisPer60Min": 460.60490270175285,
+          "secondsDuringVillageoisPer60Min": 346.231725848446,
+          "secondsAllVillageoisPer60Min": 806.8366285501988,
+          "loupGames": 2,
+          "secondsOutsideLoupPer60Min": 336.8061028812232,
+          "secondsDuringLoupPer60Min": 275.56862963009166,
+          "secondsAllLoupPer60Min": 612.3747325113148,
+          "soloGames": 3,
+          "secondsOutsideSoloPer60Min": 431.23212124000656,
+          "secondsDuringSoloPer60Min": 218.47190248251988,
+          "secondsAllSoloPer60Min": 649.7040237225265
+        },
+        {
+          "playerId": "76561199562214341",
+          "player": "daichi",
+          "gamesPlayed": 7,
+          "totalSecondsOutside": 599,
+          "totalSecondsDuring": 123,
+          "totalSecondsAll": 722,
+          "totalGameDurationSeconds": 6081.080999999999,
+          "secondsOutsidePer60Min": 354.6080047281068,
+          "secondsDuringPer60Min": 72.81600097088003,
+          "secondsAllPer60Min": 427.4240056989868,
+          "villageoisGames": 6,
+          "secondsOutsideVillageoisPer60Min": 343.48595173969863,
+          "secondsDuringVillageoisPer60Min": 73.73918596980685,
+          "secondsAllVillageoisPer60Min": 417.2251377095055,
+          "loupGames": 0,
+          "secondsOutsideLoupPer60Min": 0,
+          "secondsDuringLoupPer60Min": 0,
+          "secondsAllLoupPer60Min": 0,
+          "soloGames": 1,
+          "secondsOutsideSoloPer60Min": 526.7479007307815,
+          "secondsDuringSoloPer60Min": 58.527544525642384,
+          "secondsAllSoloPer60Min": 585.2754452564238
+        },
+        {
+          "playerId": "76561198272864922",
+          "player": "Adrasse",
+          "gamesPlayed": 7,
+          "totalSecondsOutside": 980,
+          "totalSecondsDuring": 542,
+          "totalSecondsAll": 1522,
+          "totalGameDurationSeconds": 5954.874999999999,
+          "secondsOutsidePer60Min": 592.455761036126,
+          "secondsDuringPer60Min": 327.66430865467373,
+          "secondsAllPer60Min": 920.1200696907997,
+          "villageoisGames": 6,
+          "secondsOutsideVillageoisPer60Min": 606.8071562576588,
+          "secondsDuringVillageoisPer60Min": 337.1150868098104,
+          "secondsAllVillageoisPer60Min": 943.9222430674693,
+          "loupGames": 1,
+          "secondsOutsideLoupPer60Min": 361.56921037301896,
+          "secondsDuringLoupPer60Min": 175.6193307526092,
+          "secondsAllLoupPer60Min": 537.1885411256281,
+          "soloGames": 0,
+          "secondsOutsideSoloPer60Min": 0,
+          "secondsDuringSoloPer60Min": 0,
+          "secondsAllSoloPer60Min": 0
+        }
+      ],
+      "totalGames": 9,
+      "gamesWithTalkingData": 9
+    }
+  },
+  "moddedGames": {
+    "totalGames": 9,
+    "playerStats": {
+      "76561198913595171": {
+        "playerName": "M3lv1",
+        "playerId": "76561198913595171",
+        "gamesPlayed": 7,
+        "wins": 4,
+        "camps": {
+          "villageois": {
+            "played": 5,
+            "won": 4
+          },
+          "loups": {
+            "played": 2,
+            "won": 0
+          },
+          "solo": {
+            "played": 0,
+            "won": 0
+          }
+        },
+        "player": "76561198913595171",
+        "gamesPlayedPercent": "77.8",
+        "winPercent": "57.1"
+      },
+      "76561199001967591": {
+        "playerName": "MioMeph",
+        "playerId": "76561199001967591",
+        "gamesPlayed": 9,
+        "wins": 6,
+        "camps": {
+          "villageois": {
+            "played": 8,
+            "won": 6
+          },
+          "loups": {
+            "played": 1,
+            "won": 0
+          },
+          "solo": {
+            "played": 0,
+            "won": 0
+          }
+        },
+        "player": "76561199001967591",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "66.7"
+      },
+      "76561198007547842": {
+        "playerName": "axelwlt",
+        "playerId": "76561198007547842",
+        "gamesPlayed": 9,
+        "wins": 3,
+        "camps": {
+          "villageois": {
+            "played": 6,
+            "won": 3
+          },
+          "loups": {
+            "played": 1,
+            "won": 0
+          },
+          "solo": {
+            "played": 2,
+            "won": 0
+          }
+        },
+        "player": "76561198007547842",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "33.3"
+      },
+      "76561199503876418": {
+        "playerName": "CorbaxUwU",
+        "playerId": "76561199503876418",
+        "gamesPlayed": 8,
+        "wins": 5,
+        "camps": {
+          "villageois": {
+            "played": 6,
+            "won": 5
+          },
+          "loups": {
+            "played": 2,
+            "won": 0
+          },
+          "solo": {
+            "played": 0,
+            "won": 0
+          }
+        },
+        "player": "76561199503876418",
+        "gamesPlayedPercent": "88.9",
+        "winPercent": "62.5"
+      },
+      "76561198789380722": {
+        "playerName": "Yara",
+        "playerId": "76561198789380722",
+        "gamesPlayed": 9,
+        "wins": 4,
+        "camps": {
+          "villageois": {
+            "played": 6,
+            "won": 4
+          },
+          "loups": {
+            "played": 0,
+            "won": 0
+          },
+          "solo": {
+            "played": 3,
+            "won": 0
+          }
+        },
+        "player": "76561198789380722",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "44.4"
+      },
+      "76561198111374489": {
+        "playerName": "Joy",
+        "playerId": "76561198111374489",
+        "gamesPlayed": 9,
+        "wins": 4,
+        "camps": {
+          "villageois": {
+            "played": 4,
+            "won": 3
+          },
+          "loups": {
+            "played": 4,
+            "won": 1
+          },
+          "solo": {
+            "played": 1,
+            "won": 0
+          }
+        },
+        "player": "76561198111374489",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "44.4"
+      },
+      "76561198064367175": {
+        "playerName": "Holdener",
+        "playerId": "76561198064367175",
+        "gamesPlayed": 9,
+        "wins": 6,
+        "camps": {
+          "villageois": {
+            "played": 8,
+            "won": 6
+          },
+          "loups": {
+            "played": 1,
+            "won": 0
+          },
+          "solo": {
+            "played": 0,
+            "won": 0
+          }
+        },
+        "player": "76561198064367175",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "66.7"
+      },
+      "76561198277339785": {
+        "playerName": "Karnarok",
+        "playerId": "76561198277339785",
+        "gamesPlayed": 9,
+        "wins": 5,
+        "camps": {
+          "villageois": {
+            "played": 7,
+            "won": 5
+          },
+          "loups": {
+            "played": 1,
+            "won": 0
+          },
+          "solo": {
+            "played": 1,
+            "won": 0
+          }
+        },
+        "player": "76561198277339785",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "55.6"
+      },
+      "76561199216324750": {
+        "playerName": "MôA",
+        "playerId": "76561199216324750",
+        "gamesPlayed": 9,
+        "wins": 4,
+        "camps": {
+          "villageois": {
+            "played": 4,
+            "won": 3
+          },
+          "loups": {
+            "played": 1,
+            "won": 0
+          },
+          "solo": {
+            "played": 4,
+            "won": 1
+          }
+        },
+        "player": "76561199216324750",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "44.4"
+      },
+      "76561198330793890": {
+        "playerName": "Stacy176",
+        "playerId": "76561198330793890",
+        "gamesPlayed": 9,
+        "wins": 6,
+        "camps": {
+          "villageois": {
+            "played": 7,
+            "won": 5
+          },
+          "loups": {
+            "played": 2,
+            "won": 1
+          },
+          "solo": {
+            "played": 0,
+            "won": 0
+          }
+        },
+        "player": "76561198330793890",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "66.7"
+      },
+      "76561198047490206": {
+        "playerName": "Rigner",
+        "playerId": "76561198047490206",
+        "gamesPlayed": 9,
+        "wins": 3,
+        "camps": {
+          "villageois": {
+            "played": 4,
+            "won": 2
+          },
+          "loups": {
+            "played": 2,
+            "won": 0
+          },
+          "solo": {
+            "played": 3,
+            "won": 1
+          }
+        },
+        "player": "76561198047490206",
+        "gamesPlayedPercent": "100.0",
+        "winPercent": "33.3"
+      },
+      "76561199562214341": {
+        "playerName": "daichi",
+        "playerId": "76561199562214341",
+        "gamesPlayed": 7,
+        "wins": 4,
+        "camps": {
+          "villageois": {
+            "played": 6,
+            "won": 4
+          },
+          "loups": {
+            "played": 0,
+            "won": 0
+          },
+          "solo": {
+            "played": 1,
+            "won": 0
+          }
+        },
+        "player": "76561199562214341",
+        "gamesPlayedPercent": "77.8",
+        "winPercent": "57.1"
+      },
+      "76561198272864922": {
+        "playerName": "Adrasse",
+        "playerId": "76561198272864922",
+        "gamesPlayed": 7,
+        "wins": 4,
+        "camps": {
+          "villageois": {
+            "played": 6,
+            "won": 4
+          },
+          "loups": {
+            "played": 1,
+            "won": 0
+          },
+          "solo": {
+            "played": 0,
+            "won": 0
+          }
+        },
+        "player": "76561198272864922",
+        "gamesPlayedPercent": "77.8",
+        "winPercent": "57.1"
+      }
+    },
+    "seriesState": {},
+    "mapStats": [
+      {
+        "player": "76561198913595171",
+        "playerName": "M3lv1",
+        "playerId": "76561198913595171",
+        "villageWinRate": 57.14285714285714,
+        "villageGames": 7,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561199001967591",
+        "playerName": "MioMeph",
+        "playerId": "76561199001967591",
+        "villageWinRate": 66.66666666666666,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561198007547842",
+        "playerName": "axelwlt",
+        "playerId": "76561198007547842",
+        "villageWinRate": 33.33333333333333,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561199503876418",
+        "playerName": "CorbaxUwU",
+        "playerId": "76561199503876418",
+        "villageWinRate": 62.5,
+        "villageGames": 8,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561198789380722",
+        "playerName": "Yara",
+        "playerId": "76561198789380722",
+        "villageWinRate": 44.44444444444444,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561198111374489",
+        "playerName": "Joy",
+        "playerId": "76561198111374489",
+        "villageWinRate": 44.44444444444444,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561198064367175",
+        "playerName": "Holdener",
+        "playerId": "76561198064367175",
+        "villageWinRate": 66.66666666666666,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561198277339785",
+        "playerName": "Karnarok",
+        "playerId": "76561198277339785",
+        "villageWinRate": 55.55555555555556,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561199216324750",
+        "playerName": "MôA",
+        "playerId": "76561199216324750",
+        "villageWinRate": 44.44444444444444,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561198330793890",
+        "playerName": "Stacy176",
+        "playerId": "76561198330793890",
+        "villageWinRate": 66.66666666666666,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561198047490206",
+        "playerName": "Rigner",
+        "playerId": "76561198047490206",
+        "villageWinRate": 33.33333333333333,
+        "villageGames": 9,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561199562214341",
+        "playerName": "daichi",
+        "playerId": "76561199562214341",
+        "villageWinRate": 57.14285714285714,
+        "villageGames": 7,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      },
+      {
+        "player": "76561198272864922",
+        "playerName": "Adrasse",
+        "playerId": "76561198272864922",
+        "villageWinRate": 57.14285714285714,
+        "villageGames": 7,
+        "chateauWinRate": 0,
+        "chateauGames": 0
+      }
+    ],
+    "deathStats": {
+      "totalDeaths": 51,
+      "totalGames": 9,
+      "averageDeathsPerGame": 5.666666666666667,
+      "killerStats": [
+        {
+          "killerId": "76561198111374489",
+          "killerName": "Joy",
+          "kills": 12,
+          "percentage": 23.52941176470588,
+          "gamesPlayed": 9,
+          "averageKillsPerGame": 1.3333333333333333,
+          "killsByDeathType": {
+            "BY_WOLF": 9,
+            "SURVIVALIST_NOT_SAVED": 2,
+            "SEER": 1
+          }
+        },
+        {
+          "killerId": "76561198330793890",
+          "killerName": "Stacy176",
+          "kills": 7,
+          "percentage": 13.725490196078432,
+          "gamesPlayed": 9,
+          "averageKillsPerGame": 0.7777777777777778,
+          "killsByDeathType": {
+            "BY_WOLF": 6,
+            "SURVIVALIST_NOT_SAVED": 1
+          }
+        },
+        {
+          "killerId": "76561198047490206",
+          "killerName": "Rigner",
+          "kills": 5,
+          "percentage": 9.803921568627452,
+          "gamesPlayed": 9,
+          "averageKillsPerGame": 0.5555555555555556,
+          "killsByDeathType": {
+            "BY_WOLF": 5
+          }
+        },
+        {
+          "killerId": "76561198272864922",
+          "killerName": "Adrasse",
+          "kills": 5,
+          "percentage": 9.803921568627452,
+          "gamesPlayed": 7,
+          "averageKillsPerGame": 0.7142857142857143,
+          "killsByDeathType": {
+            "BY_ZOMBIE": 3,
+            "BY_WOLF": 2
+          }
+        },
+        {
+          "killerId": "76561198913595171",
+          "killerName": "M3lv1",
+          "kills": 4,
+          "percentage": 7.8431372549019605,
+          "gamesPlayed": 7,
+          "averageKillsPerGame": 0.5714285714285714,
+          "killsByDeathType": {
+            "BY_WOLF": 4
+          }
+        },
+        {
+          "killerId": "76561198007547842",
+          "killerName": "axelwlt",
+          "kills": 4,
+          "percentage": 7.8431372549019605,
+          "gamesPlayed": 9,
+          "averageKillsPerGame": 0.4444444444444444,
+          "killsByDeathType": {
+            "BY_WOLF": 3,
+            "BY_ZOMBIE": 1
+          }
+        },
+        {
+          "killerId": "76561198064367175",
+          "killerName": "Holdener",
+          "kills": 2,
+          "percentage": 3.9215686274509802,
+          "gamesPlayed": 9,
+          "averageKillsPerGame": 0.2222222222222222,
+          "killsByDeathType": {
+            "BY_WOLF": 1,
+            "BY_ZOMBIE": 1
+          }
+        },
+        {
+          "killerId": "76561199503876418",
+          "killerName": "CorbaxUwU",
+          "kills": 2,
+          "percentage": 3.9215686274509802,
+          "gamesPlayed": 8,
+          "averageKillsPerGame": 0.25,
+          "killsByDeathType": {
+            "SEER": 1,
+            "BY_WOLF": 1
+          }
+        },
+        {
+          "killerId": "76561199216324750",
+          "killerName": "MôA",
+          "kills": 1,
+          "percentage": 1.9607843137254901,
+          "gamesPlayed": 9,
+          "averageKillsPerGame": 0.1111111111111111,
+          "killsByDeathType": {
+            "BY_WOLF": 1
+          }
+        },
+        {
+          "killerId": "76561199001967591",
+          "killerName": "MioMeph",
+          "kills": 1,
+          "percentage": 1.9607843137254901,
+          "gamesPlayed": 9,
+          "averageKillsPerGame": 0.1111111111111111,
+          "killsByDeathType": {
+            "BY_WOLF": 1
+          }
+        }
+      ],
+      "playerDeathStats": [
+        {
+          "player": "76561198913595171",
+          "playerName": "M3lv1",
+          "totalDeaths": 6,
+          "day1Deaths": 0,
+          "survivalDay1Rate": 100,
+          "deathsByType": {
+            "VOTED": 1,
+            "BY_WOLF": 4,
+            "SEER": 1
+          },
+          "killedBy": {
+            "MôA": 1,
+            "Stacy176": 1,
+            "CorbaxUwU": 1,
+            "Rigner": 1,
+            "Joy": 1
+          },
+          "gamesPlayed": 7,
+          "deathRate": 0.8571428571428571
+        },
+        {
+          "player": "76561198789380722",
+          "playerName": "Yara",
+          "totalDeaths": 6,
+          "day1Deaths": 1,
+          "survivalDay1Rate": 88.88888888888889,
+          "deathsByType": {
+            "BY_WOLF": 4,
+            "BY_ZOMBIE": 1,
+            "SEER": 1
+          },
+          "killedBy": {
+            "Rigner": 1,
+            "M3lv1": 1,
+            "Adrasse": 2,
+            "Joy": 1,
+            "Stacy176": 1
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.6666666666666666
+        },
+        {
+          "player": "76561198064367175",
+          "playerName": "Holdener",
+          "totalDeaths": 5,
+          "day1Deaths": 1,
+          "survivalDay1Rate": 88.88888888888889,
+          "deathsByType": {
+            "BY_WOLF": 4,
+            "BY_ZOMBIE": 1
+          },
+          "killedBy": {
+            "Rigner": 1,
+            "axelwlt": 1,
+            "Adrasse": 1,
+            "Joy": 2
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.5555555555555556
+        },
+        {
+          "player": "76561198277339785",
+          "playerName": "Karnarok",
+          "totalDeaths": 5,
+          "day1Deaths": 1,
+          "survivalDay1Rate": 88.88888888888889,
+          "deathsByType": {
+            "BY_WOLF": 3,
+            "VOTED": 1,
+            "STARVATION": 1
+          },
+          "killedBy": {
+            "M3lv1": 1,
+            "Joy": 1,
+            "Stacy176": 1
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.5555555555555556
+        },
+        {
+          "player": "76561199001967591",
+          "playerName": "MioMeph",
+          "totalDeaths": 5,
+          "day1Deaths": 1,
+          "survivalDay1Rate": 88.88888888888889,
+          "deathsByType": {
+            "BY_WOLF": 4,
+            "VOTED": 1
+          },
+          "killedBy": {
+            "axelwlt": 1,
+            "Stacy176": 2,
+            "Rigner": 1
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.5555555555555556
+        },
+        {
+          "player": "76561198007547842",
+          "playerName": "axelwlt",
+          "totalDeaths": 5,
+          "day1Deaths": 1,
+          "survivalDay1Rate": 88.88888888888889,
+          "deathsByType": {
+            "BY_WOLF": 3,
+            "BY_ZOMBIE": 1,
+            "SURVIVALIST_NOT_SAVED": 1
+          },
+          "killedBy": {
+            "Holdener": 1,
+            "Adrasse": 1,
+            "CorbaxUwU": 1,
+            "Joy": 1,
+            "Stacy176": 1
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.5555555555555556
+        },
+        {
+          "player": "76561199503876418",
+          "playerName": "CorbaxUwU",
+          "totalDeaths": 4,
+          "day1Deaths": 0,
+          "survivalDay1Rate": 100,
+          "deathsByType": {
+            "BY_WOLF": 2,
+            "SURVIVALIST_NOT_SAVED": 1,
+            "VOTED": 1
+          },
+          "killedBy": {
+            "M3lv1": 2,
+            "Joy": 1
+          },
+          "gamesPlayed": 8,
+          "deathRate": 0.5
+        },
+        {
+          "player": "76561198047490206",
+          "playerName": "Rigner",
+          "totalDeaths": 4,
+          "day1Deaths": 0,
+          "survivalDay1Rate": 100,
+          "deathsByType": {
+            "VOTED": 1,
+            "BY_WOLF": 2,
+            "BY_ZOMBIE": 1
+          },
+          "killedBy": {
+            "axelwlt": 1,
+            "Holdener": 1,
+            "MioMeph": 1
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.4444444444444444
+        },
+        {
+          "player": "76561198330793890",
+          "playerName": "Stacy176",
+          "totalDeaths": 3,
+          "day1Deaths": 0,
+          "survivalDay1Rate": 100,
+          "deathsByType": {
+            "BY_WOLF": 3
+          },
+          "killedBy": {
+            "Rigner": 1,
+            "Joy": 2
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.3333333333333333
+        },
+        {
+          "player": "76561198272864922",
+          "playerName": "Adrasse",
+          "totalDeaths": 3,
+          "day1Deaths": 1,
+          "survivalDay1Rate": 85.71428571428571,
+          "deathsByType": {
+            "BY_WOLF": 1,
+            "VOTED": 1,
+            "SURVIVALIST_NOT_SAVED": 1
+          },
+          "killedBy": {
+            "Stacy176": 1,
+            "Joy": 1
+          },
+          "gamesPlayed": 7,
+          "deathRate": 0.42857142857142855
+        },
+        {
+          "player": "76561199562214341",
+          "playerName": "daichi",
+          "totalDeaths": 2,
+          "day1Deaths": 0,
+          "survivalDay1Rate": 100,
+          "deathsByType": {
+            "BY_ZOMBIE": 1,
+            "BY_WOLF": 1
+          },
+          "killedBy": {
+            "axelwlt": 1,
+            "Joy": 1
+          },
+          "gamesPlayed": 7,
+          "deathRate": 0.2857142857142857
+        },
+        {
+          "player": "76561198111374489",
+          "playerName": "Joy",
+          "totalDeaths": 2,
+          "day1Deaths": 1,
+          "survivalDay1Rate": 88.88888888888889,
+          "deathsByType": {
+            "BY_WOLF": 1,
+            "VOTED": 1
+          },
+          "killedBy": {
+            "Adrasse": 1
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.2222222222222222
+        },
+        {
+          "player": "76561199216324750",
+          "playerName": "MôA",
+          "totalDeaths": 1,
+          "day1Deaths": 0,
+          "survivalDay1Rate": 100,
+          "deathsByType": {
+            "BY_WOLF": 1
+          },
+          "killedBy": {
+            "Joy": 1
+          },
+          "gamesPlayed": 9,
+          "deathRate": 0.1111111111111111
+        }
+      ],
+      "campKillRates": [
+        {
+          "player": "76561198913595171",
+          "killRateVillageois": 0,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 0,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 100,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561199001967591",
+          "killRateVillageois": 0,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 50,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 87.5,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561198007547842",
+          "killRateVillageois": 0.16666666666666666,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 16.666666666666664,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 83.33333333333334,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561199503876418",
+          "killRateVillageois": 0,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 50,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 100,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561198789380722",
+          "killRateVillageois": 0,
+          "killRateLoup": null,
+          "killRateSolo": 0,
+          "survivalRateVillageois": 33.33333333333333,
+          "survivalRateLoup": null,
+          "survivalRateSolo": 33.33333333333333,
+          "survivalDay1RateVillageois": 83.33333333333334,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": 33.33333333333333
+        },
+        {
+          "player": "76561198111374489",
+          "killRateVillageois": null,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": null,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": null,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561198064367175",
+          "killRateVillageois": 0.125,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 37.5,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 87.5,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561198277339785",
+          "killRateVillageois": 0,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 42.857142857142854,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 85.71428571428571,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561199216324750",
+          "killRateVillageois": null,
+          "killRateLoup": null,
+          "killRateSolo": 0,
+          "survivalRateVillageois": null,
+          "survivalRateLoup": null,
+          "survivalRateSolo": 100,
+          "survivalDay1RateVillageois": null,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": 100
+        },
+        {
+          "player": "76561198330793890",
+          "killRateVillageois": 0,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 57.14285714285714,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 100,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561198047490206",
+          "killRateVillageois": null,
+          "killRateLoup": null,
+          "killRateSolo": 0,
+          "survivalRateVillageois": null,
+          "survivalRateLoup": null,
+          "survivalRateSolo": 33.33333333333333,
+          "survivalDay1RateVillageois": null,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": 33.33333333333333
+        },
+        {
+          "player": "76561199562214341",
+          "killRateVillageois": 0,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 83.33333333333334,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 100,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        },
+        {
+          "player": "76561198272864922",
+          "killRateVillageois": 0.5,
+          "killRateLoup": null,
+          "killRateSolo": null,
+          "survivalRateVillageois": 66.66666666666666,
+          "survivalRateLoup": null,
+          "survivalRateSolo": null,
+          "survivalDay1RateVillageois": 100,
+          "survivalDay1RateLoup": null,
+          "survivalDay1RateSolo": null
+        }
+      ],
+      "mostDeadlyKiller": "Joy"
+    },
+    "hunterStats": {
+      "totalHunters": 4,
+      "totalGames": 9,
+      "hunterStats": [
+        {
+          "hunterId": "76561198913595171",
+          "hunterName": "M3lv1",
+          "totalKills": 0,
+          "nonVillageoisKills": 0,
+          "villageoisKills": 0,
+          "gamesPlayedAsHunter": 1,
+          "averageKillsPerGame": 0,
+          "averageNonVillageoisKillsPerGame": 0,
+          "killsByDeathType": {},
+          "victimsByCamp": {},
+          "goodVictimsByCamp": {},
+          "badVictimsByCamp": {},
+          "totalShots": 1,
+          "shotsHit": 1,
+          "shotsMissed": 0,
+          "shotAccuracy": 100
+        },
+        {
+          "hunterId": "76561198272864922",
+          "hunterName": "Adrasse",
+          "totalKills": 0,
+          "nonVillageoisKills": 0,
+          "villageoisKills": 0,
+          "gamesPlayedAsHunter": 1,
+          "averageKillsPerGame": 0,
+          "averageNonVillageoisKillsPerGame": 0,
+          "killsByDeathType": {},
+          "victimsByCamp": {},
+          "goodVictimsByCamp": {},
+          "badVictimsByCamp": {},
+          "totalShots": 0,
+          "shotsHit": 0,
+          "shotsMissed": 0,
+          "shotAccuracy": null
+        },
+        {
+          "hunterId": "76561198007547842",
+          "hunterName": "axelwlt",
+          "totalKills": 0,
+          "nonVillageoisKills": 0,
+          "villageoisKills": 0,
+          "gamesPlayedAsHunter": 1,
+          "averageKillsPerGame": 0,
+          "averageNonVillageoisKillsPerGame": 0,
+          "killsByDeathType": {},
+          "victimsByCamp": {},
+          "goodVictimsByCamp": {},
+          "badVictimsByCamp": {},
+          "totalShots": 1,
+          "shotsHit": 1,
+          "shotsMissed": 0,
+          "shotAccuracy": 100
+        },
+        {
+          "hunterId": "76561198330793890",
+          "hunterName": "Stacy176",
+          "totalKills": 0,
+          "nonVillageoisKills": 0,
+          "villageoisKills": 0,
+          "gamesPlayedAsHunter": 1,
+          "averageKillsPerGame": 0,
+          "averageNonVillageoisKillsPerGame": 0,
+          "killsByDeathType": {},
+          "victimsByCamp": {},
+          "goodVictimsByCamp": {},
+          "badVictimsByCamp": {},
+          "totalShots": 2,
+          "shotsHit": 1,
+          "shotsMissed": 1,
+          "shotAccuracy": 50
+        }
+      ],
+      "bestHunter": "M3lv1",
+      "bestAverageHunter": "M3lv1"
+    },
+    "campStats": [
+      {
+        "player": "76561198913595171",
+        "playerName": "M3lv1",
+        "playerId": "76561198913595171",
+        "camp": "Villageois",
+        "games": 4,
+        "wins": 3,
+        "winRate": 75,
+        "performance": 1.923076923076934,
+        "totalGames": 7
+      },
+      {
+        "player": "76561199001967591",
+        "playerName": "MioMeph",
+        "playerId": "76561199001967591",
+        "camp": "Villageois",
+        "games": 6,
+        "wins": 4,
+        "winRate": 66.66666666666666,
+        "performance": -6.410256410256409,
+        "totalGames": 9
+      },
+      {
+        "player": "76561199503876418",
+        "playerName": "CorbaxUwU",
+        "playerId": "76561199503876418",
+        "camp": "Villageois",
+        "games": 4,
+        "wins": 3,
+        "winRate": 75,
+        "performance": 1.923076923076934,
+        "totalGames": 8
+      },
+      {
+        "player": "76561198789380722",
+        "playerName": "Yara",
+        "playerId": "76561198789380722",
+        "camp": "Villageois",
+        "games": 5,
+        "wins": 4,
+        "winRate": 80,
+        "performance": 6.923076923076934,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198111374489",
+        "playerName": "Joy",
+        "playerId": "76561198111374489",
+        "camp": "Loup",
+        "games": 4,
+        "wins": 1,
+        "winRate": 25,
+        "performance": 13.88888888888889,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198064367175",
+        "playerName": "Holdener",
+        "playerId": "76561198064367175",
+        "camp": "Villageois",
+        "games": 6,
+        "wins": 5,
+        "winRate": 83.33333333333334,
+        "performance": 10.256410256410277,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198277339785",
+        "playerName": "Karnarok",
+        "playerId": "76561198277339785",
+        "camp": "Villageois",
+        "games": 6,
+        "wins": 5,
+        "winRate": 83.33333333333334,
+        "performance": 10.256410256410277,
+        "totalGames": 9
+      },
+      {
+        "player": "76561199216324750",
+        "playerName": "MôA",
+        "playerId": "76561199216324750",
+        "camp": "Vaudou",
+        "games": 3,
+        "wins": 1,
+        "winRate": 33.33333333333333,
+        "performance": -2.3809523809523867,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198330793890",
+        "playerName": "Stacy176",
+        "playerId": "76561198330793890",
+        "camp": "Villageois",
+        "games": 5,
+        "wins": 4,
+        "winRate": 80,
+        "performance": 6.923076923076934,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198047490206",
+        "playerName": "Rigner",
+        "playerId": "76561198047490206",
+        "camp": "Villageois",
+        "games": 4,
+        "wins": 2,
+        "winRate": 50,
+        "performance": -23.076923076923066,
+        "totalGames": 9
+      },
+      {
+        "player": "76561199562214341",
+        "playerName": "daichi",
+        "playerId": "76561199562214341",
+        "camp": "Guetteur",
+        "games": 3,
+        "wins": 3,
+        "winRate": 100,
+        "performance": 14.285714285714292,
+        "totalGames": 7
+      },
+      {
+        "player": "76561199562214341",
+        "playerName": "daichi",
+        "playerId": "76561199562214341",
+        "camp": "Villageois",
+        "games": 3,
+        "wins": 1,
+        "winRate": 33.33333333333333,
+        "performance": -39.74358974358974,
+        "totalGames": 7
+      },
+      {
+        "player": "76561198272864922",
+        "playerName": "Adrasse",
+        "playerId": "76561198272864922",
+        "camp": "Villageois",
+        "games": 3,
+        "wins": 3,
+        "winRate": 100,
+        "performance": 26.923076923076934,
+        "totalGames": 7
+      },
+      {
+        "player": "76561198913595171",
+        "playerName": "M3lv1",
+        "playerId": "76561198913595171",
+        "camp": "Camp Villageois",
+        "games": 4,
+        "wins": 3,
+        "winRate": 75,
+        "performance": 2.536231884057969,
+        "totalGames": 7
+      },
+      {
+        "player": "76561199001967591",
+        "playerName": "MioMeph",
+        "playerId": "76561199001967591",
+        "camp": "Camp Villageois",
+        "games": 7,
+        "wins": 5,
+        "winRate": 71.42857142857143,
+        "performance": -1.0351966873706004,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198007547842",
+        "playerName": "axelwlt",
+        "playerId": "76561198007547842",
+        "camp": "Camp Villageois",
+        "games": 5,
+        "wins": 3,
+        "winRate": 60,
+        "performance": -12.463768115942031,
+        "totalGames": 9
+      },
+      {
+        "player": "76561199503876418",
+        "playerName": "CorbaxUwU",
+        "playerId": "76561199503876418",
+        "camp": "Camp Villageois",
+        "games": 6,
+        "wins": 5,
+        "winRate": 83.33333333333334,
+        "performance": 10.869565217391312,
+        "totalGames": 8
+      },
+      {
+        "player": "76561198789380722",
+        "playerName": "Yara",
+        "playerId": "76561198789380722",
+        "camp": "Camp Villageois",
+        "games": 5,
+        "wins": 4,
+        "winRate": 80,
+        "performance": 7.536231884057969,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198111374489",
+        "playerName": "Joy",
+        "playerId": "76561198111374489",
+        "camp": "Camp Villageois",
+        "games": 4,
+        "wins": 3,
+        "winRate": 75,
+        "performance": 2.536231884057969,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198111374489",
+        "playerName": "Joy",
+        "playerId": "76561198111374489",
+        "camp": "Camp Loup",
+        "games": 4,
+        "wins": 1,
+        "winRate": 25,
+        "performance": 13.88888888888889,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198064367175",
+        "playerName": "Holdener",
+        "playerId": "76561198064367175",
+        "camp": "Camp Villageois",
+        "games": 6,
+        "wins": 5,
+        "winRate": 83.33333333333334,
+        "performance": 10.869565217391312,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198277339785",
+        "playerName": "Karnarok",
+        "playerId": "76561198277339785",
+        "camp": "Camp Villageois",
+        "games": 7,
+        "wins": 5,
+        "winRate": 71.42857142857143,
+        "performance": -1.0351966873706004,
+        "totalGames": 9
+      },
+      {
+        "player": "76561199216324750",
+        "playerName": "MôA",
+        "playerId": "76561199216324750",
+        "camp": "Camp Villageois",
+        "games": 4,
+        "wins": 3,
+        "winRate": 75,
+        "performance": 2.536231884057969,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198330793890",
+        "playerName": "Stacy176",
+        "playerId": "76561198330793890",
+        "camp": "Camp Villageois",
+        "games": 6,
+        "wins": 5,
+        "winRate": 83.33333333333334,
+        "performance": 10.869565217391312,
+        "totalGames": 9
+      },
+      {
+        "player": "76561198047490206",
+        "playerName": "Rigner",
+        "playerId": "76561198047490206",
+        "camp": "Camp Villageois",
+        "games": 4,
+        "wins": 2,
+        "winRate": 50,
+        "performance": -22.46376811594203,
+        "totalGames": 9
+      },
+      {
+        "player": "76561199562214341",
+        "playerName": "daichi",
+        "playerId": "76561199562214341",
+        "camp": "Camp Villageois",
+        "games": 6,
+        "wins": 4,
+        "winRate": 66.66666666666666,
+        "performance": -5.797101449275374,
+        "totalGames": 7
+      },
+      {
+        "player": "76561198272864922",
+        "playerName": "Adrasse",
+        "playerId": "76561198272864922",
+        "camp": "Camp Villageois",
+        "games": 5,
+        "wins": 3,
+        "winRate": 60,
+        "performance": -12.463768115942031,
+        "totalGames": 7
+      }
+    ],
+    "votingStats": {
+      "playerBehaviorStats": [
+        {
+          "player": "76561198913595171",
+          "playerName": "M3lv1",
+          "totalMeetings": 13,
+          "totalVotes": 1,
+          "totalSkips": 8,
+          "totalAbstentions": 4,
+          "votingRate": 7.6923076923076925,
+          "skippingRate": 61.53846153846154,
+          "abstentionRate": 30.76923076923077,
+          "aggressivenessScore": -44.61538461538461,
+          "aggressivenessVillageois": -56.66666666666666,
+          "aggressivenessLoup": -31.666666666666664,
+          "aggressivenessSolo": -50,
+          "meetingsVillageois": 6,
+          "meetingsLoup": 6,
+          "meetingsSolo": 1
+        },
+        {
+          "player": "76561199001967591",
+          "playerName": "MioMeph",
+          "totalMeetings": 19,
+          "totalVotes": 5,
+          "totalSkips": 12,
+          "totalAbstentions": 2,
+          "votingRate": 26.31578947368421,
+          "skippingRate": 63.1578947368421,
+          "abstentionRate": 10.526315789473683,
+          "aggressivenessScore": -12.631578947368421,
+          "aggressivenessVillageois": -5.625,
+          "aggressivenessLoup": -50,
+          "aggressivenessSolo": -50,
+          "meetingsVillageois": 16,
+          "meetingsLoup": 2,
+          "meetingsSolo": 1
+        },
+        {
+          "player": "76561198007547842",
+          "playerName": "axelwlt",
+          "totalMeetings": 22,
+          "totalVotes": 7,
+          "totalSkips": 14,
+          "totalAbstentions": 1,
+          "votingRate": 31.818181818181817,
+          "skippingRate": 63.63636363636363,
+          "abstentionRate": 4.545454545454546,
+          "aggressivenessScore": -3.181818181818182,
+          "aggressivenessVillageois": 12.500000000000004,
+          "aggressivenessLoup": -56.66666666666666,
+          "aggressivenessSolo": -7.142857142857146,
+          "meetingsVillageois": 12,
+          "meetingsLoup": 3,
+          "meetingsSolo": 7
+        },
+        {
+          "player": "76561199503876418",
+          "playerName": "CorbaxUwU",
+          "totalMeetings": 19,
+          "totalVotes": 3,
+          "totalSkips": 14,
+          "totalAbstentions": 2,
+          "votingRate": 15.789473684210526,
+          "skippingRate": 73.68421052631578,
+          "abstentionRate": 10.526315789473683,
+          "aggressivenessScore": -28.42105263157894,
+          "aggressivenessVillageois": -16.92307692307692,
+          "aggressivenessLoup": -53.333333333333336,
+          "aggressivenessSolo": null,
+          "meetingsVillageois": 13,
+          "meetingsLoup": 6,
+          "meetingsSolo": 0
+        },
+        {
+          "player": "76561198789380722",
+          "playerName": "Yara",
+          "totalMeetings": 18,
+          "totalVotes": 1,
+          "totalSkips": 12,
+          "totalAbstentions": 5,
+          "votingRate": 5.555555555555555,
+          "skippingRate": 66.66666666666666,
+          "abstentionRate": 27.77777777777778,
+          "aggressivenessScore": -47.222222222222214,
+          "aggressivenessVillageois": -54,
+          "aggressivenessLoup": null,
+          "aggressivenessSolo": -38.75,
+          "meetingsVillageois": 10,
+          "meetingsLoup": 0,
+          "meetingsSolo": 8
+        },
+        {
+          "player": "76561198111374489",
+          "playerName": "Joy",
+          "totalMeetings": 24,
+          "totalVotes": 3,
+          "totalSkips": 19,
+          "totalAbstentions": 2,
+          "votingRate": 12.5,
+          "skippingRate": 79.16666666666666,
+          "abstentionRate": 8.333333333333332,
+          "aggressivenessScore": -32.91666666666666,
+          "aggressivenessVillageois": -10.90909090909091,
+          "aggressivenessLoup": -51.53846153846154,
+          "aggressivenessSolo": null,
+          "meetingsVillageois": 11,
+          "meetingsLoup": 13,
+          "meetingsSolo": 0
+        },
+        {
+          "player": "76561198064367175",
+          "playerName": "Holdener",
+          "totalMeetings": 19,
+          "totalVotes": 1,
+          "totalSkips": 13,
+          "totalAbstentions": 5,
+          "votingRate": 5.263157894736842,
+          "skippingRate": 68.42105263157895,
+          "abstentionRate": 26.31578947368421,
+          "aggressivenessScore": -47.368421052631575,
+          "aggressivenessVillageois": -39.16666666666667,
+          "aggressivenessLoup": -70,
+          "aggressivenessSolo": -55,
+          "meetingsVillageois": 12,
+          "meetingsLoup": 3,
+          "meetingsSolo": 4
+        },
+        {
+          "player": "76561198277339785",
+          "playerName": "Karnarok",
+          "totalMeetings": 20,
+          "totalVotes": 8,
+          "totalSkips": 8,
+          "totalAbstentions": 4,
+          "votingRate": 40,
+          "skippingRate": 40,
+          "abstentionRate": 20,
+          "aggressivenessScore": 6,
+          "aggressivenessVillageois": 16,
+          "aggressivenessLoup": -60,
+          "aggressivenessSolo": 0,
+          "meetingsVillageois": 15,
+          "meetingsLoup": 2,
+          "meetingsSolo": 3
+        },
+        {
+          "player": "76561199216324750",
+          "playerName": "MôA",
+          "totalMeetings": 25,
+          "totalVotes": 6,
+          "totalSkips": 15,
+          "totalAbstentions": 4,
+          "votingRate": 24,
+          "skippingRate": 60,
+          "abstentionRate": 16,
+          "aggressivenessScore": -17.2,
+          "aggressivenessVillageois": 16.363636363636363,
+          "aggressivenessLoup": -56.66666666666666,
+          "aggressivenessSolo": -40,
+          "meetingsVillageois": 11,
+          "meetingsLoup": 3,
+          "meetingsSolo": 11
+        },
+        {
+          "player": "76561198330793890",
+          "playerName": "Stacy176",
+          "totalMeetings": 23,
+          "totalVotes": 3,
+          "totalSkips": 15,
+          "totalAbstentions": 5,
+          "votingRate": 13.043478260869565,
+          "skippingRate": 65.21739130434783,
+          "abstentionRate": 21.73913043478261,
+          "aggressivenessScore": -34.78260869565218,
+          "aggressivenessVillageois": -34.28571428571428,
+          "aggressivenessLoup": -25.000000000000007,
+          "aggressivenessSolo": -56.66666666666666,
+          "meetingsVillageois": 14,
+          "meetingsLoup": 6,
+          "meetingsSolo": 3
+        },
+        {
+          "player": "76561198047490206",
+          "playerName": "Rigner",
+          "totalMeetings": 24,
+          "totalVotes": 5,
+          "totalSkips": 13,
+          "totalAbstentions": 6,
+          "votingRate": 20.833333333333336,
+          "skippingRate": 54.166666666666664,
+          "abstentionRate": 25,
+          "aggressivenessScore": -23.749999999999996,
+          "aggressivenessVillageois": -6.923076923076922,
+          "aggressivenessLoup": -66,
+          "aggressivenessSolo": -25.000000000000007,
+          "meetingsVillageois": 13,
+          "meetingsLoup": 5,
+          "meetingsSolo": 6
+        },
+        {
+          "player": "76561199562214341",
+          "playerName": "daichi",
+          "totalMeetings": 16,
+          "totalVotes": 3,
+          "totalSkips": 9,
+          "totalAbstentions": 4,
+          "votingRate": 18.75,
+          "skippingRate": 56.25,
+          "abstentionRate": 25,
+          "aggressivenessScore": -26.875,
+          "aggressivenessVillageois": -25.333333333333336,
+          "aggressivenessLoup": null,
+          "aggressivenessSolo": -50,
+          "meetingsVillageois": 15,
+          "meetingsLoup": 0,
+          "meetingsSolo": 1
+        },
+        {
+          "player": "76561198272864922",
+          "playerName": "Adrasse",
+          "totalMeetings": 16,
+          "totalVotes": 2,
+          "totalSkips": 12,
+          "totalAbstentions": 2,
+          "votingRate": 12.5,
+          "skippingRate": 75,
+          "abstentionRate": 12.5,
+          "aggressivenessScore": -33.75,
+          "aggressivenessVillageois": -31.42857142857143,
+          "aggressivenessLoup": -50,
+          "aggressivenessSolo": -50,
+          "meetingsVillageois": 14,
+          "meetingsLoup": 1,
+          "meetingsSolo": 1
+        }
+      ],
+      "playerAccuracyStats": [
+        {
+          "player": "76561198913595171",
+          "playerName": "M3lv1",
+          "totalMeetings": 13,
+          "totalVotes": 1,
+          "votesForEnemyCamp": 1,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": null,
+          "accuracyLoup": 100,
+          "accuracySolo": null,
+          "votesVillageois": 0,
+          "votesLoup": 1,
+          "votesSolo": 0
+        },
+        {
+          "player": "76561199001967591",
+          "playerName": "MioMeph",
+          "totalMeetings": 19,
+          "totalVotes": 5,
+          "votesForEnemyCamp": 5,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": 100,
+          "accuracyLoup": null,
+          "accuracySolo": null,
+          "votesVillageois": 5,
+          "votesLoup": 0,
+          "votesSolo": 0
+        },
+        {
+          "player": "76561198007547842",
+          "playerName": "axelwlt",
+          "totalMeetings": 22,
+          "totalVotes": 7,
+          "votesForEnemyCamp": 7,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": 100,
+          "accuracyLoup": null,
+          "accuracySolo": 100,
+          "votesVillageois": 5,
+          "votesLoup": 0,
+          "votesSolo": 2
+        },
+        {
+          "player": "76561199503876418",
+          "playerName": "CorbaxUwU",
+          "totalMeetings": 19,
+          "totalVotes": 3,
+          "votesForEnemyCamp": 2,
+          "votesForOwnCamp": 1,
+          "accuracyRate": 66.66666666666666,
+          "friendlyFireRate": 33.33333333333333,
+          "accuracyVillageois": 66.66666666666666,
+          "accuracyLoup": null,
+          "accuracySolo": null,
+          "votesVillageois": 3,
+          "votesLoup": 0,
+          "votesSolo": 0
+        },
+        {
+          "player": "76561198789380722",
+          "playerName": "Yara",
+          "totalMeetings": 18,
+          "totalVotes": 1,
+          "votesForEnemyCamp": 1,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": null,
+          "accuracyLoup": null,
+          "accuracySolo": 100,
+          "votesVillageois": 0,
+          "votesLoup": 0,
+          "votesSolo": 1
+        },
+        {
+          "player": "76561198111374489",
+          "playerName": "Joy",
+          "totalMeetings": 24,
+          "totalVotes": 3,
+          "votesForEnemyCamp": 3,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": 100,
+          "accuracyLoup": null,
+          "accuracySolo": null,
+          "votesVillageois": 3,
+          "votesLoup": 0,
+          "votesSolo": 0
+        },
+        {
+          "player": "76561198064367175",
+          "playerName": "Holdener",
+          "totalMeetings": 19,
+          "totalVotes": 1,
+          "votesForEnemyCamp": 1,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": 100,
+          "accuracyLoup": null,
+          "accuracySolo": null,
+          "votesVillageois": 1,
+          "votesLoup": 0,
+          "votesSolo": 0
+        },
+        {
+          "player": "76561198277339785",
+          "playerName": "Karnarok",
+          "totalMeetings": 20,
+          "totalVotes": 8,
+          "votesForEnemyCamp": 8,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": 100,
+          "accuracyLoup": null,
+          "accuracySolo": 100,
+          "votesVillageois": 7,
+          "votesLoup": 0,
+          "votesSolo": 1
+        },
+        {
+          "player": "76561199216324750",
+          "playerName": "MôA",
+          "totalMeetings": 25,
+          "totalVotes": 6,
+          "votesForEnemyCamp": 6,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": 100,
+          "accuracyLoup": null,
+          "accuracySolo": 100,
+          "votesVillageois": 5,
+          "votesLoup": 0,
+          "votesSolo": 1
+        },
+        {
+          "player": "76561198330793890",
+          "playerName": "Stacy176",
+          "totalMeetings": 23,
+          "totalVotes": 3,
+          "votesForEnemyCamp": 2,
+          "votesForOwnCamp": 1,
+          "accuracyRate": 66.66666666666666,
+          "friendlyFireRate": 33.33333333333333,
+          "accuracyVillageois": 100,
+          "accuracyLoup": 0,
+          "accuracySolo": null,
+          "votesVillageois": 2,
+          "votesLoup": 1,
+          "votesSolo": 0
+        },
+        {
+          "player": "76561198047490206",
+          "playerName": "Rigner",
+          "totalMeetings": 24,
+          "totalVotes": 5,
+          "votesForEnemyCamp": 4,
+          "votesForOwnCamp": 1,
+          "accuracyRate": 80,
+          "friendlyFireRate": 20,
+          "accuracyVillageois": 75,
+          "accuracyLoup": null,
+          "accuracySolo": 100,
+          "votesVillageois": 4,
+          "votesLoup": 0,
+          "votesSolo": 1
+        },
+        {
+          "player": "76561199562214341",
+          "playerName": "daichi",
+          "totalMeetings": 16,
+          "totalVotes": 3,
+          "votesForEnemyCamp": 3,
+          "votesForOwnCamp": 0,
+          "accuracyRate": 100,
+          "friendlyFireRate": 0,
+          "accuracyVillageois": 100,
+          "accuracyLoup": null,
+          "accuracySolo": null,
+          "votesVillageois": 3,
+          "votesLoup": 0,
+          "votesSolo": 0
+        },
+        {
+          "player": "76561198272864922",
+          "playerName": "Adrasse",
+          "totalMeetings": 16,
+          "totalVotes": 2,
+          "votesForEnemyCamp": 1,
+          "votesForOwnCamp": 1,
+          "accuracyRate": 50,
+          "friendlyFireRate": 50,
+          "accuracyVillageois": 50,
+          "accuracyLoup": null,
+          "accuracySolo": null,
+          "votesVillageois": 2,
+          "votesLoup": 0,
+          "votesSolo": 0
+        }
+      ],
+      "playerTargetStats": [
+        {
+          "player": "76561198913595171",
+          "playerName": "M3lv1",
+          "totalTimesTargeted": 5,
+          "timesTargetedByEnemyCamp": 4,
+          "timesTargetedByOwnCamp": 1,
+          "timesTargetedAsVillager": 1,
+          "timesTargetedAsWolf": 4,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 4,
+          "survivalRate": 20
+        },
+        {
+          "player": "76561199001967591",
+          "playerName": "MioMeph",
+          "totalTimesTargeted": 7,
+          "timesTargetedByEnemyCamp": 7,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 1,
+          "timesTargetedAsWolf": 6,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 6,
+          "survivalRate": 14.285714285714285
+        },
+        {
+          "player": "76561198007547842",
+          "playerName": "axelwlt",
+          "totalTimesTargeted": 0,
+          "timesTargetedByEnemyCamp": 0,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 0,
+          "timesTargetedAsWolf": 0,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 0,
+          "survivalRate": 100
+        },
+        {
+          "player": "76561199503876418",
+          "playerName": "CorbaxUwU",
+          "totalTimesTargeted": 5,
+          "timesTargetedByEnemyCamp": 5,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 0,
+          "timesTargetedAsWolf": 5,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 5,
+          "survivalRate": 0
+        },
+        {
+          "player": "76561198789380722",
+          "playerName": "Yara",
+          "totalTimesTargeted": 0,
+          "timesTargetedByEnemyCamp": 0,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 0,
+          "timesTargetedAsWolf": 0,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 0,
+          "survivalRate": 100
+        },
+        {
+          "player": "76561198111374489",
+          "playerName": "Joy",
+          "totalTimesTargeted": 7,
+          "timesTargetedByEnemyCamp": 6,
+          "timesTargetedByOwnCamp": 1,
+          "timesTargetedAsVillager": 0,
+          "timesTargetedAsWolf": 7,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 6,
+          "survivalRate": 14.285714285714285
+        },
+        {
+          "player": "76561198064367175",
+          "playerName": "Holdener",
+          "totalTimesTargeted": 1,
+          "timesTargetedByEnemyCamp": 1,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 0,
+          "timesTargetedAsWolf": 0,
+          "timesTargetedAsSpecial": 1,
+          "eliminationsByVote": 0,
+          "survivalRate": 100
+        },
+        {
+          "player": "76561198277339785",
+          "playerName": "Karnarok",
+          "totalTimesTargeted": 7,
+          "timesTargetedByEnemyCamp": 7,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 0,
+          "timesTargetedAsWolf": 0,
+          "timesTargetedAsSpecial": 7,
+          "eliminationsByVote": 7,
+          "survivalRate": 0
+        },
+        {
+          "player": "76561199216324750",
+          "playerName": "MôA",
+          "totalTimesTargeted": 0,
+          "timesTargetedByEnemyCamp": 0,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 0,
+          "timesTargetedAsWolf": 0,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 0,
+          "survivalRate": 100
+        },
+        {
+          "player": "76561198330793890",
+          "playerName": "Stacy176",
+          "totalTimesTargeted": 3,
+          "timesTargetedByEnemyCamp": 3,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 1,
+          "timesTargetedAsWolf": 2,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 0,
+          "survivalRate": 100
+        },
+        {
+          "player": "76561198047490206",
+          "playerName": "Rigner",
+          "totalTimesTargeted": 6,
+          "timesTargetedByEnemyCamp": 5,
+          "timesTargetedByOwnCamp": 1,
+          "timesTargetedAsVillager": 2,
+          "timesTargetedAsWolf": 3,
+          "timesTargetedAsSpecial": 1,
+          "eliminationsByVote": 3,
+          "survivalRate": 50
+        },
+        {
+          "player": "76561199562214341",
+          "playerName": "daichi",
+          "totalTimesTargeted": 0,
+          "timesTargetedByEnemyCamp": 0,
+          "timesTargetedByOwnCamp": 0,
+          "timesTargetedAsVillager": 0,
+          "timesTargetedAsWolf": 0,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 0,
+          "survivalRate": 100
+        },
+        {
+          "player": "76561198272864922",
+          "playerName": "Adrasse",
+          "totalTimesTargeted": 7,
+          "timesTargetedByEnemyCamp": 6,
+          "timesTargetedByOwnCamp": 1,
+          "timesTargetedAsVillager": 1,
+          "timesTargetedAsWolf": 6,
+          "timesTargetedAsSpecial": 0,
+          "eliminationsByVote": 6,
+          "survivalRate": 14.285714285714285
+        }
+      ],
+      "playerFirstVoteStats": [
+        {
+          "player": "76561198913595171",
+          "playerName": "M3lv1",
+          "totalMeetingsWithVotes": 1,
+          "timesFirstToVote": 0,
+          "timesEarlyVote": 0,
+          "firstVoteRate": 0,
+          "earlyVoteRate": 0,
+          "earlyVoteRateVillageois": null,
+          "earlyVoteRateLoup": 0,
+          "earlyVoteRateSolo": null,
+          "meetingsWithVotesVillageois": 0,
+          "meetingsWithVotesLoup": 1,
+          "meetingsWithVotesSolo": 0
+        },
+        {
+          "player": "76561199001967591",
+          "playerName": "MioMeph",
+          "totalMeetingsWithVotes": 5,
+          "timesFirstToVote": 0,
+          "timesEarlyVote": 4,
+          "firstVoteRate": 0,
+          "earlyVoteRate": 80,
+          "earlyVoteRateVillageois": 80,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": null,
+          "meetingsWithVotesVillageois": 5,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 0
+        },
+        {
+          "player": "76561198007547842",
+          "playerName": "axelwlt",
+          "totalMeetingsWithVotes": 7,
+          "timesFirstToVote": 2,
+          "timesEarlyVote": 2,
+          "firstVoteRate": 28.57142857142857,
+          "earlyVoteRate": 28.57142857142857,
+          "earlyVoteRateVillageois": 20,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": 50,
+          "meetingsWithVotesVillageois": 5,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 2
+        },
+        {
+          "player": "76561199503876418",
+          "playerName": "CorbaxUwU",
+          "totalMeetingsWithVotes": 3,
+          "timesFirstToVote": 1,
+          "timesEarlyVote": 1,
+          "firstVoteRate": 33.33333333333333,
+          "earlyVoteRate": 33.33333333333333,
+          "earlyVoteRateVillageois": 33.33333333333333,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": null,
+          "meetingsWithVotesVillageois": 3,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 0
+        },
+        {
+          "player": "76561198789380722",
+          "playerName": "Yara",
+          "totalMeetingsWithVotes": 1,
+          "timesFirstToVote": 0,
+          "timesEarlyVote": 0,
+          "firstVoteRate": 0,
+          "earlyVoteRate": 0,
+          "earlyVoteRateVillageois": null,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": 0,
+          "meetingsWithVotesVillageois": 0,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 1
+        },
+        {
+          "player": "76561198111374489",
+          "playerName": "Joy",
+          "totalMeetingsWithVotes": 3,
+          "timesFirstToVote": 2,
+          "timesEarlyVote": 2,
+          "firstVoteRate": 66.66666666666666,
+          "earlyVoteRate": 66.66666666666666,
+          "earlyVoteRateVillageois": 66.66666666666666,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": null,
+          "meetingsWithVotesVillageois": 3,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 0
+        },
+        {
+          "player": "76561198064367175",
+          "playerName": "Holdener",
+          "totalMeetingsWithVotes": 1,
+          "timesFirstToVote": 0,
+          "timesEarlyVote": 0,
+          "firstVoteRate": 0,
+          "earlyVoteRate": 0,
+          "earlyVoteRateVillageois": 0,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": null,
+          "meetingsWithVotesVillageois": 1,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 0
+        },
+        {
+          "player": "76561198277339785",
+          "playerName": "Karnarok",
+          "totalMeetingsWithVotes": 8,
+          "timesFirstToVote": 5,
+          "timesEarlyVote": 6,
+          "firstVoteRate": 62.5,
+          "earlyVoteRate": 75,
+          "earlyVoteRateVillageois": 71.42857142857143,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": 100,
+          "meetingsWithVotesVillageois": 7,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 1
+        },
+        {
+          "player": "76561199216324750",
+          "playerName": "MôA",
+          "totalMeetingsWithVotes": 6,
+          "timesFirstToVote": 0,
+          "timesEarlyVote": 0,
+          "firstVoteRate": 0,
+          "earlyVoteRate": 0,
+          "earlyVoteRateVillageois": 0,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": 0,
+          "meetingsWithVotesVillageois": 5,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 1
+        },
+        {
+          "player": "76561198330793890",
+          "playerName": "Stacy176",
+          "totalMeetingsWithVotes": 3,
+          "timesFirstToVote": 0,
+          "timesEarlyVote": 1,
+          "firstVoteRate": 0,
+          "earlyVoteRate": 33.33333333333333,
+          "earlyVoteRateVillageois": 50,
+          "earlyVoteRateLoup": 0,
+          "earlyVoteRateSolo": null,
+          "meetingsWithVotesVillageois": 2,
+          "meetingsWithVotesLoup": 1,
+          "meetingsWithVotesSolo": 0
+        },
+        {
+          "player": "76561198047490206",
+          "playerName": "Rigner",
+          "totalMeetingsWithVotes": 5,
+          "timesFirstToVote": 3,
+          "timesEarlyVote": 3,
+          "firstVoteRate": 60,
+          "earlyVoteRate": 60,
+          "earlyVoteRateVillageois": 50,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": 100,
+          "meetingsWithVotesVillageois": 4,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 1
+        },
+        {
+          "player": "76561199562214341",
+          "playerName": "daichi",
+          "totalMeetingsWithVotes": 3,
+          "timesFirstToVote": 0,
+          "timesEarlyVote": 1,
+          "firstVoteRate": 0,
+          "earlyVoteRate": 33.33333333333333,
+          "earlyVoteRateVillageois": 33.33333333333333,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": null,
+          "meetingsWithVotesVillageois": 3,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 0
+        },
+        {
+          "player": "76561198272864922",
+          "playerName": "Adrasse",
+          "totalMeetingsWithVotes": 2,
+          "timesFirstToVote": 1,
+          "timesEarlyVote": 1,
+          "firstVoteRate": 50,
+          "earlyVoteRate": 50,
+          "earlyVoteRateVillageois": 50,
+          "earlyVoteRateLoup": null,
+          "earlyVoteRateSolo": null,
+          "meetingsWithVotesVillageois": 2,
+          "meetingsWithVotesLoup": 0,
+          "meetingsWithVotesSolo": 0
+        }
+      ],
+      "playerMeetingSurvivalStats": [
+        {
+          "player": "76561198913595171",
+          "playerName": "M3lv1",
+          "villageoisMeetings": 6,
+          "villageoisDeathsAtMeetings": 1,
+          "survivalAtMeetingVillageois": 83.33333333333334,
+          "loupMeetings": 6,
+          "loupDeathsAtMeetings": 1,
+          "survivalAtMeetingLoup": 83.33333333333334,
+          "soloMeetings": 1,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561199001967591",
+          "playerName": "MioMeph",
+          "villageoisMeetings": 16,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 2,
+          "loupDeathsAtMeetings": 1,
+          "survivalAtMeetingLoup": 50,
+          "soloMeetings": 1,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561198007547842",
+          "playerName": "axelwlt",
+          "villageoisMeetings": 12,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 3,
+          "loupDeathsAtMeetings": 0,
+          "survivalAtMeetingLoup": 100,
+          "soloMeetings": 7,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561199503876418",
+          "playerName": "CorbaxUwU",
+          "villageoisMeetings": 13,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 6,
+          "loupDeathsAtMeetings": 1,
+          "survivalAtMeetingLoup": 83.33333333333334,
+          "soloMeetings": 0,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": null
+        },
+        {
+          "player": "76561198789380722",
+          "playerName": "Yara",
+          "villageoisMeetings": 10,
+          "villageoisDeathsAtMeetings": 1,
+          "survivalAtMeetingVillageois": 90,
+          "loupMeetings": 0,
+          "loupDeathsAtMeetings": 0,
+          "survivalAtMeetingLoup": null,
+          "soloMeetings": 8,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561198111374489",
+          "playerName": "Joy",
+          "villageoisMeetings": 11,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 13,
+          "loupDeathsAtMeetings": 1,
+          "survivalAtMeetingLoup": 92.3076923076923,
+          "soloMeetings": 0,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": null
+        },
+        {
+          "player": "76561198064367175",
+          "playerName": "Holdener",
+          "villageoisMeetings": 12,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 3,
+          "loupDeathsAtMeetings": 0,
+          "survivalAtMeetingLoup": 100,
+          "soloMeetings": 4,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561198277339785",
+          "playerName": "Karnarok",
+          "villageoisMeetings": 15,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 2,
+          "loupDeathsAtMeetings": 0,
+          "survivalAtMeetingLoup": 100,
+          "soloMeetings": 3,
+          "soloDeathsAtMeetings": 1,
+          "survivalAtMeetingSolo": 66.66666666666666
+        },
+        {
+          "player": "76561199216324750",
+          "playerName": "MôA",
+          "villageoisMeetings": 11,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 3,
+          "loupDeathsAtMeetings": 0,
+          "survivalAtMeetingLoup": 100,
+          "soloMeetings": 11,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561198330793890",
+          "playerName": "Stacy176",
+          "villageoisMeetings": 14,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 6,
+          "loupDeathsAtMeetings": 0,
+          "survivalAtMeetingLoup": 100,
+          "soloMeetings": 3,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561198047490206",
+          "playerName": "Rigner",
+          "villageoisMeetings": 13,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 5,
+          "loupDeathsAtMeetings": 1,
+          "survivalAtMeetingLoup": 80,
+          "soloMeetings": 6,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561199562214341",
+          "playerName": "daichi",
+          "villageoisMeetings": 15,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 0,
+          "loupDeathsAtMeetings": 0,
+          "survivalAtMeetingLoup": null,
+          "soloMeetings": 1,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        },
+        {
+          "player": "76561198272864922",
+          "playerName": "Adrasse",
+          "villageoisMeetings": 14,
+          "villageoisDeathsAtMeetings": 0,
+          "survivalAtMeetingVillageois": 100,
+          "loupMeetings": 1,
+          "loupDeathsAtMeetings": 1,
+          "survivalAtMeetingLoup": 0,
+          "soloMeetings": 1,
+          "soloDeathsAtMeetings": 0,
+          "survivalAtMeetingSolo": 100
+        }
+      ]
+    },
+    "talkingStats": {
+      "playerStats": [
+        {
+          "playerId": "76561198913595171",
+          "player": "M3lv1",
+          "gamesPlayed": 7,
+          "totalSecondsOutside": 766,
+          "totalSecondsDuring": 370,
+          "totalSecondsAll": 1136,
+          "totalGameDurationSeconds": 4634.759,
+          "secondsOutsidePer60Min": 594.9823928277608,
+          "secondsDuringPer60Min": 287.3935840029654,
+          "secondsAllPer60Min": 882.3759768307262,
+          "villageoisGames": 5,
+          "secondsOutsideVillageoisPer60Min": 734.4519788390569,
+          "secondsDuringVillageoisPer60Min": 279.2371879942553,
+          "secondsAllVillageoisPer60Min": 1013.6891668333121,
+          "loupGames": 2,
+          "secondsOutsideLoupPer60Min": 435.1120010521227,
+          "secondsDuringLoupPer60Min": 296.7430505259687,
+          "secondsAllLoupPer60Min": 731.8550515780914,
+          "soloGames": 0,
+          "secondsOutsideSoloPer60Min": 0,
+          "secondsDuringSoloPer60Min": 0,
+          "secondsAllSoloPer60Min": 0
+        },
+        {
+          "playerId": "76561199001967591",
+          "player": "MioMeph",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 429,
+          "totalSecondsDuring": 314,
+          "totalSecondsAll": 743,
+          "totalGameDurationSeconds": 6970.335999999999,
+          "secondsOutsidePer60Min": 221.56751123618722,
+          "secondsDuringPer60Min": 162.1729569421044,
+          "secondsAllPer60Min": 383.7404681782916,
+          "villageoisGames": 8,
+          "secondsOutsideVillageoisPer60Min": 225.395371513038,
+          "secondsDuringVillageoisPer60Min": 127.57149199849611,
+          "secondsAllVillageoisPer60Min": 352.9668635115341,
+          "loupGames": 1,
+          "secondsOutsideLoupPer60Min": 186.0069619748625,
+          "secondsDuringLoupPer60Min": 483.6181011346425,
+          "secondsAllLoupPer60Min": 669.6250631095049,
+          "soloGames": 0,
+          "secondsOutsideSoloPer60Min": 0,
+          "secondsDuringSoloPer60Min": 0,
+          "secondsAllSoloPer60Min": 0
+        },
+        {
+          "playerId": "76561198007547842",
+          "player": "axelwlt",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 259,
+          "totalSecondsDuring": 60,
+          "totalSecondsAll": 319,
+          "totalGameDurationSeconds": 7954.923000000001,
+          "secondsOutsidePer60Min": 117.21043685777977,
+          "secondsDuringPer60Min": 27.152996955470215,
+          "secondsAllPer60Min": 144.36343381324997,
+          "villageoisGames": 6,
+          "secondsOutsideVillageoisPer60Min": 143.07199511263104,
+          "secondsDuringVillageoisPer60Min": 40.75888232859838,
+          "secondsAllVillageoisPer60Min": 183.83087744122943,
+          "loupGames": 1,
+          "secondsOutsideLoupPer60Min": 191.04778599331166,
+          "secondsDuringLoupPer60Min": 20.895851593018463,
+          "secondsAllLoupPer60Min": 211.9436375863301,
+          "soloGames": 2,
+          "secondsOutsideSoloPer60Min": 34.200023047841626,
+          "secondsDuringSoloPer60Min": 5.947830095276804,
+          "secondsAllSoloPer60Min": 40.147853143118425
+        },
+        {
+          "playerId": "76561199503876418",
+          "player": "CorbaxUwU",
+          "gamesPlayed": 8,
+          "totalSecondsOutside": 587,
+          "totalSecondsDuring": 477,
+          "totalSecondsAll": 1064,
+          "totalGameDurationSeconds": 7104.014,
+          "secondsOutsidePer60Min": 297.46562999453545,
+          "secondsDuringPer60Min": 241.72249660544023,
+          "secondsAllPer60Min": 539.1881265999757,
+          "villageoisGames": 6,
+          "secondsOutsideVillageoisPer60Min": 245.14081618552424,
+          "secondsDuringVillageoisPer60Min": 226.44972756140803,
+          "secondsAllVillageoisPer60Min": 471.59054374693227,
+          "loupGames": 2,
+          "secondsOutsideLoupPer60Min": 422.4626481195261,
+          "secondsDuringLoupPer60Min": 278.20710973724886,
+          "secondsAllLoupPer60Min": 700.6697578567749,
+          "soloGames": 0,
+          "secondsOutsideSoloPer60Min": 0,
+          "secondsDuringSoloPer60Min": 0,
+          "secondsAllSoloPer60Min": 0
+        },
+        {
+          "playerId": "76561198789380722",
+          "player": "Yara",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 325,
+          "totalSecondsDuring": 51,
+          "totalSecondsAll": 376,
+          "totalGameDurationSeconds": 6851.75,
+          "secondsOutsidePer60Min": 170.75929507060238,
+          "secondsDuringPer60Min": 26.796073995694528,
+          "secondsAllPer60Min": 197.55536906629692,
+          "villageoisGames": 6,
+          "secondsOutsideVillageoisPer60Min": 176.15575648493152,
+          "secondsDuringVillageoisPer60Min": 17.79351075605369,
+          "secondsAllVillageoisPer60Min": 193.9492672409852,
+          "loupGames": 0,
+          "secondsOutsideLoupPer60Min": 0,
+          "secondsDuringLoupPer60Min": 0,
+          "secondsAllLoupPer60Min": 0,
+          "soloGames": 3,
+          "secondsOutsideSoloPer60Min": 162.97542072575393,
+          "secondsDuringSoloPer60Min": 39.781401909436,
+          "secondsAllSoloPer60Min": 202.75682263518993
+        },
+        {
+          "playerId": "76561198111374489",
+          "player": "Joy",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 1197,
+          "totalSecondsDuring": 906,
+          "totalSecondsAll": 2103,
+          "totalGameDurationSeconds": 8771.258,
+          "secondsOutsidePer60Min": 491.28642664484386,
+          "secondsDuringPer60Min": 371.850879315145,
+          "secondsAllPer60Min": 863.1373059599888,
+          "villageoisGames": 4,
+          "secondsOutsideVillageoisPer60Min": 528.3180069100912,
+          "secondsDuringVillageoisPer60Min": 417.0030297653394,
+          "secondsAllVillageoisPer60Min": 945.3210366754307,
+          "loupGames": 4,
+          "secondsOutsideLoupPer60Min": 457.7484908279787,
+          "secondsDuringLoupPer60Min": 340.668947880858,
+          "secondsAllLoupPer60Min": 798.4174387088367,
+          "soloGames": 1,
+          "secondsOutsideSoloPer60Min": 439.6141164977409,
+          "secondsDuringSoloPer60Min": 0,
+          "secondsAllSoloPer60Min": 439.6141164977409
+        },
+        {
+          "playerId": "76561198064367175",
+          "player": "Holdener",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 1048,
+          "totalSecondsDuring": 499,
+          "totalSecondsAll": 1547,
+          "totalGameDurationSeconds": 7154.223,
+          "secondsOutsidePer60Min": 527.3528655732425,
+          "secondsDuringPer60Min": 251.09645030634354,
+          "secondsAllPer60Min": 778.449315879586,
+          "villageoisGames": 8,
+          "secondsOutsideVillageoisPer60Min": 486.14410743303443,
+          "secondsDuringVillageoisPer60Min": 249.69035220879863,
+          "secondsAllVillageoisPer60Min": 735.8344596418331,
+          "loupGames": 1,
+          "secondsOutsideLoupPer60Min": 737.9493889710731,
+          "secondsDuringLoupPer60Min": 258.28228613987557,
+          "secondsAllLoupPer60Min": 996.2316751109487,
+          "soloGames": 0,
+          "secondsOutsideSoloPer60Min": 0,
+          "secondsDuringSoloPer60Min": 0,
+          "secondsAllSoloPer60Min": 0
+        },
+        {
+          "playerId": "76561198277339785",
+          "player": "Karnarok",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 782,
+          "totalSecondsDuring": 421,
+          "totalSecondsAll": 1203,
+          "totalGameDurationSeconds": 7293.571,
+          "secondsOutsidePer60Min": 385.983765702699,
+          "secondsDuringPer60Min": 207.7994441954428,
+          "secondsAllPer60Min": 593.7832098981418,
+          "villageoisGames": 7,
+          "secondsOutsideVillageoisPer60Min": 385.1338057866061,
+          "secondsDuringVillageoisPer60Min": 195.86428136750345,
+          "secondsAllVillageoisPer60Min": 580.9980871541096,
+          "loupGames": 1,
+          "secondsOutsideLoupPer60Min": 201.70279117562208,
+          "secondsDuringLoupPer60Min": 154.49575494302968,
+          "secondsAllLoupPer60Min": 356.1985461186518,
+          "soloGames": 1,
+          "secondsOutsideSoloPer60Min": 545.875756026876,
+          "secondsDuringSoloPer60Min": 318.1262684130138,
+          "secondsAllSoloPer60Min": 864.0020244398899
+        },
+        {
+          "playerId": "76561199216324750",
+          "player": "MôA",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 853,
+          "totalSecondsDuring": 405,
+          "totalSecondsAll": 1258,
+          "totalGameDurationSeconds": 9164.272,
+          "secondsOutsidePer60Min": 335.08389973584366,
+          "secondsDuringPer60Min": 159.09610714304418,
+          "secondsAllPer60Min": 494.18000687888787,
+          "villageoisGames": 4,
+          "secondsOutsideVillageoisPer60Min": 251.5024238084743,
+          "secondsDuringVillageoisPer60Min": 151.85052003530524,
+          "secondsAllVillageoisPer60Min": 403.35294384377954,
+          "loupGames": 1,
+          "secondsOutsideLoupPer60Min": 385.08069364276884,
+          "secondsDuringLoupPer60Min": 173.1370560564387,
+          "secondsAllLoupPer60Min": 558.2177496992075,
+          "soloGames": 4,
+          "secondsOutsideSoloPer60Min": 396.72640691538976,
+          "secondsDuringSoloPer60Min": 161.6292768914551,
+          "secondsAllSoloPer60Min": 558.3556838068449
+        },
+        {
+          "playerId": "76561198330793890",
+          "player": "Stacy176",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 370,
+          "totalSecondsDuring": 335,
+          "totalSecondsAll": 705,
+          "totalGameDurationSeconds": 8579.935,
+          "secondsOutsidePer60Min": 155.2459313502958,
+          "secondsDuringPer60Min": 140.5605054117543,
+          "secondsAllPer60Min": 295.8064367620501,
+          "villageoisGames": 7,
+          "secondsOutsideVillageoisPer60Min": 139.28894810947165,
+          "secondsDuringVillageoisPer60Min": 157.60183770155356,
+          "secondsAllVillageoisPer60Min": 296.89078581102524,
+          "loupGames": 2,
+          "secondsOutsideLoupPer60Min": 204.71151875017023,
+          "secondsDuringLoupPer60Min": 87.73350803578724,
+          "secondsAllLoupPer60Min": 292.4450267859575,
+          "soloGames": 0,
+          "secondsOutsideSoloPer60Min": 0,
+          "secondsDuringSoloPer60Min": 0,
+          "secondsAllSoloPer60Min": 0
+        },
+        {
+          "playerId": "76561198047490206",
+          "player": "Rigner",
+          "gamesPlayed": 9,
+          "totalSecondsOutside": 1059,
+          "totalSecondsDuring": 733,
+          "totalSecondsAll": 1792,
+          "totalGameDurationSeconds": 8911.733,
+          "secondsOutsidePer60Min": 427.7955813981411,
+          "secondsDuringPer60Min": 296.1040237628304,
+          "secondsAllPer60Min": 723.8996051609715,
+          "villageoisGames": 4,
+          "secondsOutsideVillageoisPer60Min": 460.60490270175285,
+          "secondsDuringVillageoisPer60Min": 346.231725848446,
+          "secondsAllVillageoisPer60Min": 806.8366285501988,
+          "loupGames": 2,
+          "secondsOutsideLoupPer60Min": 336.8061028812232,
+          "secondsDuringLoupPer60Min": 275.56862963009166,
+          "secondsAllLoupPer60Min": 612.3747325113148,
+          "soloGames": 3,
+          "secondsOutsideSoloPer60Min": 431.23212124000656,
+          "secondsDuringSoloPer60Min": 218.47190248251988,
+          "secondsAllSoloPer60Min": 649.7040237225265
+        },
+        {
+          "playerId": "76561199562214341",
+          "player": "daichi",
+          "gamesPlayed": 7,
+          "totalSecondsOutside": 599,
+          "totalSecondsDuring": 123,
+          "totalSecondsAll": 722,
+          "totalGameDurationSeconds": 6081.080999999999,
+          "secondsOutsidePer60Min": 354.6080047281068,
+          "secondsDuringPer60Min": 72.81600097088003,
+          "secondsAllPer60Min": 427.4240056989868,
+          "villageoisGames": 6,
+          "secondsOutsideVillageoisPer60Min": 343.48595173969863,
+          "secondsDuringVillageoisPer60Min": 73.73918596980685,
+          "secondsAllVillageoisPer60Min": 417.2251377095055,
+          "loupGames": 0,
+          "secondsOutsideLoupPer60Min": 0,
+          "secondsDuringLoupPer60Min": 0,
+          "secondsAllLoupPer60Min": 0,
+          "soloGames": 1,
+          "secondsOutsideSoloPer60Min": 526.7479007307815,
+          "secondsDuringSoloPer60Min": 58.527544525642384,
+          "secondsAllSoloPer60Min": 585.2754452564238
+        },
+        {
+          "playerId": "76561198272864922",
+          "player": "Adrasse",
+          "gamesPlayed": 7,
+          "totalSecondsOutside": 980,
+          "totalSecondsDuring": 542,
+          "totalSecondsAll": 1522,
+          "totalGameDurationSeconds": 5954.874999999999,
+          "secondsOutsidePer60Min": 592.455761036126,
+          "secondsDuringPer60Min": 327.66430865467373,
+          "secondsAllPer60Min": 920.1200696907997,
+          "villageoisGames": 6,
+          "secondsOutsideVillageoisPer60Min": 606.8071562576588,
+          "secondsDuringVillageoisPer60Min": 337.1150868098104,
+          "secondsAllVillageoisPer60Min": 943.9222430674693,
+          "loupGames": 1,
+          "secondsOutsideLoupPer60Min": 361.56921037301896,
+          "secondsDuringLoupPer60Min": 175.6193307526092,
+          "secondsAllLoupPer60Min": 537.1885411256281,
+          "soloGames": 0,
+          "secondsOutsideSoloPer60Min": 0,
+          "secondsDuringSoloPer60Min": 0,
+          "secondsAllSoloPer60Min": 0
+        }
+      ],
+      "totalGames": 9,
+      "gamesWithTalkingData": 9
+    }
+  }
+}

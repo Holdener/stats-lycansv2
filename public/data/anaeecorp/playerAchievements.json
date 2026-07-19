@@ -1,0 +1,6053 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-07-19T22:15:56.984Z",
+  "teamName": "Anaee Corp",
+  "totalPlayers": 13,
+  "totalGames": 9,
+  "recentGamesCount": 15,
+  "categories": {
+    "victories": {
+      "label": "Victoires",
+      "emoji": "🏆",
+      "order": 1
+    },
+    "deaths": {
+      "label": "Morts",
+      "emoji": "💀",
+      "order": 2
+    },
+    "kills": {
+      "label": "Kills",
+      "emoji": "🔪",
+      "order": 3
+    },
+    "loups": {
+      "label": "Loups",
+      "emoji": "🐺",
+      "order": 4
+    },
+    "roles": {
+      "label": "Rôles",
+      "emoji": "🎭",
+      "order": 5
+    },
+    "items": {
+      "label": "Objets",
+      "emoji": "🎒",
+      "order": 6
+    },
+    "social": {
+      "label": "Social",
+      "emoji": "💬",
+      "order": 7
+    },
+    "special": {
+      "label": "Spécial",
+      "emoji": "✨",
+      "order": 8
+    }
+  },
+  "achievementDefinitions": [
+    {
+      "id": "victories-villageois",
+      "name": "Héros·ïne du Village",
+      "description": "La justice finit toujours par triompher",
+      "explanation": "Gagner X parties en Villageois",
+      "emoji": "🏘️",
+      "category": "victories",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 2,
+          "threshold": 5
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 3,
+          "threshold": 10
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 30
+        },
+        {
+          "tier": "argent",
+          "subLevel": 2,
+          "threshold": 50
+        },
+        {
+          "tier": "argent",
+          "subLevel": 3,
+          "threshold": 70
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 100
+        },
+        {
+          "tier": "or",
+          "subLevel": 2,
+          "threshold": 150
+        },
+        {
+          "tier": "or",
+          "subLevel": 3,
+          "threshold": 200
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 300
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "victories-loup",
+      "name": "Terreur Nocturne",
+      "description": "La nuit vous appartient",
+      "explanation": "Gagner X victoires en Loup",
+      "emoji": "🐺",
+      "category": "victories",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 2,
+          "threshold": 5
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 3,
+          "threshold": 10
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 15
+        },
+        {
+          "tier": "argent",
+          "subLevel": 2,
+          "threshold": 20
+        },
+        {
+          "tier": "argent",
+          "subLevel": 3,
+          "threshold": 25
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 30
+        },
+        {
+          "tier": "or",
+          "subLevel": 2,
+          "threshold": 40
+        },
+        {
+          "tier": "or",
+          "subLevel": 3,
+          "threshold": 55
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 70
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "victories-solo",
+      "name": "Solo Winner·use",
+      "description": "Vous n'avez pas besoin d'alliés pour gagner...",
+      "explanation": "Gagner X parties en camp solo (Amoureux, Idiot du Village, Agent, etc.)",
+      "emoji": "🎯",
+      "category": "victories",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 2,
+          "threshold": 2
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 3,
+          "threshold": 3
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "argent",
+          "subLevel": 2,
+          "threshold": 7
+        },
+        {
+          "tier": "argent",
+          "subLevel": 3,
+          "threshold": 10
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 12
+        },
+        {
+          "tier": "or",
+          "subLevel": 2,
+          "threshold": 15
+        },
+        {
+          "tier": "or",
+          "subLevel": 3,
+          "threshold": 18
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 25
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "vegan-wolf",
+      "name": "Je suis Vegan",
+      "description": "Vous avez eu la victoire sans rien faire, bravo",
+      "explanation": "Gagner X parties en Loup sans tuer",
+      "emoji": "🥬",
+      "category": "loups",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "wolf-survived-hunter-shot",
+      "name": "Loup·ve Aventurier·ère",
+      "description": "Et puis vous avez pris une flèche dans le genou...",
+      "explanation": "Perdre X parties en Loup tout en survivant au Chasseur (la balle ne vous tue pas)",
+      "emoji": "🏹",
+      "category": "loups",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 4
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 12
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "wolf-loss-harvest-no-kills",
+      "name": "Loup·ve trop Gentil·le",
+      "description": "Vous ne vouliez vraiment blesser personne...",
+      "explanation": "Perdre X parties à la récolte en Loup sans avoir tué personne",
+      "emoji": "🌾",
+      "category": "loups",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 4
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 12
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "wolf-menage-a-trois",
+      "name": "Ménage à Trois",
+      "description": "Il suffit de convaincre un·e villageois·e de voter pour votre victime et le tour est joué",
+      "explanation": "Gagner X parties en faisant voter le dernier Villageois lors d'un meeting à 3 en étant Loup",
+      "emoji": "3️⃣",
+      "category": "loups",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "wolf-all-kills-solo",
+      "name": "Besoin de personne",
+      "description": "Vous faites votre route solo et vous la faites plutôt bien",
+      "explanation": "Gagner X parties en étant le seul Loup à avoir fait des kills",
+      "emoji": "🐺",
+      "category": "loups",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "wolf-win-early-death",
+      "name": "Loup·ve Sacrifié·e",
+      "description": "Tout s'est déroulé selon le plan",
+      "explanation": "Gagner X parties en Loup sans aller jusqu'au premier meeting",
+      "emoji": "💤",
+      "category": "loups",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 2
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 5
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "speed-run",
+      "name": "Speed Run",
+      "description": "La game parfaite, sans traîner",
+      "explanation": "Gagner X parties qui se terminent au 2ème Meeting ou avant",
+      "emoji": "⚡",
+      "category": "victories",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 2,
+          "threshold": 5
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 3,
+          "threshold": 10
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 15
+        },
+        {
+          "tier": "argent",
+          "subLevel": 2,
+          "threshold": 20
+        },
+        {
+          "tier": "argent",
+          "subLevel": 3,
+          "threshold": 35
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 50
+        },
+        {
+          "tier": "or",
+          "subLevel": 2,
+          "threshold": 75
+        },
+        {
+          "tier": "or",
+          "subLevel": 3,
+          "threshold": 100
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 125
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "lost-after-camp-switch",
+      "name": "Bro thinks he's on the team",
+      "description": "On dit pas que c'est vous le problème depuis le début mais... Étrange coïncidence, non?",
+      "explanation": "Perdre X fois en changeant de camp alors que votre ancien camp remporte la victoire",
+      "emoji": "🤡",
+      "category": "victories",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "last-wolf",
+      "name": "Dernier·ère Loup·ve",
+      "description": "Vous n'avez besoin de personne pour gagner… Vous seul·e survivez.",
+      "explanation": "Gagner X parties en étant l'unique survivant et donc le dernier Loup",
+      "emoji": "🏘️",
+      "category": "loups",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "wolf-sabotages",
+      "name": "Sabotez-les tous !",
+      "description": "Puits, chaudron, portails, bûches... Vous les connaissez tous",
+      "explanation": "Faire X Sabotages en étant Loup",
+      "emoji": "🛠️",
+      "category": "loups",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 2,
+          "threshold": 3
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 3,
+          "threshold": 5
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 10
+        },
+        {
+          "tier": "argent",
+          "subLevel": 2,
+          "threshold": 15
+        },
+        {
+          "tier": "argent",
+          "subLevel": 3,
+          "threshold": 20
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 30
+        },
+        {
+          "tier": "or",
+          "subLevel": 2,
+          "threshold": 40
+        },
+        {
+          "tier": "or",
+          "subLevel": 3,
+          "threshold": 50
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 75
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "wolf-eclipse-kills",
+      "name": "Enfant de l'Éclipse",
+      "description": "Pendant que le soleil s'efface, votre soif de sang s'intensifie...",
+      "explanation": "Faire X kills en Loup durant un évènement Éclipse",
+      "emoji": "🌑",
+      "category": "loups",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 10
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 15
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 30
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "remede-de-loup",
+      "name": "Remède de Loup",
+      "description": "Même en pleine transformation, vous n'oubliez pas votre potion du soir",
+      "explanation": "Boire X potions en forme de Loup",
+      "emoji": "🐺🧪",
+      "category": "loups",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 2
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 5
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "alakazam",
+      "name": "Alakazam !",
+      "description": "La magie n'a pas de camp… ni d'odeur",
+      "explanation": "Utiliser X fois un Parchemin ou un Livre des sorts sur un joueur en forme de Loup",
+      "emoji": "📜🐺",
+      "category": "loups",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "fall-death",
+      "name": "Saut raté",
+      "description": "Bien que la touche saut n'existe pas, certains ont quand même chuté",
+      "explanation": "Mourir X fois de chute",
+      "emoji": "🪂",
+      "category": "deaths",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 2
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 5
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "starvation",
+      "name": "Famine Fatale",
+      "description": "Manger, c'est surfait",
+      "explanation": "Mourir X fois de faim",
+      "emoji": "🍽️",
+      "category": "deaths",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "romeo-juliette",
+      "name": "Roméo & Juliette",
+      "description": "Vous ne pouviez pas survivre sans votre moitié",
+      "explanation": "Mourir X fois à cause de la mort de son amoureux",
+      "emoji": "💔",
+      "category": "deaths",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 15
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 25
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "death-turn1",
+      "name": "Bon, je reviens !",
+      "description": "Vous êtes mort·e certes mais vous avez au moins eu le temps d'aller faire un truc",
+      "explanation": "Mourir X fois la première nuit",
+      "emoji": "⏱️",
+      "category": "deaths",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 2,
+          "threshold": 5
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 3,
+          "threshold": 10
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 15
+        },
+        {
+          "tier": "argent",
+          "subLevel": 2,
+          "threshold": 20
+        },
+        {
+          "tier": "argent",
+          "subLevel": 3,
+          "threshold": 35
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 50
+        },
+        {
+          "tier": "or",
+          "subLevel": 2,
+          "threshold": 75
+        },
+        {
+          "tier": "or",
+          "subLevel": 3,
+          "threshold": 100
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 125
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "voted-as-villager",
+      "name": "Coupable par défaut",
+      "description": "Vous avez beau crier que vous êtes gentil·le, personne ne vous croit...",
+      "explanation": "Être X fois éjecté d'un meeting en étant Villageois",
+      "emoji": "🗳️",
+      "category": "deaths",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 15
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "exploded",
+      "name": "C'est moi la bombe !",
+      "description": "Ce n'est pas la taille qui compte, c'est l'explosion",
+      "explanation": "Mourir X fois d'une explosion",
+      "emoji": "💣",
+      "category": "deaths",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 2
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 5
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "crushed",
+      "name": "Au ras des pâquerettes",
+      "description": "Difficile quand on est petit·e d'éviter les pas des géant·es",
+      "explanation": "Mourir X fois écrasé",
+      "emoji": "🪨",
+      "category": "deaths",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "avenger-death",
+      "name": "Porte-Malheur",
+      "description": "Votre tueur·se a été victime de votre malédiction",
+      "explanation": "Avoir X fois son tueur qui meurt le même jour",
+      "emoji": "⚖️",
+      "category": "deaths",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 2,
+          "threshold": 3
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 3,
+          "threshold": 5
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "argent",
+          "subLevel": 2,
+          "threshold": 12
+        },
+        {
+          "tier": "argent",
+          "subLevel": 3,
+          "threshold": 20
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 25
+        },
+        {
+          "tier": "or",
+          "subLevel": 2,
+          "threshold": 30
+        },
+        {
+          "tier": "or",
+          "subLevel": 3,
+          "threshold": 35
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 50
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "deaths-all-zones",
+      "name": "Sans Cimetière Fixe",
+      "description": "On ne sait plus où mettre votre corps...",
+      "explanation": "Mourir X fois dans chacune des 5 zones de la carte Village",
+      "emoji": "🪦",
+      "category": "deaths",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 10
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 20
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "idiot-killed-by-hunter",
+      "name": "Tir orienté",
+      "description": "Vous savez vous mettre au bon endroit...",
+      "explanation": "Mourir X fois par un tir du Chasseur en étant Idiot du Village",
+      "emoji": "🤡",
+      "category": "deaths",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 2
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 5
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "idiot-survived-with-votes",
+      "name": "Presque Idiot·e",
+      "description": "Trop malin·gne pour être Idiot·e",
+      "explanation": "Survivre X fois en Idiot du Village en ayant au moins 1 vote contre soi",
+      "emoji": "🧠",
+      "category": "roles",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "zombie-kills",
+      "name": "Revenu de Loin",
+      "description": "La vengeance est un plat qui se mange froid...",
+      "explanation": "Faire X kills en Zombie",
+      "emoji": "🧟",
+      "category": "kills",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 15
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "wolf-kills",
+      "name": "Loup·ve Affamé·e",
+      "description": "Vous avez faim de chair fraîche...",
+      "explanation": "Faire X kills en Loup",
+      "emoji": "🍑",
+      "category": "kills",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 2,
+          "threshold": 5
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 3,
+          "threshold": 15
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 30
+        },
+        {
+          "tier": "argent",
+          "subLevel": 2,
+          "threshold": 50
+        },
+        {
+          "tier": "argent",
+          "subLevel": 3,
+          "threshold": 70
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 100
+        },
+        {
+          "tier": "or",
+          "subLevel": 2,
+          "threshold": 150
+        },
+        {
+          "tier": "or",
+          "subLevel": 3,
+          "threshold": 200
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 300
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "hunter-kill-enemy",
+      "name": "Justice du Chasseur·se",
+      "description": "Votre balle a trouvé sa cible... La bonne cette fois",
+      "explanation": "Tuer X fois un joueur ennemi en étant Chasseur",
+      "emoji": "🎯",
+      "category": "kills",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 10
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 15
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 30
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "hunter-kill-villager",
+      "name": "Tir ami",
+      "description": "Vous avez tué quelqu'un et c'était pas un loup...",
+      "explanation": "Tuer X fois un Villageois en étant Chasseur",
+      "emoji": "😬",
+      "category": "kills",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 15
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "villageois-double-ally-kill",
+      "name": "Oups",
+      "description": "Alors... Vous vous êtes trompés d'alliés...",
+      "explanation": "Faire X parties en tuant deux alliés hors meeting en étant Villageois",
+      "emoji": "🤦",
+      "category": "kills",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "hunter-double-kill",
+      "name": "Farmeur·se de Loups·ves",
+      "description": "Un·e loup·ve, c'est bien, deux loups·ves, c'est mieux",
+      "explanation": "Tuer X fois deux Loups dans une même game en étant Chasseur",
+      "emoji": "🏹",
+      "category": "kills",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "hunter-triple-kill",
+      "name": "Maître·sse des loup·ves",
+      "description": "Un, deux, trois... Aucun·e loup·ve ne vous arrêtera",
+      "explanation": "Tuer X fois trois Loups dans une même game en étant Chasseur",
+      "emoji": "👑",
+      "category": "kills",
+      "levels": [
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 1
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "hunter-kills-last-wolf",
+      "name": "Réflexe et vision ou juste pif",
+      "description": "Vous avez mis un point final à la game, le reste...",
+      "explanation": "Gagner X parties en tuant le dernier Loup en étant Chasseur",
+      "emoji": "🎯",
+      "category": "kills",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "consecutive-same-victim-kill",
+      "name": "C'est MA proie",
+      "description": "Le sort s'acharne sur eux... Mais vous aussi",
+      "explanation": "Tuer X fois le même joueur dans deux parties consécutives lors d'une même session",
+      "emoji": "🎯",
+      "category": "kills",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 10
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 15
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 30
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "hunter-killed-by-wolf",
+      "name": "Chasseur·se Chassé·e",
+      "description": "J'ai jamais demandé à avoir un fusil, moi !",
+      "explanation": "Mourir X fois en Chasseur par un Loup",
+      "emoji": "🐺",
+      "category": "deaths",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 10
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 15
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 30
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "assassin-potion-kill-enemy",
+      "name": "Cocktail Mortel",
+      "description": "La chimie au service de la justice...",
+      "explanation": "Tuer X fois un joueur ennemi avec une potion assassin",
+      "emoji": "🧪",
+      "category": "items",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 15
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "assassin-potion-kill-ally",
+      "name": "Oups, mauvaise pioche",
+      "description": "C'est pas votre faute, c'est la potion qui vous a tenté",
+      "explanation": "Tuer X fois un joueur allié avec une potion assassin",
+      "emoji": "☠️",
+      "category": "items",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "amoureux-loup-kills-lover",
+      "name": "Un chouya fusionnel",
+      "description": "Vous l'aimez tellement que... Vous l'avez croqué",
+      "explanation": "Tuer X fois son amoureux en étant Amoureux Loup",
+      "emoji": "🐺❤️",
+      "category": "kills",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "amoureux-loup-total-kills",
+      "name": "C'est pour toi mon amour UwU",
+      "description": "Vous tuez uniquement par passion. Elle vous fait dépasser les limites.",
+      "explanation": "Faire X kills en Amoureux Loup",
+      "emoji": "🐺💕",
+      "category": "kills",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 2,
+          "threshold": 3
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 3,
+          "threshold": 5
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 10
+        },
+        {
+          "tier": "argent",
+          "subLevel": 2,
+          "threshold": 15
+        },
+        {
+          "tier": "argent",
+          "subLevel": 3,
+          "threshold": 20
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 25
+        },
+        {
+          "tier": "or",
+          "subLevel": 2,
+          "threshold": 30
+        },
+        {
+          "tier": "or",
+          "subLevel": 3,
+          "threshold": 40
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 50
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "amoureux-loup-kills-two-wolves",
+      "name": "Pas de concurrence",
+      "description": "La meilleure défense, c'est l'attaque",
+      "explanation": "Tuer X fois un Loup en étant Amoureux Loup",
+      "emoji": "🐺🐺💕",
+      "category": "kills",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "amoureux-villageois-kills-enemy",
+      "name": "Moi aussi je participe !",
+      "description": "Vous aussi vous apportez votre part à l'édifice",
+      "explanation": "Avoir X fois tué un ennemi en étant Amoureux Villageois",
+      "emoji": "❤️🗡️",
+      "category": "kills",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "celibataire",
+      "name": "Célibataire",
+      "description": "Jusqu'à ce que la mort vous sépare... Ou la réanimation d'un autre",
+      "explanation": "Se retrouver X fois l'unique Amoureux à la fin d'une game",
+      "emoji": "💔",
+      "category": "roles",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 2
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 5
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "same-color-kills",
+      "name": "C'est MA couleur !",
+      "description": "Vous voulez être le·a seul·e à la mode, ça se comprend...",
+      "explanation": "Tuer X fois une personne qui porte la même couleur que vous",
+      "emoji": "🎨",
+      "category": "kills",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 15
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 25
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "revenge-kill",
+      "name": "Retour à l'Envoyeur",
+      "description": "La vengeance est douce",
+      "explanation": "Tuer X fois la personne qui vous a tué dans la partie précédente (même session)",
+      "emoji": "⚔️",
+      "category": "kills",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 10
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 20
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 30
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "agent-007",
+      "name": "007",
+      "description": "Bravo, vous êtes un·e véritable agent",
+      "explanation": "Avoir X fois gagné en tuant personnellement l'autre Agent",
+      "emoji": "🔫",
+      "category": "roles",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 2
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 5
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "agent-117",
+      "name": "117",
+      "description": "Bravo, vous avez tout de suite été capté",
+      "explanation": "Mourir X fois aux votes en étant Agent",
+      "emoji": "🕵️",
+      "category": "roles",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "chasseur-de-primes-wins",
+      "name": "Une Dernière Volonté ?",
+      "description": "Vous avez accompli votre mission jusqu'au bout",
+      "explanation": "Gagner X parties en tant que Chasseur de Primes",
+      "emoji": "🎯",
+      "category": "roles",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 2
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 5
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "scientifique-wins",
+      "name": "Einstein",
+      "description": "Votre recherche du savoir a enfin été récompensé",
+      "explanation": "Gagner X victoires en Scientifique",
+      "emoji": "🧪",
+      "category": "roles",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 2
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 5
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "agent-wins",
+      "name": "Mission Accomplie",
+      "description": "Votre couverture était parfaite, personne ne vous a vu venir",
+      "explanation": "Gagner X victoires en Agent",
+      "emoji": "🕵️",
+      "category": "roles",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 2
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 5
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "amoureux-wins",
+      "name": "L'Amour Triomphe",
+      "description": "L'amour est plus fort que tout, même que les loups",
+      "explanation": "Gagner X victoires en Amoureux",
+      "emoji": "💕",
+      "category": "roles",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 15
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "idiot-du-village-wins",
+      "name": "Pas si Idiot·e",
+      "description": "Qui est l'idiot·e maintenant ?",
+      "explanation": "Gagner X victoires en Idiot du Village",
+      "emoji": "🤪",
+      "category": "roles",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 2
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 5
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "la-bete-wins",
+      "name": "Instinct Animal",
+      "description": "La bête sommeille en vous, et elle est redoutable",
+      "explanation": "Gagner X victoires en La Bête",
+      "emoji": "🐾",
+      "category": "roles",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 2
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 5
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "contrebandier-wins",
+      "name": "Affaires Lucratives",
+      "description": "Vos petites magouilles ont fini par payer",
+      "explanation": "Gagner X victoires en Contrebandier",
+      "emoji": "💰",
+      "category": "roles",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 2
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 5
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "espion-wins",
+      "name": "Infiltration Réussie",
+      "description": "Vous avez su tirer profit de vos informations",
+      "explanation": "Gagner X victoires en Espion",
+      "emoji": "🔍",
+      "category": "roles",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 2
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 5
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "vaudou-triple-resurrect",
+      "name": "Zombie Nation",
+      "description": "Votre armée de morts s'est bien agrandie",
+      "explanation": "Faire X parties en ressuscitant au moins 3 joueurs en étant Vaudou",
+      "emoji": "🧟",
+      "category": "roles",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 15
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "loup-necromancien-resurrect",
+      "name": "Le Retour des Morts",
+      "description": "Vous avez su qu'il ou elle allait faire de grande chose",
+      "explanation": "Faire X parties en ressuscitant un joueur qui en tue deux autres en étant Loup Nécromancien",
+      "emoji": "🧟⚔️",
+      "category": "loups",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "loup-devin-double-seer",
+      "name": "Tu es un Sorcier, Harry",
+      "description": "Ce petit tour fait toujours son petit effet",
+      "explanation": "Faire X parties en devinant le rôle de deux joueurs en étant Loup (Devin ou boule de cristal)",
+      "emoji": "🔮",
+      "category": "loups",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "loup-devin-ultimate",
+      "name": "Loup·ve Devin Ultime",
+      "description": "Vous avez révélé tous leurs secrets",
+      "explanation": "Deviner correctement X rôles en Loup (Devin ou boule de cristal)",
+      "emoji": "🔮✨",
+      "category": "loups",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 15
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "solo-master",
+      "name": "Je maîtrise le solo",
+      "description": "Vous savez comment gagner avec chaque rôle",
+      "explanation": "Gagner avec X rôles solo différents",
+      "emoji": "👑",
+      "category": "roles",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 6
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 9
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "villageois-top-loot",
+      "name": "Encore du travail",
+      "description": "Du travail, encore et toujours du travail...",
+      "explanation": "Faire X parties en étant le premier à la récolte parmi les Villageois",
+      "emoji": "🌾",
+      "category": "items",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 10
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 15
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 30
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "max-loot-single-game",
+      "name": "Record de Récolte",
+      "description": "Vous êtes une machine à farmer",
+      "explanation": "Récolter plus de X de loots dans une seule partie",
+      "emoji": "🏆",
+      "category": "items",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 400
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 600
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 850
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 1200
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "zombie-item-uses",
+      "name": "Joueur·se comme les autres",
+      "description": "Même en zombie, vous voulez faire comme tout le monde",
+      "explanation": "Avoir X fois bu une potion ou utilisé un objet en étant Zombie",
+      "emoji": "🧟",
+      "category": "items",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "wolf-transform-kill-nights",
+      "name": "Ni vu ni connu",
+      "description": "Une ombre passe, un joueur trépasse",
+      "explanation": "Passer X nuits à se transformer, tuer au moins un joueur et se détransformer",
+      "emoji": "🌑",
+      "category": "loups",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 15
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 25
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "spider-man-pointing",
+      "name": "Spider-Man Pointing at Spider-Man",
+      "description": "Hé, mais t'es... moi !",
+      "explanation": "Faire X parties en Villageois avec un autre Villageois ayant le même métier",
+      "emoji": "🕷️",
+      "category": "roles",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 2,
+          "threshold": 5
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 3,
+          "threshold": 10
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 20
+        },
+        {
+          "tier": "argent",
+          "subLevel": 2,
+          "threshold": 30
+        },
+        {
+          "tier": "argent",
+          "subLevel": 3,
+          "threshold": 40
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 50
+        },
+        {
+          "tier": "or",
+          "subLevel": 2,
+          "threshold": 60
+        },
+        {
+          "tier": "or",
+          "subLevel": 3,
+          "threshold": 70
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 100
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "bavard",
+      "name": "M. / Mme Bavard",
+      "description": "Vous avez beaucoup de choses à dire visiblement",
+      "explanation": "Avoir X fois parlé au moins 50 % du temps sur une partie",
+      "emoji": "🗣️",
+      "category": "social",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "misunderstood",
+      "name": "Incompris·e",
+      "description": "Vous l'aviez dit pourtant que vous étiez innocent·e...",
+      "explanation": "Voter X fois pour un ennemi mais se faire voter à la place en étant Villageois",
+      "emoji": "🤷",
+      "category": "social",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 15
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "false-guilty",
+      "name": "Faux Coupable",
+      "description": "Dommage, vous n'étiez pas l'idiot du village...",
+      "explanation": "Être X fois voté à l'unanimité en tant que Villageois",
+      "emoji": "😤",
+      "category": "social",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "only-passer",
+      "name": "Au cas où, je passe",
+      "description": "Vous vous méfiez de la fourberie des ennemis",
+      "explanation": "Être X fois le seul joueur Villageois à passer dans un meeting",
+      "emoji": "🙈",
+      "category": "social",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 2,
+          "threshold": 3
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 15
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 25
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "lone-non-voter",
+      "name": "Et le temps passe...",
+      "description": "Vous n'aviez pas vu que tout le monde vous attendait ?",
+      "explanation": "Être X fois le seul joueur inactif quand tout le monde a passé",
+      "emoji": "⏳",
+      "category": "social",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 15
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "kill-surprise",
+      "name": "Kill surprise",
+      "description": "Allez, au dernier moment, ça passe !",
+      "explanation": "Être X fois le seul joueur à voter dans un meeting",
+      "emoji": "😱",
+      "category": "social",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 2
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 5
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "meneur",
+      "name": "Meneur·se",
+      "description": "Votre voix porte, et les autres suivent",
+      "explanation": "Être X fois le premier à voter entraînant l'élimination d'un joueur",
+      "emoji": "🎯",
+      "category": "social",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 2,
+          "threshold": 3
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 3,
+          "threshold": 5
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 10
+        },
+        {
+          "tier": "argent",
+          "subLevel": 2,
+          "threshold": 15
+        },
+        {
+          "tier": "argent",
+          "subLevel": 3,
+          "threshold": 20
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 25
+        },
+        {
+          "tier": "or",
+          "subLevel": 2,
+          "threshold": 30
+        },
+        {
+          "tier": "or",
+          "subLevel": 3,
+          "threshold": 35
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 40
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "democrat",
+      "name": "Troisième oeil",
+      "description": "Vous connaissiez tous les rôles à l'avance",
+      "explanation": "Faire X parties en Villageois en ne votant que des ennemis (minimum 3 votes)",
+      "emoji": "🏛️",
+      "category": "social",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 15
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 25
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "stubborn",
+      "name": "Têtu·e",
+      "description": "Quand vous avez une idée, vous la gardez",
+      "explanation": "Voter X fois pour la même personne sur 3 meetings strictement consécutifs dans une partie",
+      "emoji": "🐂",
+      "category": "social",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 10
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "colors-of-lycans",
+      "name": "United Colors of Lycans",
+      "description": "L'arc-en-ciel des victoires",
+      "explanation": "Avoir gagné une partie avec au moins X couleurs différentes",
+      "emoji": "🌈",
+      "category": "special",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 2,
+          "threshold": 2
+        },
+        {
+          "tier": "bronze",
+          "subLevel": 3,
+          "threshold": 3
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 4
+        },
+        {
+          "tier": "argent",
+          "subLevel": 2,
+          "threshold": 5
+        },
+        {
+          "tier": "argent",
+          "subLevel": 3,
+          "threshold": 6
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 7
+        },
+        {
+          "tier": "or",
+          "subLevel": 2,
+          "threshold": 8
+        },
+        {
+          "tier": "or",
+          "subLevel": 3,
+          "threshold": 9
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 12
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "winning-months",
+      "name": "Gagnant·e du mois",
+      "description": "Vous êtes beau·elle, vous êtes grand·e, vous êtes gagnant·e... Au moins sur un mois.",
+      "explanation": "Avoir X fois plus de 50 % de victoires sur un mois",
+      "emoji": "📅",
+      "category": "victories",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 15
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "perfect-sessions",
+      "name": "C'est qui le·a patron·ne ?",
+      "description": "C'est vous...",
+      "explanation": "Avoir X sessions (min. 5 parties) à 100 % de victoire",
+      "emoji": "💼",
+      "category": "victories",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 2
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 5
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "calife-a-la-place-du-calife",
+      "name": "Calife à la place du Calife",
+      "description": "Quoi de mieux que de battre le développeur du jeu",
+      "explanation": "Gagner X parties lors desquelles Onutrem a perdu",
+      "emoji": "👑",
+      "category": "special",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 5
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 15
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 25
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "resurrected",
+      "name": "Pas de Pause AFK !",
+      "description": "Vous pensiez avoir le temps de partir ?",
+      "explanation": "Être X fois ressuscité (Loup Nécromancien ou Vaudou)",
+      "emoji": "🧟",
+      "category": "special",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 15
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "juste-un-dernier-verre",
+      "name": "Juste un dernier verre",
+      "description": "Vous arrêtez quand vous voulez...",
+      "explanation": "Faire X parties en ayant bu au moins 5 potions",
+      "emoji": "🍶",
+      "category": "items",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 15
+        }
+      ],
+      "mainTeamOnly": false
+    },
+    {
+      "id": "collectionneur",
+      "name": "Collectionneur",
+      "description": "Vous êtes prêt·e en toute circonstance",
+      "explanation": "Faire X parties en utilisant au moins 5 items différents (gadgets ou potions)",
+      "emoji": "🎒",
+      "category": "items",
+      "levels": [
+        {
+          "tier": "bronze",
+          "subLevel": 1,
+          "threshold": 1
+        },
+        {
+          "tier": "argent",
+          "subLevel": 1,
+          "threshold": 3
+        },
+        {
+          "tier": "or",
+          "subLevel": 1,
+          "threshold": 8
+        },
+        {
+          "tier": "lycans",
+          "subLevel": 1,
+          "threshold": 15
+        }
+      ],
+      "mainTeamOnly": false
+    }
+  ],
+  "players": {
+    "76561198913595171": {
+      "playerId": "76561198913595171",
+      "playerName": "M3lv1",
+      "totalUnlocked": 8,
+      "achievements": [
+        {
+          "id": "victories-villageois",
+          "currentValue": 3,
+          "recentValue": 3,
+          "recentGameIds": [
+            "Rigner-20260719122746",
+            "Rigner-20260719135247",
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719122746"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.6
+        },
+        {
+          "id": "wolf-sabotages",
+          "currentValue": 2,
+          "recentValue": 2,
+          "recentGameIds": [
+            "Rigner-20260719120747",
+            "Rigner-20260719125134"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 3
+          },
+          "progress": 0.6666666666666666
+        },
+        {
+          "id": "wolf-kills",
+          "currentValue": 4,
+          "recentValue": 4,
+          "recentGameIds": [
+            "Rigner-20260719120747",
+            "Rigner-20260719125134"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.8
+        },
+        {
+          "id": "hunter-killed-by-wolf",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 5
+          },
+          "progress": 0.2
+        },
+        {
+          "id": "solo-master",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "max-loot-single-game",
+          "currentValue": 305,
+          "recentValue": 305,
+          "recentGameIds": [
+            "Rigner-20260719122746"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 400
+          },
+          "progress": 0.7625
+        },
+        {
+          "id": "spider-man-pointing",
+          "currentValue": 2,
+          "recentValue": 2,
+          "recentGameIds": [
+            "Rigner-20260719122746",
+            "Rigner-20260719135247"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719122746"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.4
+        },
+        {
+          "id": "colors-of-lycans",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719122746"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719122746"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 2
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "winning-months",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719141224"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "resurrected",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        }
+      ]
+    },
+    "76561199001967591": {
+      "playerId": "76561199001967591",
+      "playerName": "MioMeph",
+      "totalUnlocked": 10,
+      "achievements": [
+        {
+          "id": "victories-villageois",
+          "currentValue": 5,
+          "recentValue": 5,
+          "recentGameIds": [
+            "Rigner-20260719120747",
+            "Rigner-20260719122746",
+            "Rigner-20260719125134",
+            "Rigner-20260719135247",
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            },
+            {
+              "tier": "bronze",
+              "subLevel": 2,
+              "threshold": 5,
+              "unlockedAtGame": "Rigner-20260719141224"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 3,
+            "threshold": 10
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "death-turn1",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719122746"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "wolf-kills",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719143922"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.2
+        },
+        {
+          "id": "solo-master",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "villageois-top-loot",
+          "currentValue": 2,
+          "recentValue": 2,
+          "recentGameIds": [
+            "Rigner-20260719120747",
+            "Rigner-20260719133611"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 5
+          },
+          "progress": 0.4
+        },
+        {
+          "id": "max-loot-single-game",
+          "currentValue": 485,
+          "recentValue": 485,
+          "recentGameIds": [
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 400,
+              "unlockedAtGame": "Rigner-20260719141224"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 600
+          },
+          "progress": 0.8083333333333333
+        },
+        {
+          "id": "zombie-item-uses",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "spider-man-pointing",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719135247"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719135247"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.2
+        },
+        {
+          "id": "colors-of-lycans",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719120747"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 2
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "winning-months",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719145757"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719145757"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "resurrected",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        }
+      ]
+    },
+    "76561198007547842": {
+      "playerId": "76561198007547842",
+      "playerName": "axelwlt",
+      "totalUnlocked": 6,
+      "achievements": [
+        {
+          "id": "victories-villageois",
+          "currentValue": 3,
+          "recentValue": 3,
+          "recentGameIds": [
+            "Rigner-20260719125134",
+            "Rigner-20260719135247",
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719125134"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.6
+        },
+        {
+          "id": "speed-run",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "death-turn1",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719133611"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "zombie-kills",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719133611"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719133611"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "wolf-kills",
+          "currentValue": 3,
+          "recentValue": 3,
+          "recentGameIds": [
+            "Rigner-20260719122746"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719122746"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.6
+        },
+        {
+          "id": "hunter-killed-by-wolf",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719135247"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 5
+          },
+          "progress": 0.2
+        },
+        {
+          "id": "max-loot-single-game",
+          "currentValue": 315,
+          "recentValue": 315,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 400
+          },
+          "progress": 0.7875
+        },
+        {
+          "id": "meneur",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719145757"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719145757"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "colors-of-lycans",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719125134"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719125134"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 2
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "resurrected",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719133611"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719133611"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        }
+      ]
+    },
+    "76561199503876418": {
+      "playerId": "76561199503876418",
+      "playerName": "CorbaxUwU",
+      "totalUnlocked": 13,
+      "achievements": [
+        {
+          "id": "victories-villageois",
+          "currentValue": 5,
+          "recentValue": 5,
+          "recentGameIds": [
+            "Rigner-20260719120747",
+            "Rigner-20260719122746",
+            "Rigner-20260719125134",
+            "Rigner-20260719135247",
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            },
+            {
+              "tier": "bronze",
+              "subLevel": 2,
+              "threshold": 5,
+              "unlockedAtGame": "Rigner-20260719143922"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 3,
+            "threshold": 10
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "wolf-survived-hunter-shot",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719141224"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 4
+          },
+          "progress": 0.25
+        },
+        {
+          "id": "wolf-loss-harvest-no-kills",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719141224"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 4
+          },
+          "progress": 0.25
+        },
+        {
+          "id": "speed-run",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "wolf-sabotages",
+          "currentValue": 4,
+          "recentValue": 4,
+          "recentGameIds": [
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719141224"
+            },
+            {
+              "tier": "bronze",
+              "subLevel": 2,
+              "threshold": 3,
+              "unlockedAtGame": "Rigner-20260719141224"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 3,
+            "threshold": 5
+          },
+          "progress": 0.8
+        },
+        {
+          "id": "wolf-kills",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719133611"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719133611"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.2
+        },
+        {
+          "id": "loup-devin-ultimate",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719133611"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719133611"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "max-loot-single-game",
+          "currentValue": 250,
+          "recentValue": 250,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 400
+          },
+          "progress": 0.625
+        },
+        {
+          "id": "wolf-transform-kill-nights",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719133611"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "spider-man-pointing",
+          "currentValue": 2,
+          "recentValue": 2,
+          "recentGameIds": [
+            "Rigner-20260719122746",
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719122746"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.4
+        },
+        {
+          "id": "colors-of-lycans",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719120747"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 2
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "winning-months",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719143922"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "juste-un-dernier-verre",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719125134"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719125134"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "collectionneur",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719125134"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719125134"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        }
+      ]
+    },
+    "76561198789380722": {
+      "playerId": "76561198789380722",
+      "playerName": "Yara",
+      "totalUnlocked": 4,
+      "achievements": [
+        {
+          "id": "victories-villageois",
+          "currentValue": 4,
+          "recentValue": 4,
+          "recentGameIds": [
+            "Rigner-20260719120747",
+            "Rigner-20260719122746",
+            "Rigner-20260719125134",
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.8
+        },
+        {
+          "id": "lost-after-camp-switch",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719143922"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "death-turn1",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "max-loot-single-game",
+          "currentValue": 295,
+          "recentValue": 295,
+          "recentGameIds": [
+            "Rigner-20260719122746"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 400
+          },
+          "progress": 0.7375
+        },
+        {
+          "id": "colors-of-lycans",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719120747"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 2
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "resurrected",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719143922"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        }
+      ]
+    },
+    "76561198111374489": {
+      "playerId": "76561198111374489",
+      "playerName": "Joy",
+      "totalUnlocked": 9,
+      "achievements": [
+        {
+          "id": "victories-villageois",
+          "currentValue": 3,
+          "recentValue": 3,
+          "recentGameIds": [
+            "Rigner-20260719120747",
+            "Rigner-20260719122746",
+            "Rigner-20260719125134"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.6
+        },
+        {
+          "id": "victories-loup",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719145757"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719145757"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.2
+        },
+        {
+          "id": "death-turn1",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "wolf-kills",
+          "currentValue": 9,
+          "recentValue": 9,
+          "recentGameIds": [
+            "Rigner-20260719131417",
+            "Rigner-20260719135247",
+            "Rigner-20260719141224",
+            "Rigner-20260719145757"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            },
+            {
+              "tier": "bronze",
+              "subLevel": 2,
+              "threshold": 5,
+              "unlockedAtGame": "Rigner-20260719145757"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 3,
+            "threshold": 15
+          },
+          "progress": 0.6
+        },
+        {
+          "id": "consecutive-same-victim-kill",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 5
+          },
+          "progress": 0.2
+        },
+        {
+          "id": "same-color-kills",
+          "currentValue": 2,
+          "recentValue": 2,
+          "recentGameIds": [
+            "Rigner-20260719145757"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.6666666666666666
+        },
+        {
+          "id": "revenge-kill",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719145757"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "loup-devin-ultimate",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719141224"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "villageois-top-loot",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719125134"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 5
+          },
+          "progress": 0.2
+        },
+        {
+          "id": "max-loot-single-game",
+          "currentValue": 420,
+          "recentValue": 420,
+          "recentGameIds": [
+            "Rigner-20260719125134"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 400,
+              "unlockedAtGame": "Rigner-20260719125134"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 600
+          },
+          "progress": 0.7
+        },
+        {
+          "id": "wolf-transform-kill-nights",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719135247"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "meneur",
+          "currentValue": 2,
+          "recentValue": 2,
+          "recentGameIds": [
+            "Rigner-20260719120747"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 3
+          },
+          "progress": 0.6666666666666666
+        },
+        {
+          "id": "colors-of-lycans",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719120747"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 2
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "collectionneur",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719122746"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719122746"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        }
+      ]
+    },
+    "76561198064367175": {
+      "playerId": "76561198064367175",
+      "playerName": "Holdener",
+      "totalUnlocked": 12,
+      "achievements": [
+        {
+          "id": "victories-villageois",
+          "currentValue": 5,
+          "recentValue": 5,
+          "recentGameIds": [
+            "Rigner-20260719120747",
+            "Rigner-20260719122746",
+            "Rigner-20260719135247",
+            "Rigner-20260719141224",
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            },
+            {
+              "tier": "bronze",
+              "subLevel": 2,
+              "threshold": 5,
+              "unlockedAtGame": "Rigner-20260719143922"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 3,
+            "threshold": 10
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "speed-run",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "wolf-sabotages",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719125134"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719125134"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "death-turn1",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719122746"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "zombie-kills",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "wolf-kills",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719125134"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719125134"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.2
+        },
+        {
+          "id": "revenge-kill",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719125134"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "solo-master",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "villageois-top-loot",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719135247"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 5
+          },
+          "progress": 0.2
+        },
+        {
+          "id": "max-loot-single-game",
+          "currentValue": 690,
+          "recentValue": 690,
+          "recentGameIds": [
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 400,
+              "unlockedAtGame": "Rigner-20260719141224"
+            },
+            {
+              "tier": "argent",
+              "subLevel": 1,
+              "threshold": 600,
+              "unlockedAtGame": "Rigner-20260719141224"
+            }
+          ],
+          "nextLevel": {
+            "tier": "or",
+            "subLevel": 1,
+            "threshold": 850
+          },
+          "progress": 0.8117647058823529
+        },
+        {
+          "id": "wolf-transform-kill-nights",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719125134"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "lone-non-voter",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719125134"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719125134"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "colors-of-lycans",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719120747"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 2
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "winning-months",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719145757"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719145757"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "resurrected",
+          "currentValue": 2,
+          "recentValue": 2,
+          "recentGameIds": [
+            "Rigner-20260719131417",
+            "Rigner-20260719145757"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.6666666666666666
+        }
+      ]
+    },
+    "76561198277339785": {
+      "playerId": "76561198277339785",
+      "playerName": "Karnarok",
+      "totalUnlocked": 8,
+      "achievements": [
+        {
+          "id": "victories-villageois",
+          "currentValue": 5,
+          "recentValue": 5,
+          "recentGameIds": [
+            "Rigner-20260719120747",
+            "Rigner-20260719122746",
+            "Rigner-20260719135247",
+            "Rigner-20260719141224",
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            },
+            {
+              "tier": "bronze",
+              "subLevel": 2,
+              "threshold": 5,
+              "unlockedAtGame": "Rigner-20260719143922"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 3,
+            "threshold": 10
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "speed-run",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "starvation",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719141224"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "death-turn1",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719120747"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "villageois-top-loot",
+          "currentValue": 2,
+          "recentValue": 2,
+          "recentGameIds": [
+            "Rigner-20260719143922",
+            "Rigner-20260719145757"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 5
+          },
+          "progress": 0.4
+        },
+        {
+          "id": "max-loot-single-game",
+          "currentValue": 370,
+          "recentValue": 370,
+          "recentGameIds": [
+            "Rigner-20260719135247"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 400
+          },
+          "progress": 0.925
+        },
+        {
+          "id": "spider-man-pointing",
+          "currentValue": 2,
+          "recentValue": 2,
+          "recentGameIds": [
+            "Rigner-20260719131417",
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.4
+        },
+        {
+          "id": "meneur",
+          "currentValue": 2,
+          "recentValue": 2,
+          "recentGameIds": [
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719143922"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 3
+          },
+          "progress": 0.6666666666666666
+        },
+        {
+          "id": "colors-of-lycans",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719120747"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 2
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "winning-months",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719145757"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719145757"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "collectionneur",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719145757"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719145757"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        }
+      ]
+    },
+    "76561199216324750": {
+      "playerId": "76561199216324750",
+      "playerName": "MôA",
+      "totalUnlocked": 7,
+      "achievements": [
+        {
+          "id": "victories-villageois",
+          "currentValue": 3,
+          "recentValue": 3,
+          "recentGameIds": [
+            "Rigner-20260719120747",
+            "Rigner-20260719141224",
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.6
+        },
+        {
+          "id": "victories-solo",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 2
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "speed-run",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "wolf-kills",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719122746"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719122746"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.2
+        },
+        {
+          "id": "vaudou-triple-resurrect",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "solo-master",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "max-loot-single-game",
+          "currentValue": 215,
+          "recentValue": 215,
+          "recentGameIds": [
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 400
+          },
+          "progress": 0.5375
+        },
+        {
+          "id": "spider-man-pointing",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719141224"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.2
+        },
+        {
+          "id": "colors-of-lycans",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719120747"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 2
+          },
+          "progress": 0.5
+        }
+      ]
+    },
+    "76561198330793890": {
+      "playerId": "76561198330793890",
+      "playerName": "Stacy176",
+      "totalUnlocked": 11,
+      "achievements": [
+        {
+          "id": "victories-villageois",
+          "currentValue": 5,
+          "recentValue": 5,
+          "recentGameIds": [
+            "Rigner-20260719120747",
+            "Rigner-20260719122746",
+            "Rigner-20260719125134",
+            "Rigner-20260719141224",
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            },
+            {
+              "tier": "bronze",
+              "subLevel": 2,
+              "threshold": 5,
+              "unlockedAtGame": "Rigner-20260719143922"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 3,
+            "threshold": 10
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "victories-loup",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719145757"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719145757"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.2
+        },
+        {
+          "id": "wolf-survived-hunter-shot",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 4
+          },
+          "progress": 0.25
+        },
+        {
+          "id": "speed-run",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "lost-after-camp-switch",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719135247"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719135247"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "wolf-kills",
+          "currentValue": 6,
+          "recentValue": 6,
+          "recentGameIds": [
+            "Rigner-20260719131417",
+            "Rigner-20260719145757"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            },
+            {
+              "tier": "bronze",
+              "subLevel": 2,
+              "threshold": 5,
+              "unlockedAtGame": "Rigner-20260719145757"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 3,
+            "threshold": 15
+          },
+          "progress": 0.4
+        },
+        {
+          "id": "hunter-killed-by-wolf",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 5
+          },
+          "progress": 0.2
+        },
+        {
+          "id": "same-color-kills",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719145757"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "max-loot-single-game",
+          "currentValue": 300,
+          "recentValue": 300,
+          "recentGameIds": [
+            "Rigner-20260719135247"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 400
+          },
+          "progress": 0.75
+        },
+        {
+          "id": "lone-non-voter",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719141224"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "colors-of-lycans",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719120747"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 2
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "winning-months",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719145757"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719145757"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "resurrected",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719135247"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719135247"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        }
+      ]
+    },
+    "76561198047490206": {
+      "playerId": "76561198047490206",
+      "playerName": "Rigner",
+      "totalUnlocked": 13,
+      "achievements": [
+        {
+          "id": "victories-villageois",
+          "currentValue": 2,
+          "recentValue": 2,
+          "recentGameIds": [
+            "Rigner-20260719125134",
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719125134"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.4
+        },
+        {
+          "id": "victories-solo",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719133611"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719133611"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 2
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "wolf-survived-hunter-shot",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719135247"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719135247"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 4
+          },
+          "progress": 0.25
+        },
+        {
+          "id": "wolf-sabotages",
+          "currentValue": 3,
+          "recentValue": 3,
+          "recentGameIds": [
+            "Rigner-20260719120747",
+            "Rigner-20260719135247"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            },
+            {
+              "tier": "bronze",
+              "subLevel": 2,
+              "threshold": 3,
+              "unlockedAtGame": "Rigner-20260719135247"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 3,
+            "threshold": 5
+          },
+          "progress": 0.6
+        },
+        {
+          "id": "alakazam",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719125134"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719125134"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "wolf-kills",
+          "currentValue": 5,
+          "recentValue": 5,
+          "recentGameIds": [
+            "Rigner-20260719120747",
+            "Rigner-20260719135247"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719120747"
+            },
+            {
+              "tier": "bronze",
+              "subLevel": 2,
+              "threshold": 5,
+              "unlockedAtGame": "Rigner-20260719135247"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 3,
+            "threshold": 15
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "solo-master",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719133611"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719133611"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "max-loot-single-game",
+          "currentValue": 495,
+          "recentValue": 495,
+          "recentGameIds": [
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 400,
+              "unlockedAtGame": "Rigner-20260719141224"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 600
+          },
+          "progress": 0.825
+        },
+        {
+          "id": "wolf-transform-kill-nights",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719120747"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "spider-man-pointing",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719141224"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.2
+        },
+        {
+          "id": "meneur",
+          "currentValue": 2,
+          "recentValue": 2,
+          "recentGameIds": [
+            "Rigner-20260719125134",
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719125134"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 3
+          },
+          "progress": 0.6666666666666666
+        },
+        {
+          "id": "colors-of-lycans",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719125134"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719125134"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 2
+          },
+          "progress": 0.5
+        }
+      ]
+    },
+    "76561199562214341": {
+      "playerId": "76561199562214341",
+      "playerName": "daichi",
+      "totalUnlocked": 4,
+      "achievements": [
+        {
+          "id": "victories-villageois",
+          "currentValue": 4,
+          "recentValue": 4,
+          "recentGameIds": [
+            "Rigner-20260719122746",
+            "Rigner-20260719125134",
+            "Rigner-20260719135247",
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719122746"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.8
+        },
+        {
+          "id": "speed-run",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "villageois-top-loot",
+          "currentValue": 2,
+          "recentValue": 2,
+          "recentGameIds": [
+            "Rigner-20260719122746",
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 5
+          },
+          "progress": 0.4
+        },
+        {
+          "id": "max-loot-single-game",
+          "currentValue": 385,
+          "recentValue": 385,
+          "recentGameIds": [
+            "Rigner-20260719122746"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 400
+          },
+          "progress": 0.9625
+        },
+        {
+          "id": "spider-man-pointing",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.2
+        },
+        {
+          "id": "colors-of-lycans",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719122746"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719122746"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 2
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "winning-months",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719143922"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        }
+      ]
+    },
+    "76561198272864922": {
+      "playerId": "76561198272864922",
+      "playerName": "Adrasse",
+      "totalUnlocked": 12,
+      "achievements": [
+        {
+          "id": "victories-villageois",
+          "currentValue": 3,
+          "recentValue": 3,
+          "recentGameIds": [
+            "Rigner-20260719125134",
+            "Rigner-20260719135247",
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719125134"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.6
+        },
+        {
+          "id": "zombie-kills",
+          "currentValue": 3,
+          "recentValue": 3,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            },
+            {
+              "tier": "argent",
+              "subLevel": 1,
+              "threshold": 3,
+              "unlockedAtGame": "Rigner-20260719131417"
+            }
+          ],
+          "nextLevel": {
+            "tier": "or",
+            "subLevel": 1,
+            "threshold": 8
+          },
+          "progress": 0.375
+        },
+        {
+          "id": "wolf-kills",
+          "currentValue": 2,
+          "recentValue": 2,
+          "recentGameIds": [
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719143922"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 5
+          },
+          "progress": 0.4
+        },
+        {
+          "id": "same-color-kills",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719143922"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "solo-master",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "villageois-top-loot",
+          "currentValue": 2,
+          "recentValue": 2,
+          "recentGameIds": [
+            "Rigner-20260719135247",
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 1,
+            "threshold": 5
+          },
+          "progress": 0.4
+        },
+        {
+          "id": "max-loot-single-game",
+          "currentValue": 695,
+          "recentValue": 695,
+          "recentGameIds": [
+            "Rigner-20260719141224"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 400,
+              "unlockedAtGame": "Rigner-20260719141224"
+            },
+            {
+              "tier": "argent",
+              "subLevel": 1,
+              "threshold": 600,
+              "unlockedAtGame": "Rigner-20260719141224"
+            }
+          ],
+          "nextLevel": {
+            "tier": "or",
+            "subLevel": 1,
+            "threshold": 850
+          },
+          "progress": 0.8176470588235294
+        },
+        {
+          "id": "bavard",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719125134"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719125134"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "colors-of-lycans",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719125134"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719125134"
+            }
+          ],
+          "nextLevel": {
+            "tier": "bronze",
+            "subLevel": 2,
+            "threshold": 2
+          },
+          "progress": 0.5
+        },
+        {
+          "id": "winning-months",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719145757"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719145757"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "resurrected",
+          "currentValue": 1,
+          "recentValue": 1,
+          "recentGameIds": [
+            "Rigner-20260719131417"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719131417"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.3333333333333333
+        },
+        {
+          "id": "collectionneur",
+          "currentValue": 2,
+          "recentValue": 2,
+          "recentGameIds": [
+            "Rigner-20260719135247",
+            "Rigner-20260719145757"
+          ],
+          "unlockedLevels": [
+            {
+              "tier": "bronze",
+              "subLevel": 1,
+              "threshold": 1,
+              "unlockedAtGame": "Rigner-20260719135247"
+            }
+          ],
+          "nextLevel": {
+            "tier": "argent",
+            "subLevel": 1,
+            "threshold": 3
+          },
+          "progress": 0.6666666666666666
+        }
+      ]
+    }
+  }
+}
