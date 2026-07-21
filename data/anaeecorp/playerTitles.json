@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-07-21T22:59:25.323Z",
+  "teamName": "Anaee Corp",
+  "totalPlayers": 0,
+  "minGamesRequired": 25,
+  "moddedGamesAnalyzed": 17,
+  "percentileThresholds": {
+    "EXTREME_HIGH": 85,
+    "HIGH": 65,
+    "ABOVE_AVERAGE": 55,
+    "BELOW_AVERAGE": 45,
+    "LOW": 35,
+    "EXTREME_LOW": 15
+  },
+  "players": {}
+}
