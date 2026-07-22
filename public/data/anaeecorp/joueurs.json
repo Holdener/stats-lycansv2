@@ -1,5 +1,5 @@
 {
-  "TotalRecords": 13,
+  "TotalRecords": 14,
   "Players": [
     {
       "Joueur": "Adrasse",
@@ -16,6 +16,14 @@
       "Twitch": null,
       "Youtube": null,
       "Couleur": "Turquoise"
+    },
+    {
+      "Joueur": "Botmog",
+      "SteamID": "76561198385910638",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Violet"
     },
     {
       "Joueur": "CorbaxUwU",
