@@ -158,7 +158,7 @@ export function PlayerCampChart() {
     const playerTotalGames = new Map<string, number>();
     
     for (const player of playerPerformance) {
-      const totalGames = player.campPerformance.reduce((sum, cp) => sum + cp.games, 0);
+      const totalGames = player.totalGames;
       playerTotalGames.set(player.player, totalGames);
       
       for (const cp of player.campPerformance) {
