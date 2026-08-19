@@ -24,6 +24,17 @@ function parseDeathTimingDay(deathTiming: string | null): number | null {
 }
 
 /**
+ * Parse a game version string (e.g. "0.201", "0.98") into its integer build number.
+ * Cannot use parseFloat: "0.98" (build 98) would incorrectly compare as greater than "0.201" (build 201).
+ */
+function parseVersionNumber(version: string | null | undefined): number | null {
+  if (!version) return null;
+  const match = version.match(/^0\.(\d+)$/);
+  if (!match) return null;
+  return parseInt(match[1], 10);
+}
+
+/**
  * Player survival statistics for a specific day
  */
 export interface PlayerSurvivalStats {
@@ -268,5 +279,127 @@ export function getWorstSurvivorsForDay(
       timesSurvivedDay: player.survivalsByDay[dayNumber] || 0
     }))
     .sort((a, b) => a.survivalRate - b.survivalRate)
+    .slice(0, CHART_LIMITS.TOP_15);
+}
+
+/**
+ * Per-player average percentage of game time spent alive
+ */
+export interface PlayerTimeAliveStats {
+  playerName: string;
+  gamesAnalyzed: number; // Number of games with valid dates used to compute the average
+  averagePercentageAlive: number;
+}
+
+export interface TimeAliveStatistics {
+  totalGamesAnalyzed: number; // Number of games with valid Start/End dates
+  playerTimeAliveStats: PlayerTimeAliveStats[];
+}
+
+/**
+ * Calculate, for each player, the average percentage of a game's real-time duration
+ * they were alive, based on GameLogEntry.StartDate/EndDate and PlayerStat.DeathDateIrl.
+ * Games with missing/invalid Start or End dates are skipped.
+ */
+export function computeTimeAliveStatistics(gameData: GameLogEntry[], campFilter?: string): TimeAliveStatistics | null {
+  if (gameData.length === 0) {
+    return null;
+  }
+
+  const playerMap: Record<string, { playerName: string; totalPercentage: number; gamesAnalyzed: number }> = {};
+  let totalGamesAnalyzed = 0;
+
+  gameData.forEach(game => {
+    // DeathDateIrl is only reliably populated from version 0.201 onward
+    const versionNumber = parseVersionNumber(game.Version);
+    if (versionNumber === null || versionNumber < 201) {
+      return;
+    }
+
+    const gameStart = new Date(game.StartDate).getTime();
+    const gameEnd = new Date(game.EndDate).getTime();
+    const gameDuration = gameEnd - gameStart;
+
+    if (!gameDuration || gameDuration <= 0 || isNaN(gameDuration)) {
+      return; // Skip games with invalid or missing dates
+    }
+
+    let gameCounted = false;
+
+    game.PlayerStats.forEach(player => {
+      if (campFilter && campFilter !== 'Tous les camps') {
+        const playerCamp = getPlayerCampFromRole(player.MainRoleInitial, {
+          regroupLovers: true,
+          regroupVillagers: true,
+          regroupWolfSubRoles: false
+        });
+
+        if (playerCamp !== campFilter) {
+          return; // Skip this player if not in selected camp
+        }
+      }
+
+      let aliveDuration = gameDuration;
+      if (player.DeathDateIrl) {
+        const deathTime = new Date(player.DeathDateIrl).getTime();
+        if (!isNaN(deathTime)) {
+          // Clamp to handle any inconsistent data (death time outside game bounds)
+          aliveDuration = Math.max(0, Math.min(deathTime - gameStart, gameDuration));
+        }
+      }
+
+      const percentageAlive = (aliveDuration / gameDuration) * 100;
+      const playerName = player.Username;
+
+      if (!playerMap[playerName]) {
+        playerMap[playerName] = { playerName, totalPercentage: 0, gamesAnalyzed: 0 };
+      }
+      playerMap[playerName].totalPercentage += percentageAlive;
+      playerMap[playerName].gamesAnalyzed++;
+      gameCounted = true;
+    });
+
+    if (gameCounted) {
+      totalGamesAnalyzed++;
+    }
+  });
+
+  const playerTimeAliveStats = Object.values(playerMap)
+    .filter(player => player.gamesAnalyzed > 0)
+    .map(player => ({
+      playerName: player.playerName,
+      gamesAnalyzed: player.gamesAnalyzed,
+      averagePercentageAlive: player.totalPercentage / player.gamesAnalyzed
+    }));
+
+  return {
+    totalGamesAnalyzed,
+    playerTimeAliveStats
+  };
+}
+
+/**
+ * Get players with the highest average percentage of time alive
+ */
+export function getTopTimeAliveStats(
+  timeAliveStats: TimeAliveStatistics,
+  minGames: number = MIN_GAMES_DEFAULTS.MEDIUM
+): PlayerTimeAliveStats[] {
+  return timeAliveStats.playerTimeAliveStats
+    .filter(player => player.gamesAnalyzed >= minGames)
+    .sort((a, b) => b.averagePercentageAlive - a.averagePercentageAlive)
+    .slice(0, CHART_LIMITS.TOP_15);
+}
+
+/**
+ * Get players with the lowest average percentage of time alive
+ */
+export function getWorstTimeAliveStats(
+  timeAliveStats: TimeAliveStatistics,
+  minGames: number = MIN_GAMES_DEFAULTS.MEDIUM
+): PlayerTimeAliveStats[] {
+  return timeAliveStats.playerTimeAliveStats
+    .filter(player => player.gamesAnalyzed >= minGames)
+    .sort((a, b) => a.averagePercentageAlive - b.averagePercentageAlive)
     .slice(0, CHART_LIMITS.TOP_15);
 }

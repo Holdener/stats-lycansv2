@@ -1,20 +1,25 @@
 import { useMemo, useState } from 'react';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Rectangle } from 'recharts';
-import { useSeerStats, type SeerKillerStat, type SeerVictimStat } from '../../hooks/useSeerStats';
-import { useNavigation } from '../../context/NavigationContext';
-import { useSettings } from '../../context/SettingsContext';
-import { useJoueursData } from '../../hooks/useJoueursData';
-import { useThemeAdjustedDynamicPlayersColor } from '../../types/api';
-import { FullscreenChart } from '../common/FullscreenChart';
-import { CHART_LIMITS, MIN_GAMES_OPTIONS, MIN_GAMES_DEFAULTS } from '../../config/chartConstants';
+import type { SeerStatsData, SeerKillerStat, SeerVictimStat } from '../../../hooks/useSeerStats';
+import { useNavigation } from '../../../context/NavigationContext';
+import { useSettings } from '../../../context/SettingsContext';
+import { useJoueursData } from '../../../hooks/useJoueursData';
+import { useThemeAdjustedDynamicPlayersColor } from '../../../types/api';
+import { FullscreenChart } from '../../common/FullscreenChart';
+import { CHART_LIMITS, MIN_GAMES_OPTIONS, MIN_GAMES_DEFAULTS } from '../../../config/chartConstants';
 
 type ChartKillerStat = SeerKillerStat & { isHighlightedAddition?: boolean };
 type ChartVictimStat = SeerVictimStat & { isHighlightedAddition?: boolean };
 
-export function SeerStatsChart() {
+interface SeerViewProps {
+  data: SeerStatsData | null;
+  isLoading: boolean;
+  error: string | null;
+}
+
+export function SeerView({ data, isLoading, error }: SeerViewProps) {
   const { navigateToGameDetails } = useNavigation();
   const { settings } = useSettings();
-  const { data, isLoading, error } = useSeerStats();
   const { joueursData } = useJoueursData();
   const playersColor = useThemeAdjustedDynamicPlayersColor(joueursData);
 
@@ -76,8 +81,7 @@ export function SeerStatsChart() {
   if (!data) return <div className="donnees-manquantes">Aucune donnée disponible</div>;
 
   return (
-    <div className="lycans-players-stats">
-      <h2>Boule de Cristal</h2>
+    <div>
       <p className="lycans-stats-info">
         Statistiques des kills et morts par boule de cristal  — uniquement les parties en version 0.284+.
         {' '}{data.eligibleGamesCount} partie{data.eligibleGamesCount > 1 ? 's' : ''} éligible{data.eligibleGamesCount > 1 ? 's' : ''}.
