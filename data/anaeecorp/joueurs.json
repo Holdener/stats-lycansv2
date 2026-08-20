@@ -1,5 +1,5 @@
 {
-  "TotalRecords": 21,
+  "TotalRecords": 23,
   "Players": [
     {
       "Joueur": "Adrasse",
@@ -71,7 +71,7 @@
       "Image": null,
       "Twitch": null,
       "Youtube": null,
-      "Couleur": "Jaune"
+      "Couleur": "Violet"
     },
     {
       "Joueur": "Irockad",
@@ -154,6 +154,14 @@
       "Couleur": "Orange"
     },
     {
+      "Joueur": "Spirographe",
+      "SteamID": "76561198064703885",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Vert pomme"
+    },
+    {
       "Joueur": "Stacy176",
       "SteamID": "76561198330793890",
       "Image": null,
@@ -168,6 +176,14 @@
       "Twitch": null,
       "Youtube": null,
       "Couleur": "Gris"
+    },
+    {
+      "Joueur": "Zuliniel",
+      "SteamID": "76561198043171943",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Rouge"
     }
   ],
   "description": "Player data extracted from game logs. Social media links not available."
