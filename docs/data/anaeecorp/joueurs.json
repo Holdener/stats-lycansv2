@@ -1,5 +1,5 @@
 {
-  "TotalRecords": 23,
+  "TotalRecords": 26,
   "Players": [
     {
       "Joueur": "Adrasse",
@@ -106,6 +106,14 @@
       "Couleur": "Jaune"
     },
     {
+      "Joueur": "Lord Azaruss",
+      "SteamID": "76561198316125070",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Vert foncé"
+    },
+    {
       "Joueur": "M3lv1",
       "SteamID": "76561198913595171",
       "Image": null,
@@ -146,6 +154,14 @@
       "Couleur": "Marron"
     },
     {
+      "Joueur": "Mumux",
+      "SteamID": "76561198061978533",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Vert pomme"
+    },
+    {
       "Joueur": "Rigner",
       "SteamID": "76561198047490206",
       "Image": null,
@@ -168,6 +184,14 @@
       "Twitch": null,
       "Youtube": null,
       "Couleur": "Turquoise"
+    },
+    {
+      "Joueur": "TchoupTchoup",
+      "SteamID": "76561199273408997",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Marron"
     },
     {
       "Joueur": "Yara",
