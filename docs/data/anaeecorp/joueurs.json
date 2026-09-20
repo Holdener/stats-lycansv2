@@ -1,5 +1,5 @@
 {
-  "TotalRecords": 26,
+  "TotalRecords": 27,
   "Players": [
     {
       "Joueur": "Adrasse",
@@ -16,6 +16,14 @@
       "Twitch": null,
       "Youtube": null,
       "Couleur": "Turquoise"
+    },
+    {
+      "Joueur": "AlpiLegis",
+      "SteamID": "76561199015177731",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Rouge"
     },
     {
       "Joueur": "Aré",
