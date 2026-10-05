@@ -1,5 +1,5 @@
 {
-  "TotalRecords": 27,
+  "TotalRecords": 29,
   "Players": [
     {
       "Joueur": "Adrasse",
@@ -74,6 +74,14 @@
       "Couleur": "Gris"
     },
     {
+      "Joueur": "Fluffy - Liszto v 3.7",
+      "SteamID": "76561197984691737",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Bleu royal"
+    },
+    {
       "Joueur": "Holdener",
       "SteamID": "76561198064367175",
       "Image": null,
@@ -112,6 +120,14 @@
       "Twitch": null,
       "Youtube": null,
       "Couleur": "Jaune"
+    },
+    {
+      "Joueur": "LM4_lunaxy",
+      "SteamID": "76561198791487287",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Gris"
     },
     {
       "Joueur": "Lord Azaruss",
