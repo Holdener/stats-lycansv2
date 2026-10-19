@@ -1,5 +1,5 @@
 {
-  "TotalRecords": 29,
+  "TotalRecords": 37,
   "Players": [
     {
       "Joueur": "Adrasse",
@@ -56,6 +56,14 @@
       "Twitch": null,
       "Youtube": null,
       "Couleur": "Gris"
+    },
+    {
+      "Joueur": "colflori",
+      "SteamID": "76561199591416876",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Bleu royal"
     },
     {
       "Joueur": "CorbaxUwU",
@@ -122,6 +130,14 @@
       "Couleur": "Jaune"
     },
     {
+      "Joueur": "Leyte",
+      "SteamID": "76561198880871177",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Rouge"
+    },
+    {
       "Joueur": "LM4_lunaxy",
       "SteamID": "76561198791487287",
       "Image": null,
@@ -138,6 +154,14 @@
       "Couleur": "Vert foncé"
     },
     {
+      "Joueur": "LUNAX",
+      "SteamID": "76561199583477898",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Bleu royal"
+    },
+    {
       "Joueur": "M3lv1",
       "SteamID": "76561198913595171",
       "Image": null,
@@ -152,6 +176,14 @@
       "Twitch": null,
       "Youtube": null,
       "Couleur": "Turquoise"
+    },
+    {
+      "Joueur": "mharty",
+      "SteamID": "76561199127231440",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Jaune"
     },
     {
       "Joueur": "MioMeph",
@@ -186,6 +218,30 @@
       "Couleur": "Vert pomme"
     },
     {
+      "Joueur": "Nalfius",
+      "SteamID": "76561198340192188",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Violet"
+    },
+    {
+      "Joueur": "pau",
+      "SteamID": "76561198862692817",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Violet"
+    },
+    {
+      "Joueur": "PsYkoo bebouh",
+      "SteamID": "76561199196130001",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Jaune"
+    },
+    {
       "Joueur": "Rigner",
       "SteamID": "76561198047490206",
       "Image": null,
@@ -216,6 +272,14 @@
       "Twitch": null,
       "Youtube": null,
       "Couleur": "Marron"
+    },
+    {
+      "Joueur": "viserion",
+      "SteamID": "76561198252871868",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Gris"
     },
     {
       "Joueur": "Yara",
