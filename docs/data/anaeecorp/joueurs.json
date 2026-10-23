@@ -1,5 +1,5 @@
 {
-  "TotalRecords": 37,
+  "TotalRecords": 39,
   "Players": [
     {
       "Joueur": "Adrasse",
@@ -128,6 +128,14 @@
       "Twitch": null,
       "Youtube": null,
       "Couleur": "Jaune"
+    },
+    {
+      "Joueur": "LePiloteG",
+      "SteamID": "76561199502272222",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Vert pomme"
     },
     {
       "Joueur": "Leyte",
@@ -288,6 +296,14 @@
       "Twitch": null,
       "Youtube": null,
       "Couleur": "Gris"
+    },
+    {
+      "Joueur": "Ziz'",
+      "SteamID": "76561198709332345",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Jaune"
     },
     {
       "Joueur": "Zuliniel",
