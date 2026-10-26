@@ -63,7 +63,7 @@ export interface DeathStatisticsState {
   selectedCamp: string;
   victimCampFilter?: string;
   minGamesForAverage: number;
-  selectedView?: 'killers' | 'deaths' | 'hunter' | 'survival' | 'meetingSurvival'; // Which view is currently displayed
+  selectedView?: 'killers' | 'deaths' | 'hunter' | 'survival' | 'meetingSurvival' | 'seer'; // Which view is currently displayed
   focusChart?: 'totalKills' | 'averageKills' | 'totalDeaths' | 'survivalRate'; // Which chart to focus on when navigating
 }
 
@@ -136,6 +136,10 @@ export interface PlayerSynergyState {
   minSameCampGames: number;
 }
 
+export interface SurvivalViewState {
+  minGamesForTimeAlive: number;
+}
+
 export interface NavigationState {
   // PlayerGameHistoryChart state
   selectedPlayerName?: string;
@@ -169,6 +173,7 @@ export interface NavigationState {
   monthlyRankingState?: MonthlyRankingState;
   potionScrollStatsState?: PotionScrollStatsState;
   playerSynergyState?: PlayerSynergyState;
+  survivalViewState?: SurvivalViewState;
 }
 
 interface NavigationContextType {
