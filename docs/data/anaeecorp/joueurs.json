@@ -82,14 +82,6 @@
       "Couleur": "Gris"
     },
     {
-      "Joueur": "Fluffy - Liszto v 3.7",
-      "SteamID": "76561197984691737",
-      "Image": null,
-      "Twitch": null,
-      "Youtube": null,
-      "Couleur": "Bleu royal"
-    },
-    {
       "Joueur": "Holdener",
       "SteamID": "76561198064367175",
       "Image": null,
@@ -144,6 +136,14 @@
       "Twitch": null,
       "Youtube": null,
       "Couleur": "Rouge"
+    },
+    {
+      "Joueur": "Liszto",
+      "SteamID": "76561197984691737",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Bleu royal"
     },
     {
       "Joueur": "LM4_lunaxy",
