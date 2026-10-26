@@ -42,10 +42,10 @@ export function usePreCalculatedPlayerRankings(playerName: string | null): {
         setIsLoading(true);
         setError(null);
 
-        // Use the appropriate data source path
-        const dataPath = settings.dataSource === 'discord' 
-          ? '/data/discord/playerRankings.json'
-          : '/data/playerRankings.json';
+      // Si la source est 'main', on utilise le chemin racine, sinon on intègre le nom de la source
+    const dataPath =  settings.dataSource === 'main'
+    ? '/data/playerRankings.json'
+    : `/data/${settings.dataSource}/playerRankings.json`;
 
         const response = await fetch(dataPath);
         if (!response.ok) {
