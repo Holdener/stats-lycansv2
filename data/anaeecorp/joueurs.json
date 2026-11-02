@@ -1,5 +1,5 @@
 {
-  "TotalRecords": 39,
+  "TotalRecords": 41,
   "Players": [
     {
       "Joueur": "Adrasse",
@@ -80,6 +80,14 @@
       "Twitch": null,
       "Youtube": null,
       "Couleur": "Gris"
+    },
+    {
+      "Joueur": "GrognYass",
+      "SteamID": "76561199583009383",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Orange"
     },
     {
       "Joueur": "Holdener",
@@ -248,6 +256,14 @@
       "Twitch": null,
       "Youtube": null,
       "Couleur": "Jaune"
+    },
+    {
+      "Joueur": "Redfoxx",
+      "SteamID": "76561199096351831",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Rose"
     },
     {
       "Joueur": "Rigner",
