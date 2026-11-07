@@ -1,5 +1,5 @@
 {
-  "TotalRecords": 41,
+  "TotalRecords": 43,
   "Players": [
     {
       "Joueur": "Adrasse",
@@ -103,7 +103,7 @@
       "Image": null,
       "Twitch": null,
       "Youtube": null,
-      "Couleur": "Jaune"
+      "Couleur": "Marron"
     },
     {
       "Joueur": "Joy",
@@ -194,6 +194,14 @@
       "Couleur": "Turquoise"
     },
     {
+      "Joueur": "Mary",
+      "SteamID": "76561199585357059",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Gris"
+    },
+    {
       "Joueur": "mharty",
       "SteamID": "76561199127231440",
       "Image": null,
@@ -263,7 +271,7 @@
       "Image": null,
       "Twitch": null,
       "Youtube": null,
-      "Couleur": "Rose"
+      "Couleur": "Violet"
     },
     {
       "Joueur": "Rigner",
@@ -320,6 +328,14 @@
       "Twitch": null,
       "Youtube": null,
       "Couleur": "Jaune"
+    },
+    {
+      "Joueur": "ZrTProut",
+      "SteamID": "76561198070249263",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Bleu royal"
     },
     {
       "Joueur": "Zuliniel",
