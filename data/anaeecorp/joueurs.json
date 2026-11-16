@@ -1,5 +1,5 @@
 {
-  "TotalRecords": 43,
+  "TotalRecords": 44,
   "Players": [
     {
       "Joueur": "Adrasse",
@@ -312,6 +312,14 @@
       "Twitch": null,
       "Youtube": null,
       "Couleur": "Gris"
+    },
+    {
+      "Joueur": "Xeijines",
+      "SteamID": "76561198061674507",
+      "Image": null,
+      "Twitch": null,
+      "Youtube": null,
+      "Couleur": "Violet"
     },
     {
       "Joueur": "Yara",
